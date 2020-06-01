@@ -5,8 +5,8 @@ This repository contains courses for [GT Bike V Mod](https://de.gta5-mods.com/sc
 
 ## Courses
 
-| Course Name | Description | Author |
-| :---------- | :---------- | :----- |
+| Course Name | Distance | Elevation Gain | Road Type | Author |
+| :---------- | :------- | :------------- | :-------- | :----- |
 
 There are no courses yet.
 
