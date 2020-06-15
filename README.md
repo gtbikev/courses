@@ -7,6 +7,7 @@ This repository contains courses for [GT Bike V Mod](https://de.gta5-mods.com/sc
 | Course Name        | Distance  | Description                      |
 | :----------------- | :-------- | :------------------------------- |
 | mtb_mount_chilliad | 6mi/9.8km | Mtb trails around mount chilliad |
+| road_los_santos    |
 
 ## Download
 
