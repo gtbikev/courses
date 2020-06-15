@@ -26,7 +26,7 @@ The following rules must be followed before a pull request will be accepted:
 * Pull request must have the following files commited: *map editor (.xml)*, *course (.json) file*.
 * Map editor or course file should have the following naming convention: ````<category>_<description>````.
 * Course has to be tested to ensure a smooth end user experience and to prevent multiple releases.
-* Don't update README.md. It will be updated once a release will be done.
+* Don't update CHANGELOG, LICENSE or README. These files will be updated once a release will be done.
 
 ## License
 
