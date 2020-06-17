@@ -4,10 +4,11 @@ This repository contains courses for [GT Bike V Mod](https://de.gta5-mods.com/sc
 
 ## Courses
 
-| Course Name        | Distance     | Elevation  | Description                      | Author         |
-| :----------------- | :----------- | :--------- | :------------------------------- | :------------- |
-| gravel_west_coast  | 12.1km/7.5mi | 158m/518ft | Gravel roads on the west coast   | Matthias Urech |
-| mtb_mount_chilliad | 9.8km/6mi    | 137m/449ft | Mtb trails around mount chilliad | Matthias Urech |
+| Course Name        | Distance      | Elevation  | Description                      | Author         |
+| :----------------- | :------------ | :--------- | :------------------------------- | :------------- |
+| gravel_west_coast  | 12.1km/7.5mi  | 158m/518ft | Gravel roads on the west coast   | Matthias Urech |
+| mtb_mount_chilliad | 9.8km/6mi     | 137m/449ft | Mtb trails around mount chilliad | Matthias Urech |
+| road_docklands     | 17.0km/10.5mi | 190m/623ft | Roads in Los Santos harbor area  | Matthias Urech |
 
 ## Download
 
@@ -22,7 +23,7 @@ Courses are divided into the following categories: fun, gravel, mixed, mtb, road
 **Rules**  
 The following rules must be followed before a pull request will be accepted:
 * You cannot publish a course that you do not own unless you have permission from the owner/creator
-* All courses in this repository are licensed under [Creative Commons Public Domain (CC0) license](https://creativecommons.org/share-your-work/public-domain/cc0/) In order to waive all copyrights and related or neighboring rights, add the following comment with the pull request: *I, {your name} hereby waive all copyright and related or neighboring rights together with all associated claims and causes of action with respect to this work to the extent possible under the law*
+* All courses in this repository are licensed under [Creative Commons Public Domain (CC0) license](https://creativecommons.org/share-your-work/public-domain/cc0/). In order to waive all copyrights and related or neighboring rights, add the following comment with the pull request: *I, {your name} hereby waive all copyright and related or neighboring rights together with all associated claims and causes of action with respect to this work to the extent possible under the law*.
 * Pull request must have the following metadata information in the comment: *course name, distance, elevation, description, author*
 * Pull request must have the following files commited: *map editor (.xml)*, *course (.json) file*
 * Map editor or course file should have the following naming convention: ````<category>_<description>````
