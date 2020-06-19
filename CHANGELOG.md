@@ -1,6 +1,10 @@
 # Courses - Changelog
 This changelog goes through all the changes that have been made in each release.
 
+## v0.4.0 (2020-06-19)
+
+* bmx_redwood_lights - bmx race track
+
 ## v0.3.0 (2020-06-18)
 
 * road_docklands - roads in los santos harbor area
