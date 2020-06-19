@@ -6,6 +6,7 @@ This repository contains courses for [GT Bike V Mod](https://de.gta5-mods.com/sc
 
 | Course Name        | Distance      | Elevation  | Description                      | Author         |
 | :----------------- | :------------ | :--------- | :------------------------------- | :------------- |
+| bmx_redwood_lights | 1.8km/1.1mi   | 31m/101ft  | BMX race track                   | Matthias Urech |
 | gravel_west_coast  | 12.1km/7.5mi  | 158m/518ft | Gravel roads on the west coast   | Matthias Urech |
 | mtb_mount_chilliad | 9.8km/6mi     | 137m/449ft | Mtb trails around mount chilliad | Matthias Urech |
 | road_docklands     | 17.0km/10.5mi | 190m/623ft | Roads in Los Santos harbor area  | Matthias Urech |
@@ -18,7 +19,7 @@ Download **Courses** from the [release](https://github.com/gtbikev/courses/relea
 Any contributions to the project are welcomed, it's recommended to use GitHub [pull requests](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests).
 
 **Categories**  
-Courses are divided into the following categories: fun, gravel, mixed, mtb, road
+Courses are divided into the following categories: bmx, gravel, mtb, road
 
 **Rules**  
 The following rules must be followed before a pull request will be accepted:
