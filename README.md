@@ -10,6 +10,7 @@ This repository contains courses for [GT Bike V Mod](https://de.gta5-mods.com/sc
 | gravel_west_coast  | 12.1km/7.5mi  | 158m/518ft | Gravel roads on the west coast   | Matthias Urech |
 | mtb_mount_chilliad | 9.8km/6mi     | 137m/449ft | Mtb trails around mount chilliad | Matthias Urech |
 | road_docklands     | 17.0km/10.5mi | 190m/623ft | Roads in Los Santos harbor area  | Matthias Urech |
+| road_route_68      | 7.3km/4.5mi   | 114m/374ft | TT course on route 68            | Matthias Urech |
 
 ## Download
 
