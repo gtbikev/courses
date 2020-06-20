@@ -1,6 +1,10 @@
 # Courses - Changelog
 This changelog goes through all the changes that have been made in each release.
 
+## v0.5.0 (2020-06-20)
+
+* road_route_68 - TT course on route 68
+
 ## v0.4.0 (2020-06-19)
 
 * bmx_redwood_lights - bmx race track
