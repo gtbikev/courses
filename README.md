@@ -20,11 +20,11 @@ All courses support the `latest official release` (0.2.3) of [GT Bike V Mod](htt
 
 | Course Name        | Course Release                                                  | GT Bike V 0.2.3 (Release) | GT Bike V 0.3.1 (Beta) |
 | :----------------- | :-------------------------------------------------------------- | :-------------- | :----------- |
-| bmx_redwood_lights | [0.5.0](https://github.com/gtbikev/courses/releases/tag/v0.5.0) | Verified        | Not Tested   |
-| gravel_west_coast  | [0.5.0](https://github.com/gtbikev/courses/releases/tag/v0.5.0) | Verified        | Not Tested   |
-| mtb_mount_chilliad | [0.5.0](https://github.com/gtbikev/courses/releases/tag/v0.5.0) | Verified        | Not Tested   |
-| road_docklands     | [0.5.0](https://github.com/gtbikev/courses/releases/tag/v0.5.0) | Verified        | Not Tested   |
-| road_route_68      | [0.5.0](https://github.com/gtbikev/courses/releases/tag/v0.5.0) | Verified        | Not Tested   |
+| bmx_redwood_lights | [0.5.0](https://github.com/gtbikev/courses/releases/tag/v0.5.0) | Verified        | Not Tested - [Verify](https://github.com/gtbikev/courses/issues/16) |
+| gravel_west_coast  | [0.5.0](https://github.com/gtbikev/courses/releases/tag/v0.5.0) | Verified        | Not Tested - [Verify](https://github.com/gtbikev/courses/issues/17) |
+| mtb_mount_chilliad | [0.5.0](https://github.com/gtbikev/courses/releases/tag/v0.5.0) | Verified        | Not Tested - [Verify](https://github.com/gtbikev/courses/issues/18) |
+| road_docklands     | [0.5.0](https://github.com/gtbikev/courses/releases/tag/v0.5.0) | Verified        | Not Tested - [Verify](https://github.com/gtbikev/courses/issues/19) |
+| road_route_68      | [0.5.0](https://github.com/gtbikev/courses/releases/tag/v0.5.0) | Verified        | Not Tested - [Verify](https://github.com/gtbikev/courses/issues/20) |
 
 ## Contributing
 
