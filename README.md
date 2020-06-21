@@ -30,7 +30,7 @@ All courses support the `latest official release` (0.2.3) of [GT Bike V Mod](htt
 
 There are many ways in which you can participate in the project, for example:
 
-* [Download](https://github.com/gtbikev/courses/releases), test ride courses and provide [feedback](https://github.com/gtbikev/courses/issues) about `supported versions`
+* [Download](https://github.com/gtbikev/courses/releases), test ride courses and provide [feedback](https://github.com/gtbikev/courses/issues?q=is%3Aissue+is%3Aopen+label%3Averify) about `supported versions`
 * [Submit bugs and feature requests](https://github.com/gtbikev/courses/issues), and help verify as they are checked in
 * Submit new courses or fixing existing issues (see guidelines)
 
