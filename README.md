@@ -18,7 +18,7 @@ Courses are divided into the following categories: bmx, gravel, mtb, road
 
 All courses support the `latest official release` (0.2.3) of [GT Bike V Mod](https://de.gta5-mods.com/scripts/gt-bike-v). The following table lists the supported versions.
 
-| Course Name        | Course Release                                                  | 0.2.3 (Release) | 0.3.1 (Beta) |
+| Course Name        | Course Release                                                  | GT Bike V 0.2.3 (Release) | GT Bike V 0.3.1 (Beta) |
 | :----------------- | :-------------------------------------------------------------- | :-------------- | :----------- |
 | bmx_redwood_lights | [0.5.0](https://github.com/gtbikev/courses/releases/tag/v0.5.0) | Verified        | Not Tested   |
 | gravel_west_coast  | [0.5.0](https://github.com/gtbikev/courses/releases/tag/v0.5.0) | Verified        | Not Tested   |
