@@ -80,7 +80,7 @@ Below entry is tagging beginning of data table for possible import later
     <td>TT course on route 68</td> <!--Description-->
   </tr>
   <tr>
-    <td>road_Land_Act_Dam_Loop</td> <!--Name - NOTE: Must match filename without ".json" extension-->
+    <td>road_land_act_dam_loop</td> <!--Name - NOTE: Must match filename without ".json" extension-->
     <td>Richard Slaughter</td> <!--Author-->
     <td><a href="http://imgur.com/dFGFELV.jpg">Map</a></td> <!--Map (link to image of route map)-->
     <td>Mix</td> <!--RouteType (road, gravel, mtb, bmx, mix, etc)-->
@@ -91,7 +91,7 @@ Below entry is tagging beginning of data table for possible import later
     <td>Quick loop around Los Santos Pumping Station</td><!--Description-->
   </tr>
   <tr>
-    <td>road_Vinewood_Heights</td> <!--Name - NOTE: Must match filename without ".json" extension-->
+    <td>road_vinewood_heights</td> <!--Name - NOTE: Must match filename without ".json" extension-->
     <td>Richard Slaughter</td> <!--Author-->
     <td><a href="https://imgur.com/QG89zk1.jpg">Map</a></td> <!--Map (link to image of route map)-->
     <td>Road</td> <!--RouteType (road, gravel, mtb, bmx, mix, etc)-->
@@ -102,7 +102,7 @@ Below entry is tagging beginning of data table for possible import later
     <td>A hilly zigzag through ritzy Vinewood Heights</td> <!--Description-->
   </tr>
   <tr>
-    <td>The_Tourist</td> <!--Name - NOTE: Must match filename without ".json" extension-->
+    <td>the_tourist</td> <!--Name - NOTE: Must match filename without ".json" extension-->
     <td>Richard Slaughter</td> <!--Author-->
     <td><a href="http://imgur.com/Zfjny4W.jpg">Map</a></td> <!--Map (link to image of route map)-->
     <td>Road</td> <!--RouteType (road, gravel, mtb, bmx, mix, etc)-->
