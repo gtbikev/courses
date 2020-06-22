@@ -150,9 +150,9 @@ Below entry is tagging beginning of data table for possible import later
 <!--    <td>*</td> <!--Description-->
 <!--  </tr> <!---->
 
-## Supported Versions
+## Supported Releases
 
-All courses support the `latest official release` (0.2.3) of [GT Bike V Mod](https://de.gta5-mods.com/scripts/gt-bike-v). The following table lists the supported versions.
+The following table lists the supported releases.
 
 | Course Name           | Course Release                                                  | Mod Release 0.2.3 | Mod Release 0.3.0.2 (Latest)                          |
 | :-------------------- | :-------------------------------------------------------------- | :---------------- | :---------------------------------------------------- |
@@ -170,7 +170,7 @@ All courses support the `latest official release` (0.2.3) of [GT Bike V Mod](htt
 
 There are many ways in which you can participate in the project, for example:
 
-* [Download](https://github.com/gtbikev/courses/releases), test ride courses and provide [feedback](https://github.com/gtbikev/courses/issues?q=is%3Aissue+is%3Aopen+label%3Averify) about [supported versions](https://github.com/gtbikev/courses/blob/master/README.md#supported-versions)
+* [Download](https://github.com/gtbikev/courses/releases), test ride courses and provide [feedback](https://github.com/gtbikev/courses/issues?q=is%3Aissue+is%3Aopen+label%3Averify) about [supported releases](https://github.com/gtbikev/courses/blob/master/README.md#supported-releases)
 * [Submit bugs and feature requests](https://github.com/gtbikev/courses/issues), and help verify as they are checked in
 * Submit new courses or fixing existing issues (see [guidelines](https://github.com/gtbikev/courses#guidelines))
 
