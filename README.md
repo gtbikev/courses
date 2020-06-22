@@ -6,13 +6,129 @@ This repository contains courses for [GT Bike V Mod](https://de.gta5-mods.com/sc
 
 Courses are divided into the following categories: bmx, gravel, mtb, road
 
-| Course Name        | Distance      | Elevation  | Description                      |
-| :----------------- | :------------ | :--------- | :------------------------------- |
-| bmx_redwood_lights | 1.8km/1.1mi   | 31m/101ft  | BMX race track                   |
-| gravel_west_coast  | 12.1km/7.5mi  | 158m/518ft | Gravel roads on the west coast   |
-| mtb_mount_chilliad | 9.8km/6mi     | 137m/449ft | Mtb trails around mount chilliad |
-| road_docklands     | 17.0km/10.5mi | 190m/623ft | Roads in Los Santos harbor area  |
-| road_route_68      | 7.3km/4.5mi   | 114m/374ft | TT course on route 68            |
+<!--
+Considering possibility of importing from this table into user frontennd, would need
+to ensure entries remain in consistent format
+Below entry is tagging beginning of data table for possible import later
+-->
+<!--***COURSE_TABLE_BEGIN***-->
+<table width ="100%" >
+  <tr>
+    <th>Name</th>
+    <th>Author</th>
+    <th>Map</th>
+    <th>Type</th>
+    <th>Dist(km)</th>
+    <th>Dist(mi)</th>
+    <th>Elev(m)</th>
+    <th>Elev(ft)</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>bmx_redwood_lights</td> <!--Name-->
+    <td>Matthias Urech</td> <!--Author-->
+    <td></td> <!--Map (link to image of route map)-->
+    <td>bmx</td> <!--RouteType (road, gravel, mtb, bmx, mix, etc)-->
+    <td>1.8</td> <!--Distance (km)-->
+    <td>1.1</td> <!--Distance (mi)-->
+    <td>31</td> <!--Elevation (m)-->
+    <td>101</td> <!--Elevation (ft)-->
+    <td>BMX Race Track</td> <!--Description-->
+  </tr>
+  <tr>
+    <td>gravel_west_coast</td> <!--Name-->
+    <td>Matthias Urech</td> <!--Author-->
+    <td></td> <!--Map (link to image of route map)-->
+    <td>gravel</td> <!--RouteType (road, gravel, mtb, bmx, mix, etc)-->
+    <td>12.1</td> <!--Distance (km)-->
+    <td>7.5</td> <!--Distance (mi)-->
+    <td>158</td> <!--Elevation (m)-->
+    <td>518</td> <!--Elevation (ft)-->
+    <td>Gravel roads on the west coast</td> <!--Description-->
+  </tr>
+  <tr>
+    <td>mtb_mount_chilliad</td> <!--Name-->
+    <td>Matthias Urech</td> <!--Author-->
+    <td></td> <!--Map (link to image of route map)-->
+    <td>mtb</td> <!--RouteType (road, gravel, mtb, bmx, mix, etc)-->
+    <td>9.8</td> <!--Distance (km)-->
+    <td>6</td> <!--Distance (mi)-->
+    <td>137</td> <!--Elevation (m)-->
+    <td>449</td> <!--Elevation (ft)-->
+    <td>Mtb trails around mount chilliad</td> <!--Description-->
+  </tr>
+  <tr>
+    <td>road_docklands</td> <!--Name-->
+    <td>Matthias Urech</td> <!--Author-->
+    <td></td> <!--Map (link to image of route map)-->
+    <td>road</td> <!--RouteType (road, gravel, mtb, bmx, mix, etc)-->
+    <td>17</td> <!--Distance (km)-->
+    <td>10.5</td> <!--Distance (mi)-->
+    <td>190</td> <!--Elevation (m)-->
+    <td>623</td> <!--Elevation (ft)-->
+    <td>Roads in Los Santos harbor area</td> <!--Description-->
+  </tr>
+  <tr>
+    <td>road_route_68</td> <!--Name-->
+    <td>Matthias Urech</td> <!--Author-->
+    <td></td> <!--Map (link to image of route map)-->
+    <td>road</td> <!--RouteType (road, gravel, mtb, bmx, mix, etc)-->
+    <td>7.3</td> <!--Distance (km)-->
+    <td>4.5</td> <!--Distance (mi)-->
+    <td>114</td> <!--Elevation (m)-->
+    <td>374</td> <!--Elevation (ft)-->
+    <td>TT course on route 68</td> <!--Description-->
+  </tr>
+  <tr>
+    <td>road_land_act_dam_loop</td> <!--Name - NOTE: Must match filename without ".json" extension-->
+    <td>Richard Slaughter</td> <!--Author-->
+    <td><a href="http://imgur.com/dFGFELV.jpg">Map</a></td> <!--Map (link to image of route map)-->
+    <td>Mix</td> <!--RouteType (road, gravel, mtb, bmx, mix, etc)-->
+    <td>5.0</td> <!--Distance (km)-->
+    <td>3.1</td> <!--Distance (mi)-->
+    <td>116</td> <!--Elevation (m)-->
+    <td>381</td> <!--Elevation (ft)-->
+    <td>Quick loop around Los Santos Pumping Station</td><!--Description-->
+  </tr>
+  <tr>
+    <td>road_vinewood_heights</td> <!--Name - NOTE: Must match filename without ".json" extension-->
+    <td>Richard Slaughter</td> <!--Author-->
+    <td><a href="https://imgur.com/QG89zk1.jpg">Map</a></td> <!--Map (link to image of route map)-->
+    <td>Road</td> <!--RouteType (road, gravel, mtb, bmx, mix, etc)-->
+    <td>8.2</td> <!--Distance (km)-->
+    <td>5.1</td> <!--Distance (mi)-->
+    <td>193</td> <!--Elevation (m)-->
+    <td>634</td> <!--Elevation (ft)-->
+    <td>A hilly zigzag through ritzy Vinewood Heights</td> <!--Description-->
+  </tr>
+  <tr>
+    <td>the_tourist</td> <!--Name - NOTE: Must match filename without ".json" extension-->
+    <td>Richard Slaughter</td> <!--Author-->
+    <td><a href="http://imgur.com/Zfjny4W.jpg">Map</a></td> <!--Map (link to image of route map)-->
+    <td>Road</td> <!--RouteType (road, gravel, mtb, bmx, mix, etc)-->
+    <td>16.7</td> <!--Distance (km)-->
+    <td>10.4</td> <!--Distance (mi)-->
+    <td>311</td> <!--Elevation (m)-->
+    <td>1019</td> <!--Elevation (ft)-->
+    <td>A sightseeing tour through Los Santos</td> <!--Description-->
+  </tr>
+</table>
+<!--***COURSE_TABLE_END***-->
+
+<!-- Template for new entry - copy and paste before "</table>", remove "<!--" from beginning of each row, then replace * with relevant information  -->
+<!--  <tr> <!---->
+<!--    <td>*</td> <!--Name - NOTE: Must match filename without ".json" extension-->
+<!--    <td>*</td> <!--Author-->
+<!--    <td>*</td> <!--Map (link to image of route map)-->
+<!--    <td>*</td> <!--RouteType (road, gravel, mtb, bmx, mix, etc)-->
+<!--    <td>*</td> <!--Distance (km)-->
+<!--    <td>*</td> <!--Distance (mi)-->
+<!--    <td>*</td> <!--Elevation (m)-->
+<!--    <td>*</td> <!--Elevation (ft)-->
+<!--    <td>*</td> <!--Description-->
+<!--  </tr> <!---->
+
+
 
 ## Supported Versions
 
