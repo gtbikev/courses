@@ -28,18 +28,29 @@ Below entry is tagging beginning of data table for possible import later
     <td>bmx_redwood_lights</td> <!--Name-->
     <td>Matthias Urech</td> <!--Author-->
     <td></td> <!--Map (link to image of route map)-->
-    <td>bmx</td> <!--RouteType (road, gravel, mtb, bmx, mix, etc)-->
+    <td>BMX</td> <!--RouteType (road, gravel, mtb, bmx, mix, etc)-->
     <td>1.8</td> <!--Distance (km)-->
     <td>1.1</td> <!--Distance (mi)-->
     <td>31</td> <!--Elevation (m)-->
     <td>101</td> <!--Elevation (ft)-->
-    <td>BMX Race Track</td> <!--Description-->
+    <td>BMX race track on Redwood Lights construction area</td> <!--Description-->
+  </tr>
+  <tr>
+    <td>bmx_richman_golf</td> <!--Name-->
+    <td>Matthias Urech</td> <!--Author-->
+    <td></td> <!--Map (link to image of route map)-->
+    <td>BMX</td> <!--RouteType (road, gravel, mtb, bmx, mix, etc)-->
+    <td>1.3</td> <!--Distance (km)-->
+    <td>0.8</td> <!--Distance (mi)-->
+    <td>31</td> <!--Elevation (m)-->
+    <td>101</td> <!--Elevation (ft)-->
+    <td>BMX practice track on Richman golf course</td> <!--Description-->
   </tr>
   <tr>
     <td>gravel_west_coast</td> <!--Name-->
     <td>Matthias Urech</td> <!--Author-->
     <td></td> <!--Map (link to image of route map)-->
-    <td>gravel</td> <!--RouteType (road, gravel, mtb, bmx, mix, etc)-->
+    <td>Gravel</td> <!--RouteType (road, gravel, mtb, bmx, mix, etc)-->
     <td>12.1</td> <!--Distance (km)-->
     <td>7.5</td> <!--Distance (mi)-->
     <td>158</td> <!--Elevation (m)-->
@@ -47,37 +58,37 @@ Below entry is tagging beginning of data table for possible import later
     <td>Gravel roads on the west coast</td> <!--Description-->
   </tr>
   <tr>
+    <td>gravel_windy_hills</td> <!--Name-->
+    <td>Matthias Urech</td> <!--Author-->
+    <td></td> <!--Map (link to image of route map)-->
+    <td>Gravel</td> <!--RouteType (road, gravel, mtb, bmx, mix, etc)-->
+    <td>9.5</td> <!--Distance (km)-->
+    <td>5.9</td> <!--Distance (mi)-->
+    <td>245</td> <!--Elevation (m)-->
+    <td>803</td> <!--Elevation (ft)-->
+    <td>Gravel loop on Ron Alternates Wind Farm</td> <!--Description-->
+  </tr>
+  <tr>
     <td>mtb_mount_chilliad</td> <!--Name-->
     <td>Matthias Urech</td> <!--Author-->
     <td></td> <!--Map (link to image of route map)-->
-    <td>mtb</td> <!--RouteType (road, gravel, mtb, bmx, mix, etc)-->
+    <td>MTB</td> <!--RouteType (road, gravel, mtb, bmx, mix, etc)-->
     <td>9.8</td> <!--Distance (km)-->
     <td>6</td> <!--Distance (mi)-->
     <td>137</td> <!--Elevation (m)-->
     <td>449</td> <!--Elevation (ft)-->
-    <td>Mtb trails around mount chilliad</td> <!--Description-->
+    <td>MTB trails around Mount Chilliad</td> <!--Description-->
   </tr>
   <tr>
     <td>road_docklands</td> <!--Name-->
     <td>Matthias Urech</td> <!--Author-->
     <td></td> <!--Map (link to image of route map)-->
-    <td>road</td> <!--RouteType (road, gravel, mtb, bmx, mix, etc)-->
-    <td>17</td> <!--Distance (km)-->
+    <td>Road</td> <!--RouteType (road, gravel, mtb, bmx, mix, etc)-->
+    <td>17.0</td> <!--Distance (km)-->
     <td>10.5</td> <!--Distance (mi)-->
     <td>190</td> <!--Elevation (m)-->
     <td>623</td> <!--Elevation (ft)-->
     <td>Roads in Los Santos harbor area</td> <!--Description-->
-  </tr>
-  <tr>
-    <td>road_route_68</td> <!--Name-->
-    <td>Matthias Urech</td> <!--Author-->
-    <td></td> <!--Map (link to image of route map)-->
-    <td>road</td> <!--RouteType (road, gravel, mtb, bmx, mix, etc)-->
-    <td>7.3</td> <!--Distance (km)-->
-    <td>4.5</td> <!--Distance (mi)-->
-    <td>114</td> <!--Elevation (m)-->
-    <td>374</td> <!--Elevation (ft)-->
-    <td>TT course on route 68</td> <!--Description-->
   </tr>
   <tr>
     <td>road_land_act_dam_loop</td> <!--Name - NOTE: Must match filename without ".json" extension-->
@@ -89,6 +100,17 @@ Below entry is tagging beginning of data table for possible import later
     <td>116</td> <!--Elevation (m)-->
     <td>381</td> <!--Elevation (ft)-->
     <td>Quick loop around Los Santos Pumping Station</td><!--Description-->
+  </tr>
+  <tr>
+    <td>road_route_68</td> <!--Name-->
+    <td>Matthias Urech</td> <!--Author-->
+    <td></td> <!--Map (link to image of route map)-->
+    <td>Road</td> <!--RouteType (road, gravel, mtb, bmx, mix, etc)-->
+    <td>7.3</td> <!--Distance (km)-->
+    <td>4.5</td> <!--Distance (mi)-->
+    <td>114</td> <!--Elevation (m)-->
+    <td>374</td> <!--Elevation (ft)-->
+    <td>TT course on route 68</td> <!--Description-->
   </tr>
   <tr>
     <td>road_vinewood_heights</td> <!--Name - NOTE: Must match filename without ".json" extension-->
@@ -128,19 +150,21 @@ Below entry is tagging beginning of data table for possible import later
 <!--    <td>*</td> <!--Description-->
 <!--  </tr> <!---->
 
-
-
 ## Supported Versions
 
 All courses support the `latest official release` (0.2.3) of [GT Bike V Mod](https://de.gta5-mods.com/scripts/gt-bike-v). The following table lists the supported versions.
 
-| Course Name        | Course Release                                                  | GT Bike V 0.2.3 (Release) | GT Bike V 0.3.1 (Beta) |
-| :----------------- | :-------------------------------------------------------------- | :-------------- | :----------- |
-| bmx_redwood_lights | [0.5.0](https://github.com/gtbikev/courses/releases/tag/v0.5.0) | Verified        | Not Tested - [Verify](https://github.com/gtbikev/courses/issues/16) |
-| gravel_west_coast  | [0.5.0](https://github.com/gtbikev/courses/releases/tag/v0.5.0) | Verified        | Not Tested - [Verify](https://github.com/gtbikev/courses/issues/17) |
-| mtb_mount_chilliad | [0.5.0](https://github.com/gtbikev/courses/releases/tag/v0.5.0) | Verified        | Not Tested - [Verify](https://github.com/gtbikev/courses/issues/18) |
-| road_docklands     | [0.5.0](https://github.com/gtbikev/courses/releases/tag/v0.5.0) | Verified        | Not Tested - [Verify](https://github.com/gtbikev/courses/issues/19) |
-| road_route_68      | [0.5.0](https://github.com/gtbikev/courses/releases/tag/v0.5.0) | Verified        | Not Tested - [Verify](https://github.com/gtbikev/courses/issues/20) |
+| Course Name           | Course Release                                                  | 0.2.3 (Release) | 0.3.1 (Beta)                                          | 0.3.2 (Beta) |
+| :-------------------- | :-------------------------------------------------------------- | :-------------- | :---------------------------------------------------- | :----------- |
+| bmx_redwood_lights    | [0.6.0](https://github.com/gtbikev/courses/releases/tag/v0.6.0) | Verified        | Verified                                              | Not Tested   |
+| bmx_richman_golf      | [0.6.0](https://github.com/gtbikev/courses/releases/tag/v0.6.0) | Verified        | Not Tested                                            | Not Tested   |
+| gravel_west_coast     | [0.6.0](https://github.com/gtbikev/courses/releases/tag/v0.6.0) | Verified        | Verified                                              | Not Tested   |
+| gravel_windy_hills    | [0.6.0](https://github.com/gtbikev/courses/releases/tag/v0.6.0) | Verified        | Not Tested                                            | Not Tested   |
+| mtb_mount_chilliad    | [0.6.0](https://github.com/gtbikev/courses/releases/tag/v0.6.0) | Verified        | Verified                                              | Not Tested   |
+| road_docklands        | [0.6.0](https://github.com/gtbikev/courses/releases/tag/v0.6.0) | Verified        | [Issue](https://github.com/gtbikev/courses/issues/22) | Not Tested   |
+| road_route_68         | [0.6.0](https://github.com/gtbikev/courses/releases/tag/v0.6.0) | Verified        | Verified                                              | Not Tested   |
+| road_vinewood_heights | [0.6.0](https://github.com/gtbikev/courses/releases/tag/v0.6.0) | Verified        | Verified                                              | Not Tested   |
+| the_tourist           | [0.6.0](https://github.com/gtbikev/courses/releases/tag/v0.6.0) | Verified        | Verified                                              | Not Tested   |
 
 ## Contributing
 
