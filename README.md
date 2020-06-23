@@ -74,7 +74,7 @@ Below entry is tagging beginning of data table for possible import later
     <td></td> <!--Map (link to image of route map)-->
     <td>MTB</td> <!--RouteType (road, gravel, mtb, bmx, mix, etc)-->
     <td>9.8</td> <!--Distance (km)-->
-    <td>6</td> <!--Distance (mi)-->
+    <td>6.0</td> <!--Distance (mi)-->
     <td>137</td> <!--Elevation (m)-->
     <td>449</td> <!--Elevation (ft)-->
     <td>MTB trails around Mount Chilliad</td> <!--Description-->
