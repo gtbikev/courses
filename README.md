@@ -190,7 +190,7 @@ The following rules must be followed when submitting new courses:
 * Pull request must have the following metadata information in the comment: *course name, distance, elevation, description*
 * Pull request must have the following files commited: *map editor (.xml)*, *course (.json) file*
 
-**Fixing existing issues**
+**Fixing issues**
 
 * Course has to be tested at least against the `latest official release` to ensure a smooth end user experience
 * Don't update CHANGELOG, LICENSE or README. These files will be updated once a release will be done
