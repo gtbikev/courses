@@ -62,8 +62,8 @@ Below entry is tagging beginning of data table for possible import later
     <td>Matthias Urech</td> <!--Author-->
     <td></td> <!--Map (link to image of route map)-->
     <td>Gravel</td> <!--RouteType (road, gravel, mtb, bmx, mix, etc)-->
-    <td>9.5</td> <!--Distance (km)-->
-    <td>5.9</td> <!--Distance (mi)-->
+    <td>9.6</td> <!--Distance (km)-->
+    <td>6.0</td> <!--Distance (mi)-->
     <td>245</td> <!--Elevation (m)-->
     <td>803</td> <!--Elevation (ft)-->
     <td>Gravel loop on Ron Alternates Wind Farm</td> <!--Description-->
