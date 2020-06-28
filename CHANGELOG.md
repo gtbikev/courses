@@ -1,6 +1,21 @@
 # Courses - Changelog
 This changelog goes through all the changes that have been made in each release.
 
+## v0.7.0 (2020-06-28)
+
+**New Routes**
+
+* gravel_vinewoods_racetrack - Gravel loop on Vinewoods racetrack
+* road_central_8 - This route covers central roads in a figure 8 fashion
+
+**Thank You!**
+
+Last but certainly not least, a big thank you to the following people who contributed:
+
+* Madan Mohan (new course: Vinewood Racetrack)
+* Matthias Urech (new course: Central 8)
+
+
 ## v0.6.0 (2020-06-22)
 
 **New Routes**
@@ -15,8 +30,11 @@ This changelog goes through all the changes that have been made in each release.
 
 Last but certainly not least, a big thank you to the following people who contributed:
 
-* Matthias Urech (Richman Golf, Windy Hills)
-* Richard Slaughter​ (Land Act Dam Loop, The Tourist, Vinewood_Heights)
+* Chris Shackleton (testing Docklands course)
+* Matthias Urech (new course: Richman Golf, Windy Hills)
+* Nick Bean (testing Docklands course)
+* Richard Slaughter​ (new course: Land Act Dam Loop, The Tourist, Vinewood Heights)
+* Sadao Ikebe (testing West Coast course)
 
 
 ## v0.5.0 (2020-06-20)
