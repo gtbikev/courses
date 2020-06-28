@@ -6,9 +6,9 @@
     <Marker>
       <Type>UpsideDownCone</Type>
       <Position>
-        <X>936.0188</X>
-        <Y>2248.562</Y>
-        <Z>44.2810326</Z>
+        <X>271.154</X>
+        <Y>2608.262</Y>
+        <Z>44.748</Z>
       </Position>
       <Rotation>
         <X>0</X>
@@ -33,9 +33,9 @@
     <Marker>
       <Type>UpsideDownCone</Type>
       <Position>
-        <X>897.909058</X>
-        <Y>2241.41357</Y>
-        <Z>45.4860878</Z>
+        <X>288.749</X>
+        <Y>2595.457</Y>
+        <Z>44.473</Z>
       </Position>
       <Rotation>
         <X>0</X>
@@ -60,9 +60,9 @@
     <Marker>
       <Type>UpsideDownCone</Type>
       <Position>
-        <X>1090.44763</X>
-        <Y>2170.76123</Y>
-        <Z>52.6119232</Z>
+        <X>285.1175</X>
+        <Y>2648.85474</Y>
+        <Z>43.6518555</Z>
       </Position>
       <Rotation>
         <X>0</X>
@@ -87,9 +87,9 @@
     <Marker>
       <Type>UpsideDownCone</Type>
       <Position>
-        <X>1167.02734</X>
-        <Y>2159.02686</Y>
-        <Z>53.5741463</Z>
+        <X>1710.49585</X>
+        <Y>3513.26147</Y>
+        <Z>35.44542</Z>
       </Position>
       <Rotation>
         <X>0</X>
@@ -114,9 +114,9 @@
     <Marker>
       <Type>UpsideDownCone</Type>
       <Position>
-        <X>990.3729</X>
-        <Y>2258.98047</Y>
-        <Z>47.0669746</Z>
+        <X>2764.19</X>
+        <Y>4397.851</Y>
+        <Z>47.95617</Z>
       </Position>
       <Rotation>
         <X>0</X>
@@ -141,9 +141,9 @@
     <Marker>
       <Type>UpsideDownCone</Type>
       <Position>
-        <X>1041.34583</X>
-        <Y>2410.12</Y>
-        <Z>52.53826</Z>
+        <X>2823.205</X>
+        <Y>4414.255</Y>
+        <Z>47.97734</Z>
       </Position>
       <Rotation>
         <X>0</X>
@@ -168,9 +168,9 @@
     <Marker>
       <Type>UpsideDownCone</Type>
       <Position>
-        <X>1109.21582</X>
-        <Y>2410.283</Y>
-        <Z>49.683445</Z>
+        <X>2920.814</X>
+        <Y>4448.008</Y>
+        <Z>46.9344635</Z>
       </Position>
       <Rotation>
         <X>0</X>
@@ -195,9 +195,9 @@
     <Marker>
       <Type>UpsideDownCone</Type>
       <Position>
-        <X>1165.96375</X>
-        <Y>2393.281</Y>
-        <Z>56.6457138</Z>
+        <X>2787.63525</X>
+        <Y>4963.1084</Y>
+        <Z>32.666893</Z>
       </Position>
       <Rotation>
         <X>0</X>
@@ -222,9 +222,9 @@
     <Marker>
       <Type>UpsideDownCone</Type>
       <Position>
-        <X>1099.70789</X>
-        <Y>2467.39722</Y>
-        <Z>48.77156</Z>
+        <X>2651.97266</X>
+        <Y>5120.73926</Y>
+        <Z>43.7511978</Z>
       </Position>
       <Rotation>
         <X>0</X>
@@ -249,9 +249,9 @@
     <Marker>
       <Type>UpsideDownCone</Type>
       <Position>
-        <X>960.8476</X>
-        <Y>2472.45068</Y>
-        <Z>48.7751732</Z>
+        <X>2597.37915</X>
+        <Y>5107.12256</Y>
+        <Z>43.7427521</Z>
       </Position>
       <Rotation>
         <X>0</X>
@@ -276,9 +276,9 @@
     <Marker>
       <Type>UpsideDownCone</Type>
       <Position>
-        <X>892.4835</X>
-        <Y>2388.8252</Y>
-        <Z>49.4185371</Z>
+        <X>2394.893</X>
+        <Y>5167.119</Y>
+        <Z>48.03342</Z>
       </Position>
       <Rotation>
         <X>0</X>
@@ -303,9 +303,9 @@
     <Marker>
       <Type>UpsideDownCone</Type>
       <Position>
-        <X>873.9173</X>
-        <Y>2324.363</Y>
-        <Z>49.6372681</Z>
+        <X>1973.784</X>
+        <Y>5141.903</Y>
+        <Z>43.193</Z>
       </Position>
       <Rotation>
         <X>0</X>
@@ -330,9 +330,9 @@
     <Marker>
       <Type>UpsideDownCone</Type>
       <Position>
-        <X>903.840637</X>
-        <Y>2278.57544</Y>
-        <Z>44.9413757</Z>
+        <X>1959.377</X>
+        <Y>5144.697</Y>
+        <Z>43.336</Z>
       </Position>
       <Rotation>
         <X>0</X>
@@ -354,11 +354,227 @@
       <OnlyVisibleInEditor>false</OnlyVisibleInEditor>
       <Id>12</Id>
     </Marker>
+    <Marker>
+      <Type>UpsideDownCone</Type>
+      <Position>
+        <X>1676.903</X>
+        <Y>4952.688</Y>
+        <Z>42.390</Z>
+      </Position>
+      <Rotation>
+        <X>0</X>
+        <Y>0</Y>
+        <Z>0</Z>
+      </Rotation>
+      <Scale>
+        <X>0.75</X>
+        <Y>0.75</Y>
+        <Z>0.75</Z>
+      </Scale>
+      <TeleportTarget xsi:nil="true" />
+      <Red>255</Red>
+      <Green>255</Green>
+      <Blue>0</Blue>
+      <Alpha>255</Alpha>
+      <BobUpAndDown>false</BobUpAndDown>
+      <RotateToCamera>false</RotateToCamera>
+      <OnlyVisibleInEditor>false</OnlyVisibleInEditor>
+      <Id>13</Id>
+    </Marker>
+    <Marker>
+      <Type>UpsideDownCone</Type>
+      <Position>
+        <X>2207.188</X>
+        <Y>4738.655</Y>
+        <Z>40.534</Z>
+      </Position>
+      <Rotation>
+        <X>0</X>
+        <Y>0</Y>
+        <Z>0</Z>
+      </Rotation>
+      <Scale>
+        <X>0.75</X>
+        <Y>0.75</Y>
+        <Z>0.75</Z>
+      </Scale>
+      <TeleportTarget xsi:nil="true" />
+      <Red>255</Red>
+      <Green>255</Green>
+      <Blue>0</Blue>
+      <Alpha>255</Alpha>
+      <BobUpAndDown>false</BobUpAndDown>
+      <RotateToCamera>false</RotateToCamera>
+      <OnlyVisibleInEditor>false</OnlyVisibleInEditor>
+      <Id>14</Id>
+    </Marker>
+    <Marker>
+      <Type>UpsideDownCone</Type>
+      <Position>
+        <X>2449.72852</X>
+        <Y>4582.549</Y>
+        <Z>35.97937</Z>
+      </Position>
+      <Rotation>
+        <X>0</X>
+        <Y>0</Y>
+        <Z>0</Z>
+      </Rotation>
+      <Scale>
+        <X>0.75</X>
+        <Y>0.75</Y>
+        <Z>0.75</Z>
+      </Scale>
+      <TeleportTarget xsi:nil="true" />
+      <Red>255</Red>
+      <Green>255</Green>
+      <Blue>0</Blue>
+      <Alpha>255</Alpha>
+      <BobUpAndDown>false</BobUpAndDown>
+      <RotateToCamera>false</RotateToCamera>
+      <OnlyVisibleInEditor>false</OnlyVisibleInEditor>
+      <Id>15</Id>
+    </Marker>
+    <Marker>
+      <Type>UpsideDownCone</Type>
+      <Position>
+        <X>2497.7522</X>
+        <Y>4110.91748</Y>
+        <Z>37.3646164</Z>
+      </Position>
+      <Rotation>
+        <X>0</X>
+        <Y>0</Y>
+        <Z>0</Z>
+      </Rotation>
+      <Scale>
+        <X>0.75</X>
+        <Y>0.75</Y>
+        <Z>0.75</Z>
+      </Scale>
+      <TeleportTarget xsi:nil="true" />
+      <Red>255</Red>
+      <Green>255</Green>
+      <Blue>0</Blue>
+      <Alpha>255</Alpha>
+      <BobUpAndDown>false</BobUpAndDown>
+      <RotateToCamera>false</RotateToCamera>
+      <OnlyVisibleInEditor>false</OnlyVisibleInEditor>
+      <Id>16</Id>
+    </Marker>
+    <Marker>
+      <Type>UpsideDownCone</Type>
+      <Position>
+        <X>1705.77222</X>
+        <Y>3488.24146</Y>
+        <Z>36.08889</Z>
+      </Position>
+      <Rotation>
+        <X>0</X>
+        <Y>0</Y>
+        <Z>0</Z>
+      </Rotation>
+      <Scale>
+        <X>0.75</X>
+        <Y>0.75</Y>
+        <Z>0.75</Z>
+      </Scale>
+      <TeleportTarget xsi:nil="true" />
+      <Red>255</Red>
+      <Green>255</Green>
+      <Blue>0</Blue>
+      <Alpha>255</Alpha>
+      <BobUpAndDown>false</BobUpAndDown>
+      <RotateToCamera>false</RotateToCamera>
+      <OnlyVisibleInEditor>false</OnlyVisibleInEditor>
+      <Id>17</Id>
+    </Marker>
+    <Marker>
+      <Type>UpsideDownCone</Type>
+      <Position>
+        <X>2044.99866</X>
+        <Y>3066.93213</Y>
+        <Z>45.6226425</Z>
+      </Position>
+      <Rotation>
+        <X>0</X>
+        <Y>0</Y>
+        <Z>0</Z>
+      </Rotation>
+      <Scale>
+        <X>0.75</X>
+        <Y>0.75</Y>
+        <Z>0.75</Z>
+      </Scale>
+      <TeleportTarget xsi:nil="true" />
+      <Red>255</Red>
+      <Green>255</Green>
+      <Blue>0</Blue>
+      <Alpha>255</Alpha>
+      <BobUpAndDown>false</BobUpAndDown>
+      <RotateToCamera>false</RotateToCamera>
+      <OnlyVisibleInEditor>false</OnlyVisibleInEditor>
+      <Id>18</Id>
+    </Marker>
+    <Marker>
+      <Type>UpsideDownCone</Type>
+      <Position>
+        <X>903.7079</X>
+        <Y>2699.86475</Y>
+        <Z>39.82834</Z>
+      </Position>
+      <Rotation>
+        <X>0</X>
+        <Y>0</Y>
+        <Z>0</Z>
+      </Rotation>
+      <Scale>
+        <X>0.75</X>
+        <Y>0.75</Y>
+        <Z>0.75</Z>
+      </Scale>
+      <TeleportTarget xsi:nil="true" />
+      <Red>255</Red>
+      <Green>255</Green>
+      <Blue>0</Blue>
+      <Alpha>255</Alpha>
+      <BobUpAndDown>false</BobUpAndDown>
+      <RotateToCamera>false</RotateToCamera>
+      <OnlyVisibleInEditor>false</OnlyVisibleInEditor>
+      <Id>19</Id>
+    </Marker>
+    <Marker>
+      <Type>UpsideDownCone</Type>
+      <Position>
+        <X>307.4511</X>
+        <Y>2645.683</Y>
+        <Z>43.49405</Z>
+      </Position>
+      <Rotation>
+        <X>0</X>
+        <Y>0</Y>
+        <Z>0</Z>
+      </Rotation>
+      <Scale>
+        <X>0.75</X>
+        <Y>0.75</Y>
+        <Z>0.75</Z>
+      </Scale>
+      <TeleportTarget xsi:nil="true" />
+      <Red>255</Red>
+      <Green>255</Green>
+      <Blue>0</Blue>
+      <Alpha>255</Alpha>
+      <BobUpAndDown>false</BobUpAndDown>
+      <RotateToCamera>false</RotateToCamera>
+      <OnlyVisibleInEditor>false</OnlyVisibleInEditor>
+      <Id>20</Id>
+    </Marker>
   </Markers>
   <Metadata>
     <Creator>Matthias Urech</Creator>
-    <Name>bmx_redwood_lights</Name>
-    <Description>BMX racetrack on Redwood Lights construction area</Description>
+    <Name>road_central_8</Name>
+    <Description>This route covers central roads in a figure 8 fashion</Description>
     <LoadingPoint xsi:nil="true" />
     <TeleportPoint xsi:nil="true" />
   </Metadata>

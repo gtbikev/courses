@@ -33,7 +33,7 @@ Below entry is tagging beginning of data table for possible import later
     <td>1.1</td> <!--Distance (mi)-->
     <td>31</td> <!--Elevation (m)-->
     <td>101</td> <!--Elevation (ft)-->
-    <td>BMX race track on Redwood Lights construction area</td> <!--Description-->
+    <td>BMX racetrack on Redwood Lights construction area</td> <!--Description-->
   </tr>
   <tr>
     <td>bmx_richman_golf</td> <!--Name-->
@@ -45,6 +45,17 @@ Below entry is tagging beginning of data table for possible import later
     <td>31</td> <!--Elevation (m)-->
     <td>101</td> <!--Elevation (ft)-->
     <td>BMX practice track on Richman golf course</td> <!--Description-->
+  </tr>
+  <tr>
+    <td>gravel_vinewood_racetrack</td> <!--Name-->
+    <td>Madan Mohan</td> <!--Author-->
+    <td></td> <!--Map (link to image of route map)-->
+    <td>Gravel</td> <!--RouteType (road, gravel, mtb, bmx, mix, etc)-->
+    <td>1.0</td> <!--Distance (km)-->
+    <td>0.6</td> <!--Distance (mi)-->
+    <td>18</td> <!--Elevation (m)-->
+    <td>59</td> <!--Elevation (ft)-->
+    <td>Gravel loop on vinewood racetrack</td> <!--Description-->
   </tr>
   <tr>
     <td>gravel_west_coast</td> <!--Name-->
@@ -78,6 +89,17 @@ Below entry is tagging beginning of data table for possible import later
     <td>139</td> <!--Elevation (m)-->
     <td>456</td> <!--Elevation (ft)-->
     <td>MTB trails around Mount Chilliad</td> <!--Description-->
+  </tr>
+  <tr>
+    <td>road_central_8</td> <!--Name-->
+    <td>Matthias Urech</td> <!--Author-->
+    <td></td> <!--Map (link to image of route map)-->
+    <td>Road</td> <!--RouteType (road, gravel, mtb, bmx, mix, etc)-->
+    <td>11.2</td> <!--Distance (km)-->
+    <td>6.9</td> <!--Distance (mi)-->
+    <td>217</td> <!--Elevation (m)-->
+    <td>712</td> <!--Elevation (ft)-->
+    <td>This route covers central roads in a figure 8 fashion</td> <!--Description-->
   </tr>
   <tr>
     <td>road_docklands</td> <!--Name-->
@@ -154,18 +176,20 @@ Below entry is tagging beginning of data table for possible import later
 
 The following table lists the supported releases.
 
-| Course Name           | Course Release                                                  | Mod Release 0.2.3 | Mod Release 0.3.0.2 (Latest)                          |
-| :--------------------- | :-------------------------------------------------------------- | :---------------- | :--------- |
-| bmx_redwood_lights     | [0.6.0](https://github.com/gtbikev/courses/releases/tag/v0.6.0) | Verified          | Verified   |
-| bmx_richman_golf       | [0.6.0](https://github.com/gtbikev/courses/releases/tag/v0.6.0) | Verified          | Verified   |
-| gravel_west_coast      | [0.6.0](https://github.com/gtbikev/courses/releases/tag/v0.6.0) | Verified          | Verified   |
-| gravel_windy_hills     | [0.6.0](https://github.com/gtbikev/courses/releases/tag/v0.6.0) | Verified          | Verified   |
-| mtb_mount_chilliad     | [0.6.0](https://github.com/gtbikev/courses/releases/tag/v0.6.0) | Verified          | Verified   |
-| road_docklands         | [0.6.0](https://github.com/gtbikev/courses/releases/tag/v0.6.0) | Verified          | Verified   |
-| road_land_act_dam_loop | [0.6.0](https://github.com/gtbikev/courses/releases/tag/v0.6.0) | Verified          | Not Tested |
-| road_route_68          | [0.6.0](https://github.com/gtbikev/courses/releases/tag/v0.6.0) | Verified          | Verified   |
-| road_vinewood_heights  | [0.6.0](https://github.com/gtbikev/courses/releases/tag/v0.6.0) | Verified          | Not Tested |
-| the_tourist            | [0.6.0](https://github.com/gtbikev/courses/releases/tag/v0.6.0) | Verified          | Not Tested |
+| Course Name               | Course Release                                                  | Mod Release 0.2.3 | Mod Release 0.3.0.2 (Latest) |
+| :------------------------ | :-------------------------------------------------------------- | :---------------- | :--------------------------- |
+| bmx_redwood_lights        | [0.7.0](https://github.com/gtbikev/courses/releases/tag/v0.7.0) | Verified          | Verified                     |
+| bmx_richman_golf          | [0.7.0](https://github.com/gtbikev/courses/releases/tag/v0.7.0) | Verified          | Verified                     |
+| gravel_vinewood_racetrack | [0.7.0](https://github.com/gtbikev/courses/releases/tag/v0.7.0) | n/a               | Verified                     |
+| gravel_west_coast         | [0.7.0](https://github.com/gtbikev/courses/releases/tag/v0.7.0) | Verified          | Verified                     |
+| gravel_windy_hills        | [0.7.0](https://github.com/gtbikev/courses/releases/tag/v0.7.0) | Verified          | Verified                     |
+| mtb_mount_chilliad        | [0.7.0](https://github.com/gtbikev/courses/releases/tag/v0.7.0) | Verified          | Verified                     |
+| road_central_8            | [0.7.0](https://github.com/gtbikev/courses/releases/tag/v0.7.0) | n/a               | Verified                     |
+| road_docklands            | [0.7.0](https://github.com/gtbikev/courses/releases/tag/v0.7.0) | Verified          | Verified                     |
+| road_land_act_dam_loop    | [0.7.0](https://github.com/gtbikev/courses/releases/tag/v0.7.0) | Verified          | Not Tested                   |
+| road_route_68             | [0.7.0](https://github.com/gtbikev/courses/releases/tag/v0.7.0) | Verified          | Verified                     |
+| road_vinewood_heights     | [0.7.0](https://github.com/gtbikev/courses/releases/tag/v0.7.0) | Verified          | Not Tested                   |
+| the_tourist               | [0.7.0](https://github.com/gtbikev/courses/releases/tag/v0.7.0) | Verified          | Not Tested                   |
 
 ## Contributing
 
@@ -173,13 +197,13 @@ There are many ways in which you can participate in the project, for example:
 
 * [Download](https://github.com/gtbikev/courses/releases), test ride courses and provide [feedback](https://github.com/gtbikev/courses/issues?q=is%3Aissue+is%3Aopen+label%3Averify) about [supported releases](https://github.com/gtbikev/courses/blob/master/README.md#supported-releases)
 * [Submit bugs and feature requests](https://github.com/gtbikev/courses/issues), and help verify as they are checked in
-* Submit new courses or fixing existing issues (see [guidelines](https://github.com/gtbikev/courses#guidelines))
+* Submit new courses or fixing existing issues
 
 ## Guidelines
 
-**Submit new courses**
+Enclosed you find some guidelines for contributing.
 
-The following rules must be followed when submitting new courses:
+**Submit new courses**
 
 * You cannot publish a course unless you have permission from the owner/creator
 * All courses in this repository are licensed under [Creative Commons Public Domain (CC0) license](https://creativecommons.org/share-your-work/public-domain/cc0/). In order to waive all copyrights and related or neighboring rights, add the following comment with the pull request: *I, {your name} hereby waive all copyright and related or neighboring rights together with all associated claims and causes of action with respect to this work to the extent possible under the law*.
@@ -197,6 +221,23 @@ The following rules must be followed when submitting new courses:
 * It's recommended to use GitHub [pull requests](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests) to fix existing issues
 * Pull request must have the following metadata information in the comment: *course name, distance, elevation, description*
 * Pull request must have the following files commited: *map editor (.xml)*, *course (.json) file*
+
+**Testing courses**
+
+* Use the following testing setup: Auto Drive = `on`, Avoid Obstacles = `on`
+* Document testing hardware device (generation or year), installed mods (with version) and ini file configuration in test report
+* Report issues by specifying waypoint distance and adding waypoint images or videos
+
+> Example:
+> 
+> **Test Setup**  
+> Course: Docklands  
+> Wahoo Kickr Core, 2018  
+> Mods: GT Bike V (0.3.0.2), Map Editor (2.13)  
+> [MAIN] SELECTEDBIKE = TRIBIKE SLOPESCALE = 0.5 DEBUGWINDOW = False INITIALGPSPOINTLAT = -19.106371 INITIALGPSPOINTLONG = -169.870977 FECDEVICEID = 0 IMPERIAL = False > USERWEIGHTKG = 75
+> 
+> **Test Result**  
+> Issue with waypoint 6.9km/4.2km. Rider turns right instead of going straight.
 
 ## License
 
