@@ -331,7 +331,7 @@
   <Metadata>
     <Creator>Matthias Urech</Creator>
     <Name>bmx_richman_golf</Name>
-    <Description />
+    <Description>BMX practice track on Richman golf course</Description>
     <LoadingPoint xsi:nil="true" />
     <TeleportPoint xsi:nil="true" />
   </Metadata>
