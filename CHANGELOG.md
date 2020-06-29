@@ -1,6 +1,25 @@
 # Courses - Changelog
 This changelog goes through all the changes that have been made in each release.
 
+## v0.8.0 (2020-06-29)
+
+**New Routes**
+
+* gravel_grapeseed - Gravel route through fields of Grapeseed
+* gravel_senora_desert - Gravel route through Senora Desert
+
+**Bugfixes**
+
+* road_docklands - fix issue with waypoint 6.9km/4.2mi, rider turns right instead of going straight
+
+**Thank You!**
+
+Last but certainly not least, a big thank you to the following people who contributed:
+
+* Matthias Urech (new course: Grapeseed, Senora Desert, bugfix: Docklands)
+
+---
+
 ## v0.7.0 (2020-06-28)
 
 **New Routes**
@@ -15,6 +34,7 @@ Last but certainly not least, a big thank you to the following people who contri
 * Madan Mohan (new course: Vinewood Racetrack)
 * Matthias Urech (new course: Central 8)
 
+---
 
 ## v0.6.0 (2020-06-22)
 
@@ -36,6 +56,7 @@ Last but certainly not least, a big thank you to the following people who contri
 * Richard Slaughter​ (new course: Land Act Dam Loop, The Tourist, Vinewood Heights)
 * Sadao Ikebe (testing West Coast course)
 
+---
 
 ## v0.5.0 (2020-06-20)
 
@@ -43,6 +64,7 @@ Last but certainly not least, a big thank you to the following people who contri
 
 * road_route_68 - TT course on route 68
 
+---
 
 ## v0.4.0 (2020-06-19)
 
@@ -50,6 +72,7 @@ Last but certainly not least, a big thank you to the following people who contri
 
 * bmx_redwood_lights - BMX race track on Redwood Lights construction area
 
+---
 
 ## v0.3.0 (2020-06-18)
 
@@ -57,6 +80,7 @@ Last but certainly not least, a big thank you to the following people who contri
 
 * road_docklands - Roads in Los Santos harbor area
 
+---
 
 ## v0.2.0 (2020-06-17)
 
@@ -64,6 +88,7 @@ Last but certainly not least, a big thank you to the following people who contri
 
 * gravel_west_coast - Gravel roads on the west coast
 
+---
 
 ## v0.1.0 (2020-06-10)
 
