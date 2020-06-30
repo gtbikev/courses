@@ -47,6 +47,17 @@ Below entry is tagging beginning of data table for possible import later
     <td>BMX practice track on Richman golf course</td> <!--Description-->
   </tr>
   <tr>
+    <td>gravel_el_burro_heights_</td> <!--Name-->
+    <td>Matthias Urech</td> <!--Author-->
+    <td></td> <!--Map (link to image of route map)-->
+    <td>Gravel</td> <!--RouteType (road, gravel, mtb, bmx, mix, etc)-->
+    <td>4.7</td> <!--Distance (km)-->
+    <td>2.9</td> <!--Distance (mi)-->
+    <td>72</td> <!--Elevation (m)-->
+    <td>236</td> <!--Elevation (ft)-->
+    <td> Gravel route around El Burro Heights</td> <!--Description-->
+  </tr>
+  <tr>
     <td>gravel_grapeseed</td> <!--Name-->
     <td>Matthias Urech</td> <!--Author-->
     <td></td> <!--Map (link to image of route map)-->
@@ -200,20 +211,21 @@ The following table lists the supported releases.
 
 | Course Name               | Course Release                                                  | Mod Release 0.2.3 | Mod Release 0.3.0.2 (Latest) |
 | :------------------------ | :-------------------------------------------------------------- | :---------------- | :--------------------------- |
-| bmx_redwood_lights        | [0.8.0](https://github.com/gtbikev/courses/releases/tag/v0.8.0) | Verified          | Verified                     |
-| bmx_richman_golf          | [0.8.0](https://github.com/gtbikev/courses/releases/tag/v0.8.0) | Verified          | Verified                     |
-| gravel_grapeseed          | [0.8.0](https://github.com/gtbikev/courses/releases/tag/v0.8.0) | n/a               | Verified                     |
-| gravel_senora_desert      | [0.8.0](https://github.com/gtbikev/courses/releases/tag/v0.8.0) | n/a               | Verified                     |
-| gravel_vinewood_racetrack | [0.8.0](https://github.com/gtbikev/courses/releases/tag/v0.8.0) | n/a               | Verified                     |
-| gravel_west_coast         | [0.8.0](https://github.com/gtbikev/courses/releases/tag/v0.8.0) | Verified          | Verified                     |
-| gravel_windy_hills        | [0.8.0](https://github.com/gtbikev/courses/releases/tag/v0.8.0) | Verified          | Verified                     |
-| mtb_mount_chilliad        | [0.8.0](https://github.com/gtbikev/courses/releases/tag/v0.8.0) | Verified          | Verified                     |
-| road_central_8            | [0.8.0](https://github.com/gtbikev/courses/releases/tag/v0.8.0) | n/a               | Verified                     |
-| road_docklands            | [0.8.0](https://github.com/gtbikev/courses/releases/tag/v0.8.0) | Verified          | Verified                     |
-| road_land_act_dam_loop    | [0.8.0](https://github.com/gtbikev/courses/releases/tag/v0.8.0) | Verified          | Not Tested                   |
-| road_route_68             | [0.8.0](https://github.com/gtbikev/courses/releases/tag/v0.8.0) | Verified          | Verified                     |
-| road_vinewood_heights     | [0.8.0](https://github.com/gtbikev/courses/releases/tag/v0.8.0) | Verified          | Not Tested                   |
-| the_tourist               | [0.8.0](https://github.com/gtbikev/courses/releases/tag/v0.8.0) | Verified          | Not Tested                   |
+| bmx_redwood_lights        | [0.9.0](https://github.com/gtbikev/courses/releases/tag/v0.9.0) | Verified          | Verified                     |
+| bmx_richman_golf          | [0.9.0](https://github.com/gtbikev/courses/releases/tag/v0.9.0) | Verified          | Verified                     |
+| gravel_el_burro_heights   | [0.9.0](https://github.com/gtbikev/courses/releases/tag/v0.9.0) | n/a               | Verified                     |
+| gravel_grapeseed          | [0.9.0](https://github.com/gtbikev/courses/releases/tag/v0.9.0) | n/a               | Verified                     |
+| gravel_senora_desert      | [0.9.0](https://github.com/gtbikev/courses/releases/tag/v0.9.0) | n/a               | Verified                     |
+| gravel_vinewood_racetrack | [0.9.0](https://github.com/gtbikev/courses/releases/tag/v0.9.0) | n/a               | Verified                     |
+| gravel_west_coast         | [0.9.0](https://github.com/gtbikev/courses/releases/tag/v0.9.0) | Verified          | Verified                     |
+| gravel_windy_hills        | [0.9.0](https://github.com/gtbikev/courses/releases/tag/v0.9.0) | Verified          | Verified                     |
+| mtb_mount_chilliad        | [0.9.0](https://github.com/gtbikev/courses/releases/tag/v0.9.0) | Verified          | Verified                     |
+| road_central_8            | [0.9.0](https://github.com/gtbikev/courses/releases/tag/v0.9.0) | n/a               | Verified                     |
+| road_docklands            | [0.9.0](https://github.com/gtbikev/courses/releases/tag/v0.9.0) | Verified          | Verified                     |
+| road_land_act_dam_loop    | [0.9.0](https://github.com/gtbikev/courses/releases/tag/v0.9.0) | Verified          | Not Tested                   |
+| road_route_68             | [0.9.0](https://github.com/gtbikev/courses/releases/tag/v0.9.0) | Verified          | Verified                     |
+| road_vinewood_heights     | [0.9.0](https://github.com/gtbikev/courses/releases/tag/v0.9.0) | Verified          | Not Tested                   |
+| the_tourist               | [0.9.0](https://github.com/gtbikev/courses/releases/tag/v0.9.0) | Verified          | Not Tested                   |
 
 ## Contributing
 

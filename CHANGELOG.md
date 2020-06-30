@@ -1,6 +1,20 @@
 # Courses - Changelog
 This changelog goes through all the changes that have been made in each release.
 
+## v0.9.0 (2020-06-30)
+
+**New Routes**
+
+* gravel_el_burro_heights - Gravel route around El Burro Heights
+
+**Thank You!**
+
+Last but certainly not least, a big thank you to the following people who contributed:
+
+* Matthias Urech (new course: El Burro Heights)
+
+---
+
 ## v0.8.0 (2020-06-29)
 
 **New Routes**
