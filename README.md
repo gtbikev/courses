@@ -47,7 +47,7 @@ Below entry is tagging beginning of data table for possible import later
     <td>BMX practice track on Richman golf course</td> <!--Description-->
   </tr>
   <tr>
-    <td>gravel_el_burro_heights_</td> <!--Name-->
+    <td>gravel_el_burro_heights</td> <!--Name-->
     <td>Matthias Urech</td> <!--Author-->
     <td></td> <!--Map (link to image of route map)-->
     <td>Gravel</td> <!--RouteType (road, gravel, mtb, bmx, mix, etc)-->
