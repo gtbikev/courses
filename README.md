@@ -4,7 +4,7 @@ This repository contains courses for [GT Bike V Mod](https://de.gta5-mods.com/sc
 
 ## Courses
 
-Courses are divided into the following categories: bmx, gravel, mtb, road
+Courses are divided into the following categories: bmx, gravel, mtb, road. Elevation is calculated based on a slopscale of 0.5.
 
 <!--
 Considering possibility of importing from this table into user frontennd, would need
@@ -31,8 +31,8 @@ Below entry is tagging beginning of data table for possible import later
     <td>BMX</td> <!--RouteType (road, gravel, mtb, bmx, mix, etc)-->
     <td>1.8</td> <!--Distance (km)-->
     <td>1.1</td> <!--Distance (mi)-->
-    <td>31</td> <!--Elevation (m)-->
-    <td>101</td> <!--Elevation (ft)-->
+    <td>62</td> <!--Elevation (m)-->
+    <td>202</td> <!--Elevation (ft)-->
     <td>BMX racetrack on Redwood Lights construction area</td> <!--Description-->
   </tr>
   <tr>
@@ -42,8 +42,8 @@ Below entry is tagging beginning of data table for possible import later
     <td>BMX</td> <!--RouteType (road, gravel, mtb, bmx, mix, etc)-->
     <td>1.3</td> <!--Distance (km)-->
     <td>0.8</td> <!--Distance (mi)-->
-    <td>31</td> <!--Elevation (m)-->
-    <td>101</td> <!--Elevation (ft)-->
+    <td>62</td> <!--Elevation (m)-->
+    <td>202</td> <!--Elevation (ft)-->
     <td>BMX practice track on Richman golf course</td> <!--Description-->
   </tr>
   <tr>
@@ -64,8 +64,8 @@ Below entry is tagging beginning of data table for possible import later
     <td>Gravel</td> <!--RouteType (road, gravel, mtb, bmx, mix, etc)-->
     <td>4.7</td> <!--Distance (km)-->
     <td>2.9</td> <!--Distance (mi)-->
-    <td>72</td> <!--Elevation (m)-->
-    <td>236</td> <!--Elevation (ft)-->
+    <td>144</td> <!--Elevation (m)-->
+    <td>472</td> <!--Elevation (ft)-->
     <td>Gravel route around El Burro Heights</td> <!--Description-->
   </tr>
   <tr>
@@ -75,8 +75,8 @@ Below entry is tagging beginning of data table for possible import later
     <td>Gravel</td> <!--RouteType (road, gravel, mtb, bmx, mix, etc)-->
     <td>4.5</td> <!--Distance (km)-->
     <td>2.8</td> <!--Distance (mi)-->
-    <td>78</td> <!--Elevation (m)-->
-    <td>256</td> <!--Elevation (ft)-->
+    <td>156</td> <!--Elevation (m)-->
+    <td>512</td> <!--Elevation (ft)-->
     <td>Gravel route through fields of Grapeseed</td> <!--Description-->
   </tr>
   <tr>
@@ -86,8 +86,8 @@ Below entry is tagging beginning of data table for possible import later
     <td>Gravel</td> <!--RouteType (road, gravel, mtb, bmx, mix, etc)-->
     <td>8.0</td> <!--Distance (km)-->
     <td>5.0</td> <!--Distance (mi)-->
-    <td>126</td> <!--Elevation (m)-->
-    <td>413</td> <!--Elevation (ft)-->
+    <td>252</td> <!--Elevation (m)-->
+    <td>826</td> <!--Elevation (ft)-->
     <td>Gravel route through Senora Desert</td> <!--Description-->
   </tr>
   <tr>
@@ -108,8 +108,8 @@ Below entry is tagging beginning of data table for possible import later
     <td>Gravel</td> <!--RouteType (road, gravel, mtb, bmx, mix, etc)-->
     <td>12.1</td> <!--Distance (km)-->
     <td>7.5</td> <!--Distance (mi)-->
-    <td>158</td> <!--Elevation (m)-->
-    <td>518</td> <!--Elevation (ft)-->
+    <td>316</td> <!--Elevation (m)-->
+    <td>1036</td> <!--Elevation (ft)-->
     <td>Gravel roads on the west coast</td> <!--Description-->
   </tr>
   <tr>
@@ -119,8 +119,8 @@ Below entry is tagging beginning of data table for possible import later
     <td>Gravel</td> <!--RouteType (road, gravel, mtb, bmx, mix, etc)-->
     <td>9.6</td> <!--Distance (km)-->
     <td>6.0</td> <!--Distance (mi)-->
-    <td>245</td> <!--Elevation (m)-->
-    <td>803</td> <!--Elevation (ft)-->
+    <td>490</td> <!--Elevation (m)-->
+    <td>1606</td> <!--Elevation (ft)-->
     <td>Gravel loop on Ron Alternates Wind Farm</td> <!--Description-->
   </tr>
   <tr>
@@ -130,8 +130,8 @@ Below entry is tagging beginning of data table for possible import later
     <td>MTB</td> <!--RouteType (road, gravel, mtb, bmx, mix, etc)-->
     <td>10.0</td> <!--Distance (km)-->
     <td>6.2</td> <!--Distance (mi)-->
-    <td>139</td> <!--Elevation (m)-->
-    <td>456</td> <!--Elevation (ft)-->
+    <td>278</td> <!--Elevation (m)-->
+    <td>912</td> <!--Elevation (ft)-->
     <td>MTB trails around Mount Chilliad</td> <!--Description-->
   </tr>
   <tr>
@@ -141,8 +141,8 @@ Below entry is tagging beginning of data table for possible import later
     <td>Road</td> <!--RouteType (road, gravel, mtb, bmx, mix, etc)-->
     <td>11.2</td> <!--Distance (km)-->
     <td>6.9</td> <!--Distance (mi)-->
-    <td>217</td> <!--Elevation (m)-->
-    <td>712</td> <!--Elevation (ft)-->
+    <td>434</td> <!--Elevation (m)-->
+    <td>1424</td> <!--Elevation (ft)-->
     <td>This route covers central roads in a figure 8 fashion</td> <!--Description-->
   </tr>
   <tr>
@@ -152,8 +152,8 @@ Below entry is tagging beginning of data table for possible import later
     <td>Road</td> <!--RouteType (road, gravel, mtb, bmx, mix, etc)-->
     <td>17.0</td> <!--Distance (km)-->
     <td>10.5</td> <!--Distance (mi)-->
-    <td>190</td> <!--Elevation (m)-->
-    <td>623</td> <!--Elevation (ft)-->
+    <td>380</td> <!--Elevation (m)-->
+    <td>1246</td> <!--Elevation (ft)-->
     <td>Roads in Los Santos harbor area</td> <!--Description-->
   </tr>
   <tr>
@@ -174,8 +174,8 @@ Below entry is tagging beginning of data table for possible import later
     <td>Road</td> <!--RouteType (road, gravel, mtb, bmx, mix, etc)-->
     <td>7.3</td> <!--Distance (km)-->
     <td>4.5</td> <!--Distance (mi)-->
-    <td>114</td> <!--Elevation (m)-->
-    <td>374</td> <!--Elevation (ft)-->
+    <td>228</td> <!--Elevation (m)-->
+    <td>748</td> <!--Elevation (ft)-->
     <td>TT course on route 68</td> <!--Description-->
   </tr>
   <tr>
@@ -220,23 +220,24 @@ Below entry is tagging beginning of data table for possible import later
 
 The following table lists the supported releases.
 
-| Course Name               | Course Release                                                  | Mod Release 0.2.3 | Mod Release 0.3.0.2 (Latest) |
-| :------------------------ | :-------------------------------------------------------------- | :---------------- | :--------------------------- |
-| bmx_redwood_lights        | [0.9.0](https://github.com/gtbikev/courses/releases/tag/v0.9.0) | Verified          | Verified                     |
-| bmx_richman_golf          | [0.9.0](https://github.com/gtbikev/courses/releases/tag/v0.9.0) | Verified          | Verified                     |
-| gravel_el_burro_heights   | [0.9.0](https://github.com/gtbikev/courses/releases/tag/v0.9.0) | n/a               | Verified                     |
-| gravel_grapeseed          | [0.9.0](https://github.com/gtbikev/courses/releases/tag/v0.9.0) | n/a               | Verified                     |
-| gravel_senora_desert      | [0.9.0](https://github.com/gtbikev/courses/releases/tag/v0.9.0) | n/a               | Verified                     |
-| gravel_vinewood_racetrack | [0.9.0](https://github.com/gtbikev/courses/releases/tag/v0.9.0) | n/a               | Verified                     |
-| gravel_west_coast         | [0.9.0](https://github.com/gtbikev/courses/releases/tag/v0.9.0) | Verified          | Verified                     |
-| gravel_windy_hills        | [0.9.0](https://github.com/gtbikev/courses/releases/tag/v0.9.0) | Verified          | Verified                     |
-| mtb_mount_chilliad        | [0.9.0](https://github.com/gtbikev/courses/releases/tag/v0.9.0) | Verified          | Verified                     |
-| road_central_8            | [0.9.0](https://github.com/gtbikev/courses/releases/tag/v0.9.0) | n/a               | Verified                     |
-| road_docklands            | [0.9.0](https://github.com/gtbikev/courses/releases/tag/v0.9.0) | Verified          | Verified                     |
-| road_land_act_dam_loop    | [0.9.0](https://github.com/gtbikev/courses/releases/tag/v0.9.0) | Verified          | Not Tested                   |
-| road_route_68             | [0.9.0](https://github.com/gtbikev/courses/releases/tag/v0.9.0) | Verified          | Verified                     |
-| road_vinewood_heights     | [0.9.0](https://github.com/gtbikev/courses/releases/tag/v0.9.0) | Verified          | Not Tested                   |
-| the_tourist               | [0.9.0](https://github.com/gtbikev/courses/releases/tag/v0.9.0) | Verified          | Not Tested                   |
+| Course Name               | Course Release                                                    | Mod Release 0.2.3 | Mod Release 0.3.0.2 (Latest) |
+| :------------------------ | :---------------------------------------------------------------- | :---------------- | :--------------------------- |
+| bmx_redwood_lights        | [0.10.0](https://github.com/gtbikev/courses/releases/tag/v0.10.0) | Verified          | Verified                     |
+| bmx_richman_golf          | [0.10.0](https://github.com/gtbikev/courses/releases/tag/v0.10.0) | Verified          | Verified                     |
+| gravel_davis_quartz       | [0.10.0](https://github.com/gtbikev/courses/releases/tag/v0.10.0) | n/a               | Verified                     |
+| gravel_el_burro_heights   | [0.10.0](https://github.com/gtbikev/courses/releases/tag/v0.10.0) | n/a               | Verified                     |
+| gravel_grapeseed          | [0.10.0](https://github.com/gtbikev/courses/releases/tag/v0.10.0) | n/a               | Verified                     |
+| gravel_senora_desert      | [0.10.0](https://github.com/gtbikev/courses/releases/tag/v0.10.0) | n/a               | Verified                     |
+| gravel_vinewood_racetrack | [0.10.0](https://github.com/gtbikev/courses/releases/tag/v0.10.0) | n/a               | Verified                     |
+| gravel_west_coast         | [0.10.0](https://github.com/gtbikev/courses/releases/tag/v0.10.0) | Verified          | Verified                     |
+| gravel_windy_hills        | [0.10.0](https://github.com/gtbikev/courses/releases/tag/v0.10.0) | Verified          | Verified                     |
+| mtb_mount_chilliad        | [0.10.0](https://github.com/gtbikev/courses/releases/tag/v0.10.0) | Verified          | Verified                     |
+| road_central_8            | [0.10.0](https://github.com/gtbikev/courses/releases/tag/v0.10.0) | n/a               | Verified                     |
+| road_docklands            | [0.10.0](https://github.com/gtbikev/courses/releases/tag/v0.10.0) | Verified          | Verified                     |
+| road_land_act_dam_loop    | [0.10.0](https://github.com/gtbikev/courses/releases/tag/v0.10.0) | Verified          | Not Tested                   |
+| road_route_68             | [0.10.0](https://github.com/gtbikev/courses/releases/tag/v0.10.0) | Verified          | Verified                     |
+| road_vinewood_heights     | [0.10.0](https://github.com/gtbikev/courses/releases/tag/v0.10.0) | Verified          | Not Tested                   |
+| the_tourist               | [0.10.0](https://github.com/gtbikev/courses/releases/tag/v0.10.0) | Verified          | Not Tested                   |
 
 ## Contributing
 
@@ -255,7 +256,7 @@ Enclosed you find some guidelines for contributing.
 * You cannot publish a course unless you have permission from the owner/creator
 * All courses in this repository are licensed under [Creative Commons Public Domain (CC0) license](https://creativecommons.org/share-your-work/public-domain/cc0/). In order to waive all copyrights and related or neighboring rights, add the following comment with the pull request: *I, {your name} hereby waive all copyright and related or neighboring rights together with all associated claims and causes of action with respect to this work to the extent possible under the law*.
 * Map editor or course file should have the following naming convention: ````<category>_<description>````
-* Course has to be tested at least against the `latest official release` to ensure a smooth end user experience
+* Course has to be tested with slopescale 0.5 at least against the `latest official release` to ensure a smooth end user experience
 * Don't update CHANGELOG, LICENSE or README. These files will be updated once a release will be done
 * It's recommended to use GitHub [pull requests](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests) to submit new courses
 * Pull request must have the following metadata information in the comment: *course name, distance, elevation, description*
@@ -263,7 +264,7 @@ Enclosed you find some guidelines for contributing.
 
 **Fixing issues**
 
-* Course has to be tested at least against the `latest official release` to ensure a smooth end user experience
+* Course has to be tested with slopescale 0.5 at least against the `latest official release` to ensure a smooth end user experience
 * Don't update CHANGELOG, LICENSE or README. These files will be updated once a release will be done
 * It's recommended to use GitHub [pull requests](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests) to fix existing issues
 * Pull request must have the following metadata information in the comment: *course name, distance, elevation, description*
@@ -271,7 +272,7 @@ Enclosed you find some guidelines for contributing.
 
 **Testing courses**
 
-* Use the following testing setup: Auto Drive = `on`, Avoid Obstacles = `on`
+* Use the following testing setup: Auto Drive = `on`, Avoid Obstacles = `on`, SLOPESCALE `0.5`
 * Document testing hardware device (generation or year), installed mods (with version) and ini file configuration in test report
 * Report issues by specifying waypoint distance and adding waypoint images or videos
 
