@@ -47,6 +47,17 @@ Below entry is tagging beginning of data table for possible import later
     <td>BMX practice track on Richman golf course</td> <!--Description-->
   </tr>
   <tr>
+    <td>gravel_davis_quartz</td> <!--Name-->
+    <td>Matthias Urech</td> <!--Author-->
+    <td></td> <!--Map (link to image of route map)-->
+    <td>Gravel</td> <!--RouteType (road, gravel, mtb, bmx, mix, etc)-->
+    <td>3.8</td> <!--Distance (km)-->
+    <td>2.4</td> <!--Distance (mi)-->
+    <td>66</td> <!--Elevation (m)-->
+    <td>216</td> <!--Elevation (ft)-->
+    <td>Gravel route in Davis Quartz quarry</td> <!--Description-->
+  </tr>
+  <tr>
     <td>gravel_el_burro_heights</td> <!--Name-->
     <td>Matthias Urech</td> <!--Author-->
     <td></td> <!--Map (link to image of route map)-->
@@ -55,7 +66,7 @@ Below entry is tagging beginning of data table for possible import later
     <td>2.9</td> <!--Distance (mi)-->
     <td>72</td> <!--Elevation (m)-->
     <td>236</td> <!--Elevation (ft)-->
-    <td> Gravel route around El Burro Heights</td> <!--Description-->
+    <td>Gravel route around El Burro Heights</td> <!--Description-->
   </tr>
   <tr>
     <td>gravel_grapeseed</td> <!--Name-->
