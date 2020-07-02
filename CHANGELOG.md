@@ -1,6 +1,20 @@
 # Courses - Changelog
 This changelog goes through all the changes that have been made in each release.
 
+## v0.10.0 (2020-07-02)
+
+**New Routes**
+
+* gravel_davis_quartz - Gravel route in Davis Quarty quarry
+
+**Thank You!**
+
+Last but certainly not least, a big thank you to the following people who contributed:
+
+* Matthias Urech (new course: Davis Quartz)
+
+---
+
 ## v0.9.0 (2020-06-30)
 
 **New Routes**
