@@ -1,0 +1,182 @@
+<?xml version="1.0" standalone="yes"?>
+<xs:schema id="GTBikeVApi" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+	<xs:element name="GTBikeVApi" msdata:IsDataSet="true">
+		<xs:complexType>
+			<xs:choice minOccurs="0" maxOccurs="unbounded">
+				<xs:element name="Route">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="RouteID" type="xs:string" minOccurs="0" />
+							<xs:element name="RouteCategoryID" type="xs:string" minOccurs="0" />
+							<xs:element name="RouteDetailID" type="xs:string" minOccurs="0" />
+							<xs:element name="RouteTypeID" type="xs:string" minOccurs="0" />
+							<xs:element name="WaypointConfigID" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="RouteCategory">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="RouteCategoryID" type="xs:string" minOccurs="0" />
+							<xs:element name="RouteCategoryName" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="RouteDetail">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="RouteDetailID" type="xs:string" minOccurs="0" />
+							<xs:element name="RouteDetailAuthor" type="xs:string" minOccurs="0" />
+							<xs:element name="RouteDetailDescription" type="xs:string" minOccurs="0" />
+							<xs:element name="RouteDetailDistanceKm" type="xs:decimal" minOccurs="0" />
+							<xs:element name="RouteDetailDistanceMi" type="xs:decimal" minOccurs="0" />
+							<xs:element name="RouteDetailElevationM" type="xs:int" minOccurs="0" />
+							<xs:element name="RouteDetailElevationFt" type="xs:int" minOccurs="0" />
+							<xs:element name="RouteDetailName" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="RouteMap">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="RouteMapID" type="xs:string" minOccurs="0" />
+							<xs:element name="RouteMapCounty" type="xs:string" minOccurs="0" />
+							<xs:element name="RouteMapLocation" type="xs:string" minOccurs="0" />
+							<xs:element name="RouteMapName" type="xs:string" minOccurs="0" />
+							<xs:element name="RouteMapObject" type="xs:string" minOccurs="0" />
+							<xs:element name="RouteID" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="RouteMedia">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="RouteMediaID" type="xs:string" minOccurs="0" />
+							<xs:element name="RouteMediaDescription" type="xs:string" minOccurs="0" />
+							<xs:element name="RouteMediaFileName" type="xs:string" minOccurs="0" />
+							<xs:element name="RouteMediaFileUrl" type="xs:string" minOccurs="0" />
+							<xs:element name="RouteMediaType" type="xs:string" minOccurs="0" />	
+							<xs:element name="RouteID" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="RouteRating">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="RouteRatingID" type="xs:string" minOccurs="0" />
+							<xs:element name="RouteRatingType" type="xs:string" minOccurs="0" />
+							<xs:element name="RouteRatingValue" type="xs:string" minOccurs="0" />
+							<xs:element name="RouteID" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="RouteSegment">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="RouteSegmentID" type="xs:string" minOccurs="0" />
+							<xs:element name="RouteSegmentDistanceKm" type="xs:decimal" minOccurs="0" />
+							<xs:element name="RouteSegmentDistanceMi" type="xs:decimal" minOccurs="0" />
+							<xs:element name="RouteSegmentElevationM" type="xs:int" minOccurs="0" />
+							<xs:element name="RouteSegmentElevationFt" type="xs:int" minOccurs="0" />
+							<xs:element name="RouteSegmentGradient" type="xs:int" minOccurs="0" />
+							<xs:element name="RouteSegmentName" type="xs:string" minOccurs="0" />
+							<xs:element name="RouteID" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="RouteType">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="RouteTypeID" type="xs:string" minOccurs="0" />
+							<xs:element name="RouteTypeName" type="xs:string" minOccurs="0" />
+							<xs:element name="RouteTypeSurface" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="Waypoint">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="WaypointID" type="xs:string" minOccurs="0" />
+							<xs:element name="WaypointPositionX" type="xs:decimal" minOccurs="0" />
+							<xs:element name="WaypointPositionY" type="xs:decimal" minOccurs="0" />
+							<xs:element name="WaypointPositionZ" type="xs:decimal" minOccurs="0" />
+							<xs:element name="WaypointRotationX" type="xs:decimal" minOccurs="0" />
+							<xs:element name="WaypointRotationY" type="xs:decimal" minOccurs="0" />
+							<xs:element name="WaypointRotationZ" type="xs:decimal" minOccurs="0" />
+							<xs:element name="RouteID" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="WaypointConfig">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="WaypointConfigID" type="xs:string" minOccurs="0" />
+							<xs:element name="WaypointConfigColor" type="xs:string" minOccurs="0" />
+							<xs:element name="WaypointConfigRadius" type="xs:decimal" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:choice>
+		</xs:complexType>
+		<xs:unique name="PK_Route" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//Route" />
+			<xs:field xpath="RouteID" />
+		</xs:unique>
+		<xs:unique name="PK_RouteCategory" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//RouteCategory" />
+			<xs:field xpath="RouteCategoryID" />
+		</xs:unique>
+		<xs:unique name="PK_RouteDetail" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//RouteDetail" />
+			<xs:field xpath="RouteDetailID" />
+		</xs:unique>
+		<xs:unique name="PK_RouteMap" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//RouteMap" />
+			<xs:field xpath="RouteMapID" />
+		</xs:unique>
+		<xs:unique name="PK_RouteMedia" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//RouteMedia" />
+			<xs:field xpath="RouteMediaID" />
+		</xs:unique>
+		<xs:unique name="PK_RouteRating" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//RouteRating" />
+			<xs:field xpath="RouteRatingID" />
+		</xs:unique>
+		<xs:unique name="PK_RouteSegment" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//RouteSegment" />
+			<xs:field xpath="RouteSegmentID" />
+		</xs:unique>
+		<xs:unique name="PK_RouteType" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//RouteType" />
+			<xs:field xpath="RouteTypeID" />
+		</xs:unique>
+		<xs:unique name="PK_Waypoint" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//Waypoint" />
+			<xs:field xpath="WaypointID" />
+		</xs:unique>
+		<xs:unique name="PK_WaypointConfig" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//WaypointConfig" />
+			<xs:field xpath="WaypointConfigID" />
+		</xs:unique>
+		<xs:keyref name="FK_RouteMap_Route" refer="PK_Route" msdata:RelationName="fkRouteMapRoute">
+			<xs:selector xpath=".//RouteMap" />
+			<xs:field xpath="RouteID" />
+		</xs:keyref>
+		<xs:keyref name="FK_RouteMedia_Route" refer="PK_Route" msdata:RelationName="fkRouteMediaRoute">
+			<xs:selector xpath=".//RouteMedia" />
+			<xs:field xpath="RouteID" />
+		</xs:keyref>
+		<xs:keyref name="FK_RouteRating_Route" refer="PK_Route" msdata:RelationName="fkRouteRatingRoute">
+			<xs:selector xpath=".//RouteRating" />
+			<xs:field xpath="RouteID" />
+		</xs:keyref>
+		<xs:keyref name="FK_RouteSegment_Route" refer="PK_Route" msdata:RelationName="fkRouteSegmentRoute">
+			<xs:selector xpath=".//RouteSegment" />
+			<xs:field xpath="RouteID" />
+		</xs:keyref>
+		<xs:keyref name="FK_Waypoint_Route" refer="PK_Route" msdata:RelationName="fkWaypointRoute">
+			<xs:selector xpath=".//Waypoint" />
+			<xs:field xpath="RouteID" />
+		</xs:keyref>
+	</xs:element>
+</xs:schema>
