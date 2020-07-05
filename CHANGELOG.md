@@ -1,6 +1,20 @@
 # Courses - Changelog
 This changelog goes through all the changes that have been made in each release.
 
+## v0.11.0 (2020-07-05)
+
+**New Routes**
+
+* mtb_marlowe_vineyards - MTB trails in Marlowe Vineyards
+  
+**Thank You!**
+
+Last but certainly not least, a big thank you to the following people who contributed:
+
+* Matthias Urech (new course: Marlowe Vineyards)
+
+---
+
 ## v0.10.0 (2020-07-02)
 
 **New Routes**
