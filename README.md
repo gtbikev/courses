@@ -4,7 +4,7 @@ This repository contains courses for [GT Bike V Mod](https://de.gta5-mods.com/sc
 
 ## Courses
 
-Courses are divided into the following categories: bmx, gravel, mtb, road. Elevation is calculated based on a slopscale of 0.5.
+Courses are divided into the following categories: bmx, gravel, mtb, road. Elevation is calculated based on a slopescale of 0.5.
 
 | Course Name                       | Distance      | Elevation   | Description                                           |
 | :-------------------------------- | :------------ | :---------- | :---------------------------------------------------- |
