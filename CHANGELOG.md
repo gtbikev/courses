@@ -1,6 +1,20 @@
 # Courses - Changelog
 This changelog goes through all the changes that have been made in each release.
 
+## v0.13.0 (2020-07-07)
+
+**New Routes**
+
+* gravel_mount_josiah_and_alamo_sea - Eight shaped route around Mount Josiah and Alamo Sea
+  
+**Thank You!**
+
+Last but certainly not least, a big thank you to the following people who contributed:
+
+* Cassio Davi (new course: Mount Josiah & Alamo Sea)
+
+---
+
 ## v0.12.0 (2020-07-06)
 
 **New Routes**

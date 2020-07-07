@@ -6,262 +6,54 @@ This repository contains courses for [GT Bike V Mod](https://de.gta5-mods.com/sc
 
 Courses are divided into the following categories: bmx, gravel, mtb, road. Elevation is calculated based on a slopscale of 0.5.
 
-<!--
-Considering possibility of importing from this table into user frontennd, would need
-to ensure entries remain in consistent format
-Below entry is tagging beginning of data table for possible import later
--->
-<!--***COURSE_TABLE_BEGIN***-->
-<table width ="100%" >
-  <tr>
-    <th>Name</th>
-    <th>Author</th>
-    <th>Map</th>
-    <th>Type</th>
-    <th>Dist(km)</th>
-    <th>Dist(mi)</th>
-    <th>Elev(m)</th>
-    <th>Elev(ft)</th>
-    <th>Description</th>
-  </tr>
-  <tr>
-    <td>bmx_redwood_lights</td> <!--Name-->
-    <td>Matthias Urech</td> <!--Author-->
-    <td></td> <!--Map (link to image of route map)-->
-    <td>BMX</td> <!--RouteType (road, gravel, mtb, bmx, mix, etc)-->
-    <td>1.8</td> <!--Distance (km)-->
-    <td>1.1</td> <!--Distance (mi)-->
-    <td>62</td> <!--Elevation (m)-->
-    <td>202</td> <!--Elevation (ft)-->
-    <td>BMX racetrack on Redwood Lights construction area</td> <!--Description-->
-  </tr>
-  <tr>
-    <td>bmx_richman_golf</td> <!--Name-->
-    <td>Matthias Urech</td> <!--Author-->
-    <td></td> <!--Map (link to image of route map)-->
-    <td>BMX</td> <!--RouteType (road, gravel, mtb, bmx, mix, etc)-->
-    <td>1.3</td> <!--Distance (km)-->
-    <td>0.8</td> <!--Distance (mi)-->
-    <td>62</td> <!--Elevation (m)-->
-    <td>202</td> <!--Elevation (ft)-->
-    <td>BMX practice track on Richman golf course</td> <!--Description-->
-  </tr>
-  <tr>
-    <td>gravel_davis_quartz</td> <!--Name-->
-    <td>Matthias Urech</td> <!--Author-->
-    <td></td> <!--Map (link to image of route map)-->
-    <td>Gravel</td> <!--RouteType (road, gravel, mtb, bmx, mix, etc)-->
-    <td>3.8</td> <!--Distance (km)-->
-    <td>2.4</td> <!--Distance (mi)-->
-    <td>66</td> <!--Elevation (m)-->
-    <td>216</td> <!--Elevation (ft)-->
-    <td>Gravel route in Davis Quartz quarry</td> <!--Description-->
-  </tr>
-  <tr>
-    <td>gravel_el_burro_heights</td> <!--Name-->
-    <td>Matthias Urech</td> <!--Author-->
-    <td></td> <!--Map (link to image of route map)-->
-    <td>Gravel</td> <!--RouteType (road, gravel, mtb, bmx, mix, etc)-->
-    <td>4.7</td> <!--Distance (km)-->
-    <td>2.9</td> <!--Distance (mi)-->
-    <td>144</td> <!--Elevation (m)-->
-    <td>472</td> <!--Elevation (ft)-->
-    <td>Gravel route around El Burro Heights</td> <!--Description-->
-  </tr>
-  <tr>
-    <td>gravel_grapeseed</td> <!--Name-->
-    <td>Matthias Urech</td> <!--Author-->
-    <td></td> <!--Map (link to image of route map)-->
-    <td>Gravel</td> <!--RouteType (road, gravel, mtb, bmx, mix, etc)-->
-    <td>4.5</td> <!--Distance (km)-->
-    <td>2.8</td> <!--Distance (mi)-->
-    <td>156</td> <!--Elevation (m)-->
-    <td>512</td> <!--Elevation (ft)-->
-    <td>Gravel route through fields of Grapeseed</td> <!--Description-->
-  </tr>
-  <tr>
-    <td>gravel_senora_desert</td> <!--Name-->
-    <td>Matthias Urech</td> <!--Author-->
-    <td></td> <!--Map (link to image of route map)-->
-    <td>Gravel</td> <!--RouteType (road, gravel, mtb, bmx, mix, etc)-->
-    <td>8.0</td> <!--Distance (km)-->
-    <td>5.0</td> <!--Distance (mi)-->
-    <td>252</td> <!--Elevation (m)-->
-    <td>826</td> <!--Elevation (ft)-->
-    <td>Gravel route through Senora Desert</td> <!--Description-->
-  </tr>
-  <tr>
-    <td>gravel_vinewood_racetrack</td> <!--Name-->
-    <td>Madan Mohan</td> <!--Author-->
-    <td></td> <!--Map (link to image of route map)-->
-    <td>Gravel</td> <!--RouteType (road, gravel, mtb, bmx, mix, etc)-->
-    <td>1.0</td> <!--Distance (km)-->
-    <td>0.6</td> <!--Distance (mi)-->
-    <td>18</td> <!--Elevation (m)-->
-    <td>59</td> <!--Elevation (ft)-->
-    <td>Gravel loop on vinewood racetrack</td> <!--Description-->
-  </tr>
-  <tr>
-    <td>gravel_west_coast</td> <!--Name-->
-    <td>Matthias Urech</td> <!--Author-->
-    <td></td> <!--Map (link to image of route map)-->
-    <td>Gravel</td> <!--RouteType (road, gravel, mtb, bmx, mix, etc)-->
-    <td>12.1</td> <!--Distance (km)-->
-    <td>7.5</td> <!--Distance (mi)-->
-    <td>316</td> <!--Elevation (m)-->
-    <td>1036</td> <!--Elevation (ft)-->
-    <td>Gravel roads on the west coast</td> <!--Description-->
-  </tr>
-  <tr>
-    <td>gravel_windy_hills</td> <!--Name-->
-    <td>Matthias Urech</td> <!--Author-->
-    <td></td> <!--Map (link to image of route map)-->
-    <td>Gravel</td> <!--RouteType (road, gravel, mtb, bmx, mix, etc)-->
-    <td>9.6</td> <!--Distance (km)-->
-    <td>6.0</td> <!--Distance (mi)-->
-    <td>490</td> <!--Elevation (m)-->
-    <td>1606</td> <!--Elevation (ft)-->
-    <td>Gravel loop on Ron Alternates Wind Farm</td> <!--Description-->
-  </tr>
-  <tr>
-    <td>mtb_marlowe_vineyards</td> <!--Name-->
-    <td>Matthias Urech</td> <!--Author-->
-    <td></td> <!--Map (link to image of route map)-->
-    <td>MTB</td> <!--RouteType (road, gravel, mtb, bmx, mix, etc)-->
-    <td>3.8</td> <!--Distance (km)-->
-    <td>2.3</td> <!--Distance (mi)-->
-    <td>142</td> <!--Elevation (m)-->
-    <td>466</td> <!--Elevation (ft)-->
-    <td>MTB trails in Marlowe Vineyards</td> <!--Description-->
-  </tr>
-  <tr>
-    <td>mtb_mount_chilliad</td> <!--Name-->
-    <td>Matthias Urech</td> <!--Author-->
-    <td></td> <!--Map (link to image of route map)-->
-    <td>MTB</td> <!--RouteType (road, gravel, mtb, bmx, mix, etc)-->
-    <td>10.0</td> <!--Distance (km)-->
-    <td>6.2</td> <!--Distance (mi)-->
-    <td>278</td> <!--Elevation (m)-->
-    <td>912</td> <!--Elevation (ft)-->
-    <td>MTB trails around Mount Chilliad</td> <!--Description-->
-  </tr>
-  <tr>
-    <td>road_central_8</td> <!--Name-->
-    <td>Matthias Urech</td> <!--Author-->
-    <td></td> <!--Map (link to image of route map)-->
-    <td>Road</td> <!--RouteType (road, gravel, mtb, bmx, mix, etc)-->
-    <td>11.2</td> <!--Distance (km)-->
-    <td>6.9</td> <!--Distance (mi)-->
-    <td>434</td> <!--Elevation (m)-->
-    <td>1424</td> <!--Elevation (ft)-->
-    <td>This route covers central roads in a figure 8 fashion</td> <!--Description-->
-  </tr>
-  <tr>
-    <td>road_docklands</td> <!--Name-->
-    <td>Matthias Urech</td> <!--Author-->
-    <td></td> <!--Map (link to image of route map)-->
-    <td>Road</td> <!--RouteType (road, gravel, mtb, bmx, mix, etc)-->
-    <td>17.0</td> <!--Distance (km)-->
-    <td>10.5</td> <!--Distance (mi)-->
-    <td>380</td> <!--Elevation (m)-->
-    <td>1246</td> <!--Elevation (ft)-->
-    <td>Roads in Los Santos harbor area</td> <!--Description-->
-  </tr>
-  <tr>
-    <td>road_east_los_santos</td> <!--Name-->
-    <td>Matthias Urech</td> <!--Author-->
-    <td></td> <!--Map (link to image of route map)-->
-    <td>Road</td> <!--RouteType (road, gravel, mtb, bmx, mix, etc)-->
-    <td>8.8</td> <!--Distance (km)-->
-    <td>5.5</td> <!--Distance (mi)-->
-    <td>280</td> <!--Elevation (m)-->
-    <td>918</td> <!--Elevation (ft)-->
-    <td>Roads in East Los Santos area</td> <!--Description-->
-  </tr>
-  <tr>
-    <td>road_land_act_dam_loop</td> <!--Name - NOTE: Must match filename without ".json" extension-->
-    <td>Richard Slaughter</td> <!--Author-->
-    <td><a href="http://imgur.com/dFGFELV.jpg">Map</a></td> <!--Map (link to image of route map)-->
-    <td>Mix</td> <!--RouteType (road, gravel, mtb, bmx, mix, etc)-->
-    <td>5.0</td> <!--Distance (km)-->
-    <td>3.1</td> <!--Distance (mi)-->
-    <td>116</td> <!--Elevation (m)-->
-    <td>381</td> <!--Elevation (ft)-->
-    <td>Quick loop around Los Santos Pumping Station</td><!--Description-->
-  </tr>
-  <tr>
-    <td>road_route_68</td> <!--Name-->
-    <td>Matthias Urech</td> <!--Author-->
-    <td></td> <!--Map (link to image of route map)-->
-    <td>Road</td> <!--RouteType (road, gravel, mtb, bmx, mix, etc)-->
-    <td>7.3</td> <!--Distance (km)-->
-    <td>4.5</td> <!--Distance (mi)-->
-    <td>228</td> <!--Elevation (m)-->
-    <td>748</td> <!--Elevation (ft)-->
-    <td>TT course on route 68</td> <!--Description-->
-  </tr>
-  <tr>
-    <td>road_vinewood_heights</td> <!--Name - NOTE: Must match filename without ".json" extension-->
-    <td>Richard Slaughter</td> <!--Author-->
-    <td><a href="https://imgur.com/QG89zk1.jpg">Map</a></td> <!--Map (link to image of route map)-->
-    <td>Road</td> <!--RouteType (road, gravel, mtb, bmx, mix, etc)-->
-    <td>8.2</td> <!--Distance (km)-->
-    <td>5.1</td> <!--Distance (mi)-->
-    <td>193</td> <!--Elevation (m)-->
-    <td>634</td> <!--Elevation (ft)-->
-    <td>A hilly zigzag through ritzy Vinewood Heights</td> <!--Description-->
-  </tr>
-  <tr>
-    <td>the_tourist</td> <!--Name - NOTE: Must match filename without ".json" extension-->
-    <td>Richard Slaughter</td> <!--Author-->
-    <td><a href="http://imgur.com/Zfjny4W.jpg">Map</a></td> <!--Map (link to image of route map)-->
-    <td>Road</td> <!--RouteType (road, gravel, mtb, bmx, mix, etc)-->
-    <td>16.7</td> <!--Distance (km)-->
-    <td>10.4</td> <!--Distance (mi)-->
-    <td>311</td> <!--Elevation (m)-->
-    <td>1019</td> <!--Elevation (ft)-->
-    <td>A sightseeing tour through Los Santos</td> <!--Description-->
-  </tr>
-</table>
-<!--***COURSE_TABLE_END***-->
+| Course Name                       | Distance      | Elevation   | Description                                           |
+| :-------------------------------- | :------------ | :---------- | :---------------------------------------------------- |
+| bmx_redwood_lights                | 1.8km/1.1mi   | 62m/202ft   | BMX racetrack on Redwood Lights construction area     |
+| bmx_richman_golf                  | 1.3km/0.8mi   | 62m//202ft  | BMX practice track on Richman golf course             |
+| gravel_davis_quartz               | 3.8km/2.4mi   | 66m/216ft   | Gravel route in Davis Quartz quarry                   |
+| gravel_el_burro_heights           | 4.7km/2.9mi   | 144m/472ft  | Gravel route around El Burro Heights                  |
+| gravel_grapeseed                  | 4.5km/2.8mi   | 156m/512ft  | Gravel route through fields of Grapeseed              |
+| gravel_mount_josiah_and_alamo_sea | 16.7km/10.4mi | 141m/463ft  | Eight shaped route around Mount Josiah and Alamo Sea  |
+| gravel_senora_desert              | 8.0km/5.0mi   | 252m/826ft  | Gravel route through Senora Desert                    |
+| gravel_vinewood_racetrack         | 1.0km/0.6mi   | 18m/59ft    | Gravel loop on vinewood racetrack                     |
+| gravel_west_coast                 | 12.1km/7.5mi  | 316m/1036ft | Gravel roads on the west coast                        |
+| gravel_windy_hills                | 9.6km/6.0mi   | 490m/1606ft | Gravel loop on Ron Alternates Wind Farm               |
+| mtb_marlowe_vineyards             | 3.8km/2.3mi   | 142m/466ft  | MTB trails in Marlowe Vineyards                       |
+| mtb_mount_chilliad                | 10.0km/6.2mi  | 278m/912ft  | MTB trails around Mount Chilliad                      |
+| road_central_8                    | 11.2km/6.9mi  | 434m/1424ft | This route covers central roads in a figure 8 fashion |
+| road_docklands                    | 17.0km/10.5mi | 380m/1246ft | Roads in Los Santos harbor area                       |
+| road_east_los_santos              | 8.8km/5.5mi   | 280m/918ft  | Roads in East Los Santos area                         |
+| road_land_act_dam_loop            | 5.0km/3.1mi   | 116m/381ft  | Quick loop around Los Santos Pumping Station          |
+| road_route_68                     | 7.3km/4.5mi   | 228m/748ft  | TT course on route 68                                 |
+| road_vinewood_heights             | 8.2km/5.1mi   | 193m/634ft  | A hilly zigzag through ritzy Vinewood Heights         |
+| the_tourist                       | 16.7km/10.4mi | 311m/1019ft | A sightseeing tour through Los Santos                 |
 
-<!-- Template for new entry - copy and paste before "</table>", remove "<!--" from beginning of each row, then replace * with relevant information  -->
-<!--  <tr> <!---->
-<!--    <td>*</td> <!--Name - NOTE: Must match filename without ".json" extension-->
-<!--    <td>*</td> <!--Author-->
-<!--    <td>*</td> <!--Map (link to image of route map)-->
-<!--    <td>*</td> <!--RouteType (road, gravel, mtb, bmx, mix, etc)-->
-<!--    <td>*</td> <!--Distance (km)-->
-<!--    <td>*</td> <!--Distance (mi)-->
-<!--    <td>*</td> <!--Elevation (m)-->
-<!--    <td>*</td> <!--Elevation (ft)-->
-<!--    <td>*</td> <!--Description-->
-<!--  </tr> <!---->
 
 ## Supported Releases
 
 The following table lists the supported releases.
 
-| Course Name               | Course Release                                                    | Mod Release 0.2.3 | Mod Release 0.3.0.2 (Latest) |
-| :------------------------ | :---------------------------------------------------------------- | :---------------- | :--------------------------- |
-| bmx_redwood_lights        | [0.12.0](https://github.com/gtbikev/courses/releases/tag/v0.12.0) | Verified          | Verified                     |
-| bmx_richman_golf          | [0.12.0](https://github.com/gtbikev/courses/releases/tag/v0.12.0) | Verified          | Verified                     |
-| gravel_davis_quartz       | [0.12.0](https://github.com/gtbikev/courses/releases/tag/v0.12.0) | n/a               | Verified                     |
-| gravel_el_burro_heights   | [0.12.0](https://github.com/gtbikev/courses/releases/tag/v0.12.0) | n/a               | Verified                     |
-| gravel_grapeseed          | [0.12.0](https://github.com/gtbikev/courses/releases/tag/v0.12.0) | n/a               | Verified                     |
-| gravel_senora_desert      | [0.12.0](https://github.com/gtbikev/courses/releases/tag/v0.12.0) | n/a               | Verified                     |
-| gravel_vinewood_racetrack | [0.12.0](https://github.com/gtbikev/courses/releases/tag/v0.12.0) | n/a               | Verified                     |
-| gravel_west_coast         | [0.12.0](https://github.com/gtbikev/courses/releases/tag/v0.12.0) | Verified          | Verified                     |
-| gravel_windy_hills        | [0.12.0](https://github.com/gtbikev/courses/releases/tag/v0.12.0) | Verified          | Verified                     |
-| mtb_marlowe_vineyards     | [0.12.0](https://github.com/gtbikev/courses/releases/tag/v0.12.0) | n/a               | Verified                     |
-| mtb_mount_chilliad        | [0.12.0](https://github.com/gtbikev/courses/releases/tag/v0.12.0) | Verified          | Verified                     |
-| road_central_8            | [0.12.0](https://github.com/gtbikev/courses/releases/tag/v0.12.0) | n/a               | Verified                     |
-| road_docklands            | [0.12.0](https://github.com/gtbikev/courses/releases/tag/v0.12.0) | Verified          | Verified                     |
-| road_east_los_santos      | [0.12.0](https://github.com/gtbikev/courses/releases/tag/v0.12.0) | n/a               | Verified                     |
-| road_land_act_dam_loop    | [0.12.0](https://github.com/gtbikev/courses/releases/tag/v0.12.0) | Verified          | Not Tested                   |
-| road_route_68             | [0.12.0](https://github.com/gtbikev/courses/releases/tag/v0.12.0) | Verified          | Verified                     |
-| road_vinewood_heights     | [0.12.0](https://github.com/gtbikev/courses/releases/tag/v0.12.0) | Verified          | Not Tested                   |
-| the_tourist               | [0.12.0](https://github.com/gtbikev/courses/releases/tag/v0.12.0) | Verified          | Not Tested                   |
+| Course Name                       | Author            | Course Release                                                    | Mod Release 0.2.3.0 | Mod Release 0.3.0.2 |
+| :-------------------------------- | :---------------- | :---------------------------------------------------------------- | :------------------ | :------------------ |
+| bmx_redwood_lights                | Matthias Urech    | [0.13.0](https://github.com/gtbikev/courses/releases/tag/v0.13.0) | Verified            | Verified            |
+| bmx_richman_golf                  | Matthias Urech    | [0.13.0](https://github.com/gtbikev/courses/releases/tag/v0.13.0) | Verified            | Verified            |
+| gravel_davis_quartz               | Matthias Urech    | [0.13.0](https://github.com/gtbikev/courses/releases/tag/v0.13.0) | n/a                 | Verified            |
+| gravel_el_burro_heights           | Matthias Urech    | [0.13.0](https://github.com/gtbikev/courses/releases/tag/v0.13.0) | n/a                 | Verified            |
+| gravel_grapeseed                  | Matthias Urech    | [0.13.0](https://github.com/gtbikev/courses/releases/tag/v0.13.0) | n/a                 | Verified            |
+| gravel_mount_josiah_and_alamo_sea | Cassio Davi       | [0.13.0](https://github.com/gtbikev/courses/releases/tag/v0.13.0) | n/a                 | Verified            |
+| gravel_senora_desert              | Matthias Urech    | [0.13.0](https://github.com/gtbikev/courses/releases/tag/v0.13.0) | n/a                 | Verified            |
+| gravel_vinewood_racetrack         | Madan Mohan       | [0.13.0](https://github.com/gtbikev/courses/releases/tag/v0.13.0) | n/a                 | Verified            |
+| gravel_west_coast                 | Matthias Urech    | [0.13.0](https://github.com/gtbikev/courses/releases/tag/v0.13.0) | Verified            | Verified            |
+| gravel_windy_hills                | Matthias Urech    | [0.13.0](https://github.com/gtbikev/courses/releases/tag/v0.13.0) | Verified            | Verified            |
+| mtb_marlowe_vineyards             | Matthias Urech    | [0.13.0](https://github.com/gtbikev/courses/releases/tag/v0.13.0) | n/a                 | Verified            |
+| mtb_mount_chilliad                | Matthias Urech    | [0.13.0](https://github.com/gtbikev/courses/releases/tag/v0.13.0) | Verified            | Verified            |
+| road_central_8                    | Matthias Urech    | [0.13.0](https://github.com/gtbikev/courses/releases/tag/v0.13.0) | n/a                 | Verified            |
+| road_docklands                    | Matthias Urech    | [0.13.0](https://github.com/gtbikev/courses/releases/tag/v0.13.0) | Verified            | Verified            |
+| road_east_los_santos              | Matthias Urech    | [0.13.0](https://github.com/gtbikev/courses/releases/tag/v0.13.0) | n/a                 | Verified            |
+| road_land_act_dam_loop            | Richard Slaughter | [0.13.0](https://github.com/gtbikev/courses/releases/tag/v0.13.0) | Verified            | Not Tested          |
+| road_route_68                     | Matthias Urech    | [0.13.0](https://github.com/gtbikev/courses/releases/tag/v0.13.0) | Verified            | Verified            |
+| road_vinewood_heights             | Richard Slaughter | [0.13.0](https://github.com/gtbikev/courses/releases/tag/v0.13.0) | Verified            | Not Tested          |
+| the_tourist                       | Richard Slaughter | [0.13.0](https://github.com/gtbikev/courses/releases/tag/v0.13.0) | Verified            | Not Tested          |
 
 ## Contributing
 
