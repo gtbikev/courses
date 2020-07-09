@@ -1,6 +1,22 @@
 # Courses - Changelog
 This changelog goes through all the changes that have been made in each release.
 
+## v0.14.0 (2020-07-09)
+
+**New Routes**
+
+*  alamo_sea - Gravel roads around Alamo Sea
+*  los_santos_hills - Roads around Los Santos hills
+*  tour_los_santos - Big loop around Los Santos
+  
+**Thank You!**
+
+Last but certainly not least, a big thank you to the following people who contributed:
+
+* Nestor Matas (existing courses: Alamo Sea, Los Santos Hills, Tour Los Santos)
+
+---
+
 ## v0.13.0 (2020-07-07)
 
 **New Routes**
