@@ -38,7 +38,7 @@ The following table lists the supported releases.
 
 | Course Name                       | Author            | Course Release                                                    | Mod Release 0.2.3.0 | Mod Release 0.3.0.2 |
 | :-------------------------------- | :---------------- | :---------------------------------------------------------------- | :------------------ | :------------------ |
-| Alamo Sea                         | Nestor Matas      | [0.14.0](https://github.com/gtbikev/courses/releases/tag/v0.14.0) | Verified            | Verified            |
+| alamo_sea                         | Nestor Matas      | [0.14.0](https://github.com/gtbikev/courses/releases/tag/v0.14.0) | Verified            | Verified            |
 | bmx_redwood_lights                | Matthias Urech    | [0.14.0](https://github.com/gtbikev/courses/releases/tag/v0.14.0) | Verified            | Verified            |
 | bmx_richman_golf                  | Matthias Urech    | [0.14.0](https://github.com/gtbikev/courses/releases/tag/v0.14.0) | Verified            | Verified            |
 | gravel_davis_quartz               | Matthias Urech    | [0.14.0](https://github.com/gtbikev/courses/releases/tag/v0.14.0) | n/a                 | Verified            |
