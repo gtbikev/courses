@@ -9,26 +9,26 @@ Courses are divided into the following categories: bmx, gravel, mtb, road. Eleva
 | Course Name                       | Distance      | Elevation   | Description                                           |
 | :-------------------------------- | :------------ | :---------- | :---------------------------------------------------- |
 | alamo_sea                         | 9.9km/6.2mi   | 70m/230ft   | Gravel roads around Alamo Sea                         |
-| bmx_redwood_lights                | 1.8km/1.1mi   | 62m/202ft   | BMX racetrack on Redwood Lights construction area     |
-| bmx_richman_golf                  | 1.3km/0.8mi   | 62m//202ft  | BMX practice track on Richman golf course             |
-| gravel_davis_quartz               | 3.8km/2.4mi   | 66m/216ft   | Gravel route in Davis Quartz quarry                   |
-| gravel_el_burro_heights           | 4.7km/2.9mi   | 144m/472ft  | Gravel route around El Burro Heights                  |
-| gravel_grapeseed                  | 4.5km/2.8mi   | 156m/512ft  | Gravel route through fields of Grapeseed              |
+| bmx_redwood_lights                | 1.8km/1.1mi   | 32m/105ft   | BMX racetrack on Redwood Lights construction area     |
+| bmx_richman_golf                  | 1.3km/0.8mi   | 17m//56ft   | BMX practice track on Richman golf course             |
+| gravel_davis_quartz               | 3.8km/2.4mi   | 73m/242ft   | Gravel route in Davis Quartz quarry                   |
+| gravel_el_burro_heights           | 5.0km/3.1mi   | 92m/301ft   | Gravel route around El Burro Heights                  |
+| gravel_grapeseed                  | 4.5km/2.8mi   | 44m/145ft   | Gravel route through fields of Grapeseed              |
 | gravel_mount_josiah_and_alamo_sea | 16.7km/10.4mi | 141m/463ft  | Eight shaped route around Mount Josiah and Alamo Sea  |
-| gravel_senora_desert              | 8.0km/5.0mi   | 252m/826ft  | Gravel route through Senora Desert                    |
+| gravel_senora_desert              | 8.0km/5.0mi   | 53m/274ft   | Gravel route through Senora Desert                    |
 | gravel_vinewood_racetrack         | 1.0km/0.6mi   | 18m/59ft    | Gravel loop on vinewood racetrack                     |
 | gravel_west_coast                 | 12.1km/7.5mi  | 316m/1036ft | Gravel roads on the west coast                        |
-| gravel_windy_hills                | 9.6km/6.0mi   | 490m/1606ft | Gravel loop on Ron Alternates Wind Farm               |
+| gravel_windy_hills                | 9.8km/6.1mi   | 166m/542ft  | Gravel loop on Ron Alternates Wind Farm               |
 | los_santos_hills                  | 14.0km/8.7mi  | 206m/677ft  | Roads around Los Santos hills                         |
 | mtb_marlowe_vineyards             | 3.8km/2.3mi   | 142m/466ft  | MTB trails in Marlowe Vineyards                       |
 | mtb_mount_chilliad                | 10.0km/6.2mi  | 278m/912ft  | MTB trails around Mount Chilliad                      |
 | road_central_8                    | 11.2km/6.9mi  | 434m/1424ft | This route covers central roads in a figure 8 fashion |
 | road_docklands                    | 17.0km/10.5mi | 380m/1246ft | Roads in Los Santos harbor area                       |
 | road_east_los_santos              | 8.8km/5.5mi   | 280m/918ft  | Roads in East Los Santos area                         |
-| road_land_act_dam_loop            | 5.0km/3.1mi   | 116m/381ft  | Quick loop around Los Santos Pumping Station          |
+| road_land_act_dam_loop            | 5.0km/3.1mi   | 98m/323ft   | Quick loop around Los Santos Pumping Station          |
 | road_route_68                     | 7.3km/4.5mi   | 228m/748ft  | TT course on route 68                                 |
-| road_vinewood_heights             | 8.2km/5.1mi   | 193m/634ft  | A hilly zigzag through ritzy Vinewood Heights         |
-| the_tourist                       | 16.7km/10.4mi | 311m/1019ft | A sightseeing tour through Los Santos                 |
+| road_vinewood_heights             | 8.0km/5.0mi   | 202m/661ft  | A hilly zigzag through ritzy Vinewood Heights         |
+| the_tourist                       | 16.0km/9.9mi  | 345m/1132ft | A sightseeing tour through Los Santos                 |
 | tour_los_santos                   | 30.1km/18.7mi | 533m/1750ft | Big loop around Los Santos                            |
 
 
