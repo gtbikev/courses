@@ -1,6 +1,20 @@
 # Courses - Changelog
 This changelog goes through all the changes that have been made in each release.
 
+## v0.15.0 (2020-07-11)
+
+**New Routes**
+
+* gravel_great_chaparral - Gravel route through Great Chaparral
+  
+**Thank You!**
+
+Last but certainly not least, a big thank you to the following people who contributed:
+
+* Matthias Urech (new course: Great Chaparral)
+
+---
+
 ## v0.14.0 (2020-07-09)
 
 **New Routes**
