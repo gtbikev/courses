@@ -1,6 +1,20 @@
 # Courses - Changelog
 This changelog goes through all the changes that have been made in each release.
 
+## v0.16.0 (2020-07-25)
+
+**New Routes**
+
+* gravel_gravelfondo - Gravel roads through central and midwest area
+  
+**Thank You!**
+
+Last but certainly not least, a big thank you to the following people who contributed:
+
+* Matthias Urech (new course: Gravelfondo)
+
+---
+
 ## v0.15.0 (2020-07-11)
 
 **New Routes**
