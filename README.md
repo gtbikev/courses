@@ -14,6 +14,7 @@ Courses are divided into the following categories: bmx, gravel, mtb, road. Eleva
 | gravel_davis_quartz               | 3.8km/2.4mi   | 73m/242ft   | Gravel route in Davis Quartz quarry                   |
 | gravel_el_burro_heights           | 5.0km/3.1mi   | 92m/301ft   | Gravel route around El Burro Heights                  |
 | gravel_grapeseed                  | 4.5km/2.8mi   | 44m/145ft   | Gravel route through fields of Grapeseed              |
+| gravel_gravelfondo                | 24.0km/14.9mi | 344m/1128ft | Gravel roads through central and midwest area         |
 | gravel_great_chaparral            | 9.8km/6.0mi   | 126m/413ft  | Gravel route through Great Chaparral                  |
 | gravel_mount_josiah_and_alamo_sea | 16.7km/10.4mi | 141m/463ft  | Eight shaped route around Mount Josiah and Alamo Sea  |
 | gravel_senora_desert              | 8.0km/5.0mi   | 53m/274ft   | Gravel route through Senora Desert                    |
@@ -39,29 +40,30 @@ The following table lists the supported releases.
 
 | Course Name                       | Author            | Course Release                                                    | Mod Release 0.2.3.0 | Mod Release 0.3.0.2 |
 | :-------------------------------- | :---------------- | :---------------------------------------------------------------- | :------------------ | :------------------ |
-| alamo_sea                         | Nestor Matas      | [0.15.0](https://github.com/gtbikev/courses/releases/tag/v0.15.0) | Verified            | Verified            |
-| bmx_redwood_lights                | Matthias Urech    | [0.15.0](https://github.com/gtbikev/courses/releases/tag/v0.15.0) | Verified            | Verified            |
-| bmx_richman_golf                  | Matthias Urech    | [0.15.0](https://github.com/gtbikev/courses/releases/tag/v0.15.0) | Verified            | Verified            |
-| gravel_davis_quartz               | Matthias Urech    | [0.15.0](https://github.com/gtbikev/courses/releases/tag/v0.15.0) | n/a                 | Verified            |
-| gravel_el_burro_heights           | Matthias Urech    | [0.15.0](https://github.com/gtbikev/courses/releases/tag/v0.15.0) | n/a                 | Verified            |
-| gravel_grapeseed                  | Matthias Urech    | [0.15.0](https://github.com/gtbikev/courses/releases/tag/v0.15.0) | n/a                 | Verified            |
-| gravel_great_chaparral            | Matthias Urech    | [0.15.0](https://github.com/gtbikev/courses/releases/tag/v0.15.0) | n/a                 | Verified            |
-| gravel_mount_josiah_and_alamo_sea | Cassio Davi       | [0.15.0](https://github.com/gtbikev/courses/releases/tag/v0.15.0) | n/a                 | Verified            |
-| gravel_senora_desert              | Matthias Urech    | [0.15.0](https://github.com/gtbikev/courses/releases/tag/v0.15.0) | n/a                 | Verified            |
-| gravel_vinewood_racetrack         | Madan Mohan       | [0.15.0](https://github.com/gtbikev/courses/releases/tag/v0.15.0) | n/a                 | Verified            |
-| gravel_west_coast                 | Matthias Urech    | [0.15.0](https://github.com/gtbikev/courses/releases/tag/v0.15.0) | Verified            | Verified            |
-| gravel_windy_hills                | Matthias Urech    | [0.15.0](https://github.com/gtbikev/courses/releases/tag/v0.15.0) | Verified            | Verified            |
-| los_santos_hills                  | Nestor Matas      | [0.15.0](https://github.com/gtbikev/courses/releases/tag/v0.15.0) | Verified            | Verified            |
-| mtb_marlowe_vineyards             | Matthias Urech    | [0.15.0](https://github.com/gtbikev/courses/releases/tag/v0.15.0) | n/a                 | Verified            |
-| mtb_mount_chilliad                | Matthias Urech    | [0.15.0](https://github.com/gtbikev/courses/releases/tag/v0.15.0) | Verified            | Verified            |
-| road_central_8                    | Matthias Urech    | [0.15.0](https://github.com/gtbikev/courses/releases/tag/v0.15.0) | n/a                 | Verified            |
-| road_docklands                    | Matthias Urech    | [0.15.0](https://github.com/gtbikev/courses/releases/tag/v0.15.0) | Verified            | Verified            |
-| road_east_los_santos              | Matthias Urech    | [0.15.0](https://github.com/gtbikev/courses/releases/tag/v0.15.0) | n/a                 | Verified            |
-| road_land_act_dam_loop            | Richard Slaughter | [0.15.0](https://github.com/gtbikev/courses/releases/tag/v0.15.0) | Verified            | Verified            |
-| road_route_68                     | Matthias Urech    | [0.15.0](https://github.com/gtbikev/courses/releases/tag/v0.15.0) | Verified            | Verified            |
-| road_vinewood_heights             | Richard Slaughter | [0.15.0](https://github.com/gtbikev/courses/releases/tag/v0.15.0) | Verified            | Verified            |
-| the_tourist                       | Richard Slaughter | [0.15.0](https://github.com/gtbikev/courses/releases/tag/v0.15.0) | Verified            | Verified            |
-| tour_los_santos                   | Nestor Matas      | [0.15.0](https://github.com/gtbikev/courses/releases/tag/v0.15.0) | Verified            | Verified            |
+| alamo_sea                         | Nestor Matas      | [0.16.0](https://github.com/gtbikev/courses/releases/tag/v0.16.0) | Verified            | Verified            |
+| bmx_redwood_lights                | Matthias Urech    | [0.16.0](https://github.com/gtbikev/courses/releases/tag/v0.16.0) | Verified            | Verified            |
+| bmx_richman_golf                  | Matthias Urech    | [0.16.0](https://github.com/gtbikev/courses/releases/tag/v0.16.0) | Verified            | Verified            |
+| gravel_davis_quartz               | Matthias Urech    | [0.16.0](https://github.com/gtbikev/courses/releases/tag/v0.16.0) | n/a                 | Verified            |
+| gravel_el_burro_heights           | Matthias Urech    | [0.16.0](https://github.com/gtbikev/courses/releases/tag/v0.16.0) | n/a                 | Verified            |
+| gravel_grapeseed                  | Matthias Urech    | [0.16.0](https://github.com/gtbikev/courses/releases/tag/v0.16.0) | n/a                 | Verified            |
+| gravel_gravelfondo                | Matthias Urech    | [0.16.0](https://github.com/gtbikev/courses/releases/tag/v0.16.0) | n/a                 | Verified            |
+| gravel_great_chaparral            | Matthias Urech    | [0.16.0](https://github.com/gtbikev/courses/releases/tag/v0.16.0) | n/a                 | Verified            |
+| gravel_mount_josiah_and_alamo_sea | Cassio Davi       | [0.16.0](https://github.com/gtbikev/courses/releases/tag/v0.16.0) | n/a                 | Verified            |
+| gravel_senora_desert              | Matthias Urech    | [0.16.0](https://github.com/gtbikev/courses/releases/tag/v0.16.0) | n/a                 | Verified            |
+| gravel_vinewood_racetrack         | Madan Mohan       | [0.16.0](https://github.com/gtbikev/courses/releases/tag/v0.16.0) | n/a                 | Verified            |
+| gravel_west_coast                 | Matthias Urech    | [0.16.0](https://github.com/gtbikev/courses/releases/tag/v0.16.0) | Verified            | Verified            |
+| gravel_windy_hills                | Matthias Urech    | [0.16.0](https://github.com/gtbikev/courses/releases/tag/v0.16.0) | Verified            | Verified            |
+| los_santos_hills                  | Nestor Matas      | [0.16.0](https://github.com/gtbikev/courses/releases/tag/v0.16.0) | Verified            | Verified            |
+| mtb_marlowe_vineyards             | Matthias Urech    | [0.16.0](https://github.com/gtbikev/courses/releases/tag/v0.16.0) | n/a                 | Verified            |
+| mtb_mount_chilliad                | Matthias Urech    | [0.16.0](https://github.com/gtbikev/courses/releases/tag/v0.16.0) | Verified            | Verified            |
+| road_central_8                    | Matthias Urech    | [0.16.0](https://github.com/gtbikev/courses/releases/tag/v0.16.0) | n/a                 | Verified            |
+| road_docklands                    | Matthias Urech    | [0.16.0](https://github.com/gtbikev/courses/releases/tag/v0.16.0) | Verified            | Verified            |
+| road_east_los_santos              | Matthias Urech    | [0.16.0](https://github.com/gtbikev/courses/releases/tag/v0.16.0) | n/a                 | Verified            |
+| road_land_act_dam_loop            | Richard Slaughter | [0.16.0](https://github.com/gtbikev/courses/releases/tag/v0.16.0) | Verified            | Verified            |
+| road_route_68                     | Matthias Urech    | [0.16.0](https://github.com/gtbikev/courses/releases/tag/v0.16.0) | Verified            | Verified            |
+| road_vinewood_heights             | Richard Slaughter | [0.16.0](https://github.com/gtbikev/courses/releases/tag/v0.16.0) | Verified            | Verified            |
+| the_tourist                       | Richard Slaughter | [0.16.0](https://github.com/gtbikev/courses/releases/tag/v0.16.0) | Verified            | Verified            |
+| tour_los_santos                   | Nestor Matas      | [0.16.0](https://github.com/gtbikev/courses/releases/tag/v0.16.0) | Verified            | Verified            |
 
 ## Contributing
 
