@@ -1,0 +1,34 @@
+{
+  "CourseList": [
+    {
+      "Name": "Alamo Sea",
+      "Author": {
+        "Name": "Makinolo (Nestor Matas)",
+        "Email": "",
+        "Website": ""
+      },
+      "Distance": 18.5,
+      "ElevationGain": 456,
+      "Description": "This is the description of the course",
+      "Notes": "",
+      "Version": "1.0.0",
+      "URL": "https://raw.githubusercontent.com/gtbikev/courses/master/courses/alamo_sea.json",
+      "ProfileURL": ""
+    },
+    {
+      "Name": "The Tourist",
+      "Author": {
+        "Name": "",
+        "Email": "",
+        "Website":  ""
+      },
+      "Length": 28.9,
+      "ElevationGain": 160,
+      "Description": "This is the description of the course",
+      "Notes": "",
+      "Version": "1.0.0",
+      "URL": "https://raw.githubusercontent.com/gtbikev/courses/master/courses/the_tourist.json",
+      "ProfileURL": ""
+    }
+  ]
+}
