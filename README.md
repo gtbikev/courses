@@ -4,38 +4,38 @@ This repository contains courses for [GT Bike V Mod](https://de.gta5-mods.com/sc
 
 ## Courses
 
-| Course Name              | Distance      | Elevation   | Author       |
-| :----------------------- | :------------ | :---------- | :----------- |
-| Alamo Sea                | 9.9km/6.2mi   | 70m/230ft   | N. Matas     |
-| Central 8                | 11.2km/6.9mi  | 434m/1424ft | M. Urech     |
-| Davis Quartz             | 3.8km/2.4mi   | 73m/242ft   | M. Urech     |
-| Docklands                | 17.0km/10.5mi | 380m/1246ft | M. Urech     |
-| East Los Santos          | 8.8km/5.5mi   | 280m/918ft  | M. Urech     |
-| El Burro Heights         | 5.0km/3.1mi   | 92m/301ft   | M. Urech     |
-| Foothills                | 37.0km/23.0mi | 678m/2224ft | SK. Yeatts   |
-| Full Ccircle             | 48.2km/30.0mi | 891m/2922ft | SK. Yeatts   |
-| Grapeseed                | 4.5km/2.8mi   | 44m/145ft   | M. Urech     |
-| Gravelfondo              | 24.0km/14.9mi | 344m/1128ft | M. Urech     |
-| Great Chaparral          | 9.8km/6.0mi   | 126m/413ft  | M. Urech     |
-| Land Act Dam Loop        | 5.0km/3.1mi   | 98m/323ft   | R. Slaughter |
-| Los Santos Hills         | 14.0km/8.7mi  | 206m/677ft  | N. Matas     |
-| Marlowe_Vineyards        | 3.8km/2.3mi   | 142m/466ft  | M. Urech     |
-| Mount Chilliad           | 10.0km/6.2mi  | 278m/912ft  | M. Urech     |
-| Mount Josiah             | 8.7km/5.4mi   | 90m/295ft   | C. Davi      |
-| Mount Josiah & Alamo Sea | 16.7km/10.4mi | 141m/463ft  | C. Davi      |
-| Palomino Highlands       | 7.0km/4.3mi   | 123m/404ft  | A. Beck      |
-| Redwood Lights           | 1.8km/1.1mi   | 32m/105ft   | M. Urech     |
-| Richman Golf             | 1.3km/0.8mi   | 17m//56ft   | M. Urech     |
-| Route 68                 | 7.3km/4.5mi   | 228m/748ft  | M. Urech     |
-| Santos Rally             | 49.0km/30.5mi | 378m/1242ft | SK. Yeatts   |
-| Senora Desert            | 8.0km/5.0mi   | 53m/274ft   | M. Urech     |
-| Suburb Crit              | 1.4km/0.9mi   | 64m/210ft   | A. Beck      |
-| The Tourist              | 16.0km/9.9mi  | 345m/1132ft | R. Slaughter |
-| Tour Los Santos          | 30.1km/18.7mi | 533m/1750ft | N. Matas     |
-| Vinewood Heights         | 8.0km/5.0mi   | 202m/661ft  | R. Slaughter |
-| Vinewood Racetrack       | 1.0km/0.6mi   | 18m/59ft    | M. Mohan     |
-| West Coast               | 12.1km/7.5mi  | 316m/1036ft | M. Urech     |
-| Windy Hills              | 9.8km/6.1mi   | 166m/542ft  | M. Urech     |
+| Course Name              | Type   | Distance      | Elevation   | Author       |
+| :----------------------- | :----- | :------------ | :---------- | :----------- |
+| Alamo Sea                | Mixed  | 9.9km/6.2mi   | 70m/230ft   | N. Matas     |
+| Central 8                | Road   | 11.2km/6.9mi  | 434m/1424ft | M. Urech     |
+| Davis Quartz             | Gravel | 3.8km/2.4mi   | 73m/242ft   | M. Urech     |
+| Docklands                | Road   | 17.0km/10.5mi | 380m/1246ft | M. Urech     |
+| East Los Santos          | Road   | 8.8km/5.5mi   | 280m/918ft  | M. Urech     |
+| El Burro Heights         | Gravel | 5.0km/3.1mi   | 92m/301ft   | M. Urech     |
+| Foothills                | Mixed  | 37.0km/23.0mi | 678m/2224ft | SK. Yeatts   |
+| Full Ccircle             | Mixed  | 48.2km/30.0mi | 891m/2922ft | SK. Yeatts   |
+| Grapeseed                | Gravel | 4.5km/2.8mi   | 44m/145ft   | M. Urech     |
+| Gravelfondo              | Gravel | 24.0km/14.9mi | 344m/1128ft | M. Urech     |
+| Great Chaparral          | Gravel | 9.8km/6.0mi   | 126m/413ft  | M. Urech     |
+| Land Act Dam Loop        | Road   | 5.0km/3.1mi   | 98m/323ft   | R. Slaughter |
+| Los Santos Hills         | Road   | 14.0km/8.7mi  | 206m/677ft  | N. Matas     |
+| Marlowe Vineyards        | Trail  | 3.8km/2.3mi   | 142m/466ft  | M. Urech     |
+| Mount Chilliad           | Trail  | 10.0km/6.2mi  | 278m/912ft  | M. Urech     |
+| Mount Josiah             | Gravel | 8.7km/5.4mi   | 90m/295ft   | C. Davi      |
+| Mount Josiah & Alamo Sea | Gravel | 16.7km/10.4mi | 141m/463ft  | C. Davi      |
+| Palomino Highlands       | Road   | 7.0km/4.3mi   | 123m/404ft  | A. Beck      |
+| Redwood Lights           | Gravel | 1.8km/1.1mi   | 32m/105ft   | M. Urech     |
+| Richman Golf             | Mixed  | 1.3km/0.8mi   | 17m//56ft   | M. Urech     |
+| Route 68                 | Road   | 7.3km/4.5mi   | 228m/748ft  | M. Urech     |
+| Santos Rally             | Mixed  | 49.0km/30.5mi | 378m/1242ft | SK. Yeatts   |
+| Senora Desert            | Gravel | 8.0km/5.0mi   | 53m/274ft   | M. Urech     |
+| Suburb Crit              | Road   | 1.4km/0.9mi   | 64m/210ft   | A. Beck      |
+| The Tourist              | Road   | 16.0km/9.9mi  | 345m/1132ft | R. Slaughter |
+| Tour Los Santos          | Road   | 30.1km/18.7mi | 533m/1750ft | N. Matas     |
+| Vinewood Heights         | Road   | 8.0km/5.0mi   | 202m/661ft  | R. Slaughter |
+| Vinewood Racetrack       | Gravel | 1.0km/0.6mi   | 18m/59ft    | M. Mohan     |
+| West Coast               | Gravel | 12.1km/7.5mi  | 316m/1036ft | M. Urech     |
+| Windy Hills              | Gravel | 9.8km/6.1mi   | 166m/542ft  | M. Urech     |
 
 ## Contributing
 
