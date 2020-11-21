@@ -4,38 +4,38 @@ This repository contains courses for [GT Bike V Mod](https://de.gta5-mods.com/sc
 
 ## Courses
 
-| Course Name                       | Distance      | Elevation   | Author            |
-| :-------------------------------- | :------------ | :---------- | :---------------- |
-| alamo_sea                         | 9.9km/6.2mi   | 70m/230ft   | Nestor Matas      |
-| bmx_redwood_lights                | 1.8km/1.1mi   | 32m/105ft   | Matthias Urech    |
-| bmx_richman_golf                  | 1.3km/0.8mi   | 17m//56ft   | Matthias Urech    |
-| gravel_davis_quartz               | 3.8km/2.4mi   | 73m/242ft   | Matthias Urech    |
-| gravel_el_burro_heights           | 5.0km/3.1mi   | 92m/301ft   | Matthias Urech    |
-| gravel_grapeseed                  | 4.5km/2.8mi   | 44m/145ft   | Matthias Urech    |
-| gravel_gravelfondo                | 24.0km/14.9mi | 344m/1128ft | Matthias Urech    |
-| gravel_great_chaparral            | 9.8km/6.0mi   | 126m/413ft  | Matthias Urech    |
-| gravel_mount_josiah               | 8.7km/5.4mi   | 90m/295ft   | Cassio Davi       |
-| gravel_mount_josiah_and_alamo_sea | 16.7km/10.4mi | 141m/463ft  | Cassio Davi       |
-| gravel_senora_desert              | 8.0km/5.0mi   | 53m/274ft   | Matthias Urech    |
-| gravel_vinewood_racetrack         | 1.0km/0.6mi   | 18m/59ft    | Madan Mohan       |
-| gravel_west_coast                 | 12.1km/7.5mi  | 316m/1036ft | Matthias Urech    |
-| gravel_windy_hills                | 9.8km/6.1mi   | 166m/542ft  | Matthias Urech    |
-| los_santos_hills                  | 14.0km/8.7mi  | 206m/677ft  | Nestor Matas      |
-| mtb_marlowe_vineyards             | 3.8km/2.3mi   | 142m/466ft  | Matthias Urech    |
-| mtb_mount_chilliad                | 10.0km/6.2mi  | 278m/912ft  | Matthias Urech    |
-| road_central_8                    | 11.2km/6.9mi  | 434m/1424ft | Matthias Urech    |
-| road_docklands                    | 17.0km/10.5mi | 380m/1246ft | Matthias Urech    |
-| road_east_los_santos              | 8.8km/5.5mi   | 280m/918ft  | Matthias Urech    |
-| road_foothills                    | 37.0km/23.0mi | 678m/2224ft | SK Yeatts         |
-| road_full_circle                  | 48.2km/30.0mi | 891m/2922ft | SK Yeatts         |
-| road_land_act_dam_loop            | 5.0km/3.1mi   | 98m/323ft   | Richard Slaughter |
-| road_palomino_highlands           | 7.0km/4.3mi   | 123m/404ft  | András Beck       |
-| road_route_68                     | 7.3km/4.5mi   | 228m/748ft  | Matthias Urech    |
-| road_santos_rally                 | 49.0km/30.5mi | 378m/1242ft | SK Yeatts         |
-| road_suburb_crit                  | 1.4km/0.9mi   | 64m/210ft   | András Beck       |
-| road_vinewood_heights             | 8.0km/5.0mi   | 202m/661ft  | Richard Slaughter |
-| the_tourist                       | 16.0km/9.9mi  | 345m/1132ft | Richard Slaughter |
-| tour_los_santos                   | 30.1km/18.7mi | 533m/1750ft | Nestor Matas      |
+| Course Name              | Distance      | Elevation   | Author       |
+| :----------------------- | :------------ | :---------- | :----------- |
+| Alamo Sea                | 9.9km/6.2mi   | 70m/230ft   | N. Matas     |
+| Central 8                | 11.2km/6.9mi  | 434m/1424ft | M. Urech     |
+| Davis Quartz             | 3.8km/2.4mi   | 73m/242ft   | M. Urech     |
+| Docklands                | 17.0km/10.5mi | 380m/1246ft | M. Urech     |
+| East Los Santos          | 8.8km/5.5mi   | 280m/918ft  | M. Urech     |
+| El Burro Heights         | 5.0km/3.1mi   | 92m/301ft   | M. Urech     |
+| Foothills                | 37.0km/23.0mi | 678m/2224ft | SK. Yeatts   |
+| Full Ccircle             | 48.2km/30.0mi | 891m/2922ft | SK. Yeatts   |
+| Grapeseed                | 4.5km/2.8mi   | 44m/145ft   | M. Urech     |
+| Gravelfondo              | 24.0km/14.9mi | 344m/1128ft | M. Urech     |
+| Great Chaparral          | 9.8km/6.0mi   | 126m/413ft  | M. Urech     |
+| Land Act Dam Loop        | 5.0km/3.1mi   | 98m/323ft   | R. Slaughter |
+| Los Santos Hills         | 14.0km/8.7mi  | 206m/677ft  | N. Matas     |
+| Marlowe_Vineyards        | 3.8km/2.3mi   | 142m/466ft  | M. Urech     |
+| Mount Chilliad           | 10.0km/6.2mi  | 278m/912ft  | M. Urech     |
+| Mount Josiah             | 8.7km/5.4mi   | 90m/295ft   | C. Davi      |
+| Mount Josiah & Alamo Sea | 16.7km/10.4mi | 141m/463ft  | C. Davi      |
+| Palomino Highlands       | 7.0km/4.3mi   | 123m/404ft  | A. Beck      |
+| Redwood Lights           | 1.8km/1.1mi   | 32m/105ft   | M. Urech     |
+| Richman Golf             | 1.3km/0.8mi   | 17m//56ft   | M. Urech     |
+| Route 68                 | 7.3km/4.5mi   | 228m/748ft  | M. Urech     |
+| Santos Rally             | 49.0km/30.5mi | 378m/1242ft | SK. Yeatts   |
+| Senora Desert            | 8.0km/5.0mi   | 53m/274ft   | M. Urech     |
+| Suburb Crit              | 1.4km/0.9mi   | 64m/210ft   | A. Beck      |
+| The Tourist              | 16.0km/9.9mi  | 345m/1132ft | R. Slaughter |
+| Tour Los Santos          | 30.1km/18.7mi | 533m/1750ft | N. Matas     |
+| Vinewood Heights         | 8.0km/5.0mi   | 202m/661ft  | R. Slaughter |
+| Vinewood Racetrack       | 1.0km/0.6mi   | 18m/59ft    | M. Mohan     |
+| West Coast               | 12.1km/7.5mi  | 316m/1036ft | M. Urech     |
+| Windy Hills              | 9.8km/6.1mi   | 166m/542ft  | M. Urech     |
 
 ## Contributing
 
