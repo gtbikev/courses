@@ -13,7 +13,7 @@ This repository contains courses for [GT Bike V Mod](https://de.gta5-mods.com/sc
 | East Los Santos          | Road   | 8.8km/5.5mi   | 280m/918ft  | M. Urech     |
 | El Burro Heights         | Gravel | 5.0km/3.1mi   | 92m/301ft   | M. Urech     |
 | Foothills                | Mixed  | 37.0km/23.0mi | 678m/2224ft | SK. Yeatts   |
-| Full Circle             | Mixed  | 48.2km/30.0mi | 891m/2922ft | SK. Yeatts   |
+| Full Circle              | Mixed  | 48.2km/30.0mi | 891m/2922ft | SK. Yeatts   |
 | Grapeseed                | Gravel | 4.5km/2.8mi   | 44m/145ft   | M. Urech     |
 | Gravelfondo              | Gravel | 24.0km/14.9mi | 344m/1128ft | M. Urech     |
 | Great Chaparral          | Gravel | 9.8km/6.0mi   | 126m/413ft  | M. Urech     |
