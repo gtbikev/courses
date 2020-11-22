@@ -1,363 +1,453 @@
 {
   "CourseList": [
     {
+      "Id": 1,
       "Name": "Alamo Sea",
       "Author": {
         "Name": "Makinolo (Nestor Matas)",
         "Email": "",
         "Website": ""
       },
-      "Distance": 9.9,
-      "ElevationGain": 70,
       "Description": "Gravel roads around Alamo Sea",
       "Notes": "",
       "Version": "1.0.0",
+      "Type": ["bike", "run"],
       "URL": "https://raw.githubusercontent.com/gtbikev/courses/master/courses/alamo_sea.json",
       "ProfileURL": ""
     },
     {
-      "Name": "Redwood Lights",
-      "Author": {
-        "Name": "Matthias Urech",
-        "Email": "",
-        "Website": ""
-      },
-      "Distance": 1.8,
-      "ElevationGain": 32,
-      "Description": "BMX racetrack on Redwood Lights construction area",
-      "Notes": "",
-      "Version": "1.0.0",
-      "URL": "https://raw.githubusercontent.com/gtbikev/courses/master/courses/bmx_redwood_lights.json",
-      "ProfileURL": ""
-    },
-    {
-      "Name": "Richman Golf",
-      "Author": {
-        "Name": "Matthias Urech",
-        "Email": "",
-        "Website": ""
-      },
-      "Distance": 1.3,
-      "ElevationGain": 17,
-      "Description": "BMX practice track on Richman golf course",
-      "Notes": "",
-      "Version": "1.0.0",
-      "URL": "https://raw.githubusercontent.com/gtbikev/courses/master/courses/bmx_richman_golf.json",
-      "ProfileURL": ""
-    },
-    {
-      "Name": "Davis Quartz",
-      "Author": {
-        "Name": "Matthias Urech",
-        "Email": "",
-        "Website": ""
-      },
-      "Distance": 3.8,
-      "ElevationGain": 73,
-      "Description": "Gravel route in Davis Quartz quarry",
-      "Notes": "",
-      "Version": "1.0.0",
-      "URL": "https://raw.githubusercontent.com/gtbikev/courses/master/courses/gravel_davis_quartz.json",
-      "ProfileURL": ""
-    },
-    {
-      "Name": "El Burro Heights",
-      "Author": {
-        "Name": "Matthias Urech",
-        "Email": "",
-        "Website": ""
-      },
-      "Distance": 5.0,
-      "ElevationGain": 92,
-      "Description": "Gravel route around El Burro Heights",
-      "Notes": "",
-      "Version": "1.0.0",
-      "URL": "https://raw.githubusercontent.com/gtbikev/courses/master/courses/gravel_el_burro_heights.json",
-      "ProfileURL": ""
-    },
-    {
-      "Name": "Grapeseed",
-      "Author": {
-        "Name": "Matthias Urech",
-        "Email": "",
-        "Website": ""
-      },
-      "Distance": 4.5,
-      "ElevationGain": 44,
-      "Description": "Gravel route through fields of Grapeseed",
-      "Notes": "",
-      "Version": "1.0.0",
-      "URL": "https://raw.githubusercontent.com/gtbikev/courses/master/courses/gravel_grapeseed.json",
-      "ProfileURL": ""
-    },
-    {
-      "Name": "Gravelfondo",
-      "Author": {
-        "Name": "Matthias Urech",
-        "Email": "",
-        "Website": ""
-      },
-      "Distance": 24.0,
-      "ElevationGain": 344,
-      "Description": "Gravel roads through central and midwest area",
-      "Notes": "",
-      "Version": "1.0.0",
-      "URL": "https://raw.githubusercontent.com/gtbikev/courses/master/courses/gravel_gravelfondo.json",
-      "ProfileURL": ""
-    },
-    {
-      "Name": "Great Chaparral",
-      "Author": {
-        "Name": "Matthias Urech",
-        "Email": "",
-        "Website": ""
-      },
-      "Distance": 9.8,
-      "ElevationGain": 126,
-      "Description": "Gravel route through Great Chaparral",
-      "Notes": "",
-      "Version": "1.0.0",
-      "URL": "https://raw.githubusercontent.com/gtbikev/courses/master/courses/gravel_great_chaparral.json",
-      "ProfileURL": ""
-    },
-    {
-      "Name": "Mount Josiah & Alamo Sea",
-      "Author": {
-        "Name": "Cassio Davi",
-        "Email": "",
-        "Website": ""
-      },
-      "Distance": 16.7,
-      "ElevationGain": 141,
-      "Description": "Eight shaped route around Mount Josiah and Alamo Sea",
-      "Notes": "",
-      "Version": "1.0.0",
-      "URL": "https://raw.githubusercontent.com/gtbikev/courses/master/courses/gravel_mount_josiah_and_alamo_sea.json",
-      "ProfileURL": ""
-    },
-    {
-      "Name": "Senora Desert",
-      "Author": {
-        "Name": "Matthias Urech",
-        "Email": "",
-        "Website": ""
-      },
-      "Distance": 8.0,
-      "ElevationGain": 53,
-      "Description": "Gravel route through Senora Desert",
-      "Notes": "",
-      "Version": "1.0.0",
-      "URL": "https://raw.githubusercontent.com/gtbikev/courses/master/courses/gravel_senora_desert.json",
-      "ProfileURL": ""
-    },
-    {
-      "Name": "Vinewood Racetrack",
-      "Author": {
-        "Name": "Madan Mohan",
-        "Email": "",
-        "Website": ""
-      },
-      "Distance": 1.0,
-      "ElevationGain": 18,
-      "Description": "Gravel loop on Vinewood racetrack",
-      "Notes": "",
-      "Version": "1.0.0",
-      "URL": "https://raw.githubusercontent.com/gtbikev/courses/master/courses/gravel_vinewood_racetrack.json",
-      "ProfileURL": ""
-    },
-    {
-      "Name": "West Coast",
-      "Author": {
-        "Name": "Matthias Urech",
-        "Email": "",
-        "Website": ""
-      },
-      "Distance": 12.1,
-      "ElevationGain": 316,
-      "Description": "Gravel roads on the west coast",
-      "Notes": "",
-      "Version": "1.0.0",
-      "URL": "https://raw.githubusercontent.com/gtbikev/courses/master/courses/gravel_west_coast.json",
-      "ProfileURL": ""
-    },
-    {
-      "Name": "Windy Hills",
-      "Author": {
-        "Name": "Matthias Urech",
-        "Email": "",
-        "Website": ""
-      },
-      "Distance": 9.8,
-      "ElevationGain": 166,
-      "Description": "Gravel loop on Ron Alternates Wind Farm",
-      "Notes": "",
-      "Version": "1.0.0",
-      "URL": "https://raw.githubusercontent.com/gtbikev/courses/master/courses/gravel_windy_hills.json",
-      "ProfileURL": ""
-    },
-    {
+      "Id": 2,
       "Name": "Los Santos Hills",
       "Author": {
         "Name": "Makinolo (Nestor Matas)",
         "Email": "",
         "Website": ""
       },
-      "Distance": 14.0,
-      "ElevationGain": 206,
       "Description": "Roads around Los Santos hills",
       "Notes": "",
       "Version": "1.0.0",
+      "Type": ["bike"],
       "URL": "https://raw.githubusercontent.com/gtbikev/courses/master/courses/los_santos_hills.json",
       "ProfileURL": ""
     },
     {
-      "Name": "Marlowe Vineyards",
-      "Author": {
-        "Name": "Matthias Urech",
-        "Email": "",
-        "Website": ""
-      },
-      "Distance": 3.8,
-      "ElevationGain": 142,
-      "Description": "MTB trails in Marlowe Vineyards",
-      "Notes": "",
-      "Version": "1.0.0",
-      "URL": "https://raw.githubusercontent.com/gtbikev/courses/master/courses/mtb_marlowe_vineyards.json",
-      "ProfileURL": ""
-    },
-    {
-      "Name": "Mount Chilliad",
-      "Author": {
-        "Name": "Matthias Urech",
-        "Email": "",
-        "Website": ""
-      },
-      "Distance": 10.0,
-      "ElevationGain": 278,
-      "Description": "MTB trails around Mount Chilliad",
-      "Notes": "",
-      "Version": "1.0.0",
-      "URL": "https://raw.githubusercontent.com/gtbikev/courses/master/courses/mtb_mount_chilliad.json",
-      "ProfileURL": ""
-    },
-    {
-      "Name": "Central 8",
-      "Author": {
-        "Name": "Matthias Urech",
-        "Email": "",
-        "Website": ""
-      },
-      "Distance": 11.2,
-      "ElevationGain": 434,
-      "Description": "This route covers central roads in a figure 8 fashion",
-      "Notes": "",
-      "Version": "1.0.0",
-      "URL": "https://raw.githubusercontent.com/gtbikev/courses/master/courses/road_central_8.json",
-      "ProfileURL": ""
-    },
-    {
-      "Name": "Docklands",
-      "Author": {
-        "Name": "Matthias Urech",
-        "Email": "",
-        "Website": ""
-      },
-      "Distance": 17.0,
-      "ElevationGain": 380,
-      "Description": "Roads in Los Santos harbor area",
-      "Notes": "",
-      "Version": "1.0.0",
-      "URL": "https://raw.githubusercontent.com/gtbikev/courses/master/courses/road_docklands.json",
-      "ProfileURL": ""
-    },
-    {
-      "Name": "East Los Santos",
-      "Author": {
-        "Name": "Matthias Urech",
-        "Email": "",
-        "Website": ""
-      },
-      "Distance": 8.8,
-      "ElevationGain": 280,
-      "Description": "Roads in East Los Santos area",
-      "Notes": "",
-      "Version": "1.0.0",
-      "URL": "https://raw.githubusercontent.com/gtbikev/courses/master/courses/road_east_los_santos.json",
-      "ProfileURL": ""
-    },
-    {
-      "Name": "Land Act Dam Loop",
-      "Author": {
-        "Name": "Richard Slaughter",
-        "Email": "",
-        "Website": ""
-      },
-      "Distance": 5.0,
-      "ElevationGain": 98,
-      "Description": "Quick loop around Los Santos Pumping Station",
-      "Notes": "",
-      "Version": "1.0.0",
-      "URL": "https://raw.githubusercontent.com/gtbikev/courses/master/courses/road_land_act_dam_loop.json",
-      "ProfileURL": ""
-    },
-    {
-      "Name": "Route 68",
-      "Author": {
-        "Name": "Matthias Urech",
-        "Email": "",
-        "Website": ""
-      },
-      "Distance": 7.3,
-      "ElevationGain": 228,
-      "Description": "TT course on route 68",
-      "Notes": "",
-      "Version": "1.0.0",
-      "URL": "https://raw.githubusercontent.com/gtbikev/courses/master/courses/road_route_68.json",
-      "ProfileURL": ""
-    },
-    {
-      "Name": "Vinewood Heights",
-      "Author": {
-        "Name": "Richard Slaughter",
-        "Email": "",
-        "Website": ""
-      },
-      "Distance": 8.0,
-      "ElevationGain": 202,
-      "Description": "A hilly zigzag through ritzy Vinewood Heights",
-      "Notes": "",
-      "Version": "1.0.0",
-      "URL": "https://raw.githubusercontent.com/gtbikev/courses/master/courses/road_vinewood_heights.json",
-      "ProfileURL": ""
-    },
-    {
-      "Name": "The Tourist",
-      "Author": {
-        "Name": "Richard Slaughter",
-        "Email": "",
-        "Website": ""
-      },
-      "Distance": 16.0,
-      "ElevationGain": 345,
-      "Description": "A sightseeing tour through Los Santos",
-      "Notes": "",
-      "Version": "1.0.0",
-      "URL": "https://raw.githubusercontent.com/gtbikev/courses/master/courses/the_tourist.json",
-      "ProfileURL": ""
-    },
-    {
+      "Id": 3,
       "Name": "Tour Los Santos",
       "Author": {
         "Name": "Makinolo (Nestor Matas)",
         "Email": "",
         "Website": ""
       },
-      "Distance": 30.1,
-      "ElevationGain": 533,
       "Description": "Big loop around Los Santos",
       "Notes": "",
       "Version": "1.0.0",
+      "Type": ["bike"],
       "URL": "https://raw.githubusercontent.com/gtbikev/courses/master/courses/tour_los_santos.json",
+      "ProfileURL": ""
+    },
+    {
+      "Id": 4,
+      "Name": "Land Act Dam Loop",
+      "Author": {
+        "Name": "Richard Slaughter",
+        "Email": "",
+        "Website": ""
+      },
+      "Description": "Quick loop around Los Santos Pumping Station",
+      "Notes": "",
+      "Version": "1.0.0",
+      "Type": ["bike", "run"],
+      "URL": "https://raw.githubusercontent.com/gtbikev/courses/master/courses/road_land_act_dam_loop.json",
+      "ProfileURL": ""
+    },
+    {
+      "Id": 5, 
+      "Name": "The Tourist",
+      "Author": {
+        "Name": "Richard Slaughter",
+        "Email": "",
+        "Website": ""
+      },
+      "Description": "A sightseeing tour through Los Santos",
+      "Notes": "",
+      "Version": "1.0.0",
+      "Type": ["bike"],
+      "URL": "https://raw.githubusercontent.com/gtbikev/courses/master/courses/the_tourist.json",
+      "ProfileURL": ""
+    },
+    {
+      "Id": 6,
+      "Name": "Vinewood Heights",
+      "Author": {
+        "Name": "Richard Slaughter",
+        "Email": "",
+        "Website": ""
+      },
+      "Description": "A hilly zigzag through ritzy Vinewood Heights",
+      "Notes": "",
+      "Version": "1.0.0",
+      "Type": ["bike", "run"],
+      "URL": "https://raw.githubusercontent.com/gtbikev/courses/master/courses/road_vinewood_heights.json",
+      "ProfileURL": ""
+    },
+    {
+      "Id": 7,
+      "Name": "Palomino Highlands",
+      "Author": {
+        "Name": "András Beck",
+        "Email": "",
+        "Website": ""
+      },
+      "Description": "Roads in Palomino Highlands area",
+      "Notes": "",
+      "Version": "1.0.0",
+      "Type": ["bike", "run"],
+      "URL": "https://raw.githubusercontent.com/gtbikev/courses/master/courses/road_palomino_highlands.json",
+      "ProfileURL": ""
+    },
+    {
+      "Id": 8,
+      "Name": "Suburb Crit",
+      "Author": {
+        "Name": "András Beck",
+        "Email": "",
+        "Website": ""
+      },
+      "Description": "Road Loop in East Los Santos",
+      "Notes": "",
+      "Version": "1.0.0",
+      "Type": ["bike", "run"],
+      "URL": "https://raw.githubusercontent.com/gtbikev/courses/master/courses/road_suburb_crit.json",
+      "ProfileURL": ""
+    },
+    {
+      "Id": 9,
+      "Name": "Mount Chilliad",
+      "Author": {
+        "Name": "Matthias Urech",
+        "Email": "",
+        "Website": ""
+      },
+      "Description": "MTB trails around Mount Chilliad",
+      "Notes": "",
+      "Version": "1.0.0",
+      "Type": ["bike"],
+      "URL": "https://raw.githubusercontent.com/gtbikev/courses/master/courses/mtb_mount_chilliad.json",
+      "ProfileURL": ""
+    },
+    {
+      "Id": 10,
+      "Name": "West Coast",
+      "Author": {
+        "Name": "Matthias Urech",
+        "Email": "",
+        "Website": ""
+      },
+      "Description": "Gravel roads on the west coast",
+      "Notes": "",
+      "Version": "1.0.0",
+      "Type": ["bike"],
+      "URL": "https://raw.githubusercontent.com/gtbikev/courses/master/courses/gravel_west_coast.json",
+      "ProfileURL": ""
+    },
+    {
+      "Id": 11,
+      "Name": "Docklands",
+      "Author": {
+        "Name": "Matthias Urech",
+        "Email": "",
+        "Website": ""
+      },
+      "Description": "Roads in Los Santos harbor area",
+      "Notes": "",
+      "Version": "1.0.0",
+      "Type": ["bike"],
+      "URL": "https://raw.githubusercontent.com/gtbikev/courses/master/courses/road_docklands.json",
+      "ProfileURL": ""
+    },
+    {
+      "Id": 12,
+      "Name": "Redwood Lights",
+      "Author": {
+        "Name": "Matthias Urech",
+        "Email": "",
+        "Website": ""
+      },
+      "Description": "Loop on Redwood Lights construction area",
+      "Notes": "",
+      "Version": "1.0.0",
+      "Type": ["bike", "run"],
+      "URL": "https://raw.githubusercontent.com/gtbikev/courses/master/courses/bmx_redwood_lights.json",
+      "ProfileURL": ""
+    },
+    {
+      "Id": 13,
+      "Name": "Route 68",
+      "Author": {
+        "Name": "Matthias Urech",
+        "Email": "",
+        "Website": ""
+      },
+      "Description": "TT course on route 68",
+      "Notes": "",
+      "Version": "1.0.0",
+      "Type": ["bike", "run"],
+      "URL": "https://raw.githubusercontent.com/gtbikev/courses/master/courses/road_route_68.json",
+      "ProfileURL": ""
+    },
+    {
+      "Id": 14,
+      "Name": "Richman Golf",
+      "Author": {
+        "Name": "Matthias Urech",
+        "Email": "",
+        "Website": ""
+      },
+      "Description": "Loop on Richman golf course",
+      "Notes": "",
+      "Version": "1.0.0",
+      "Type": ["bike", "run"],
+      "URL": "https://raw.githubusercontent.com/gtbikev/courses/master/courses/bmx_richman_golf.json",
+      "ProfileURL": ""
+    },
+    {
+      "Id": 15,
+      "Name": "Windy Hills",
+      "Author": {
+        "Name": "Matthias Urech",
+        "Email": "",
+        "Website": ""
+      },
+      "Description": "Gravel loop on Ron Alternates Wind Farm",
+      "Notes": "",
+      "Version": "1.0.0",
+      "Type": ["bike", "run"],
+      "URL": "https://raw.githubusercontent.com/gtbikev/courses/master/courses/gravel_windy_hills.json",
+      "ProfileURL": ""
+    },
+    {
+      "Id": 16,
+      "Name": "Central 8",
+      "Author": {
+        "Name": "Matthias Urech",
+        "Email": "",
+        "Website": ""
+      },
+      "Description": "This route covers central roads in a figure 8 fashion",
+      "Notes": "",
+      "Version": "1.0.0",
+      "Type": ["bike"],
+      "URL": "https://raw.githubusercontent.com/gtbikev/courses/master/courses/road_central_8.json",
+      "ProfileURL": ""
+    },
+    {
+      "Id": 17,
+      "Name": "Vinewood Racetrack",
+      "Author": {
+        "Name": "Madan Mohan",
+        "Email": "",
+        "Website": ""
+      },
+      "Description": "Gravel loop on Vinewood racetrack",
+      "Notes": "",
+      "Version": "1.0.0",
+      "Type": ["bike", "run"],
+      "URL": "https://raw.githubusercontent.com/gtbikev/courses/master/courses/gravel_vinewood_racetrack.json",
+      "ProfileURL": ""
+    },
+    {
+      "Id": 18,
+      "Name": "Grapeseed",
+      "Author": {
+        "Name": "Matthias Urech",
+        "Email": "",
+        "Website": ""
+      },
+      "Description": "Gravel route through fields of Grapeseed",
+      "Notes": "",
+      "Version": "1.0.0",
+      "Type": ["bike", "run"],
+      "URL": "https://raw.githubusercontent.com/gtbikev/courses/master/courses/gravel_grapeseed.json",
+      "ProfileURL": ""
+    },
+    {
+      "Id": 19,
+      "Name": "Senora Desert",
+      "Author": {
+        "Name": "Matthias Urech",
+        "Email": "",
+        "Website": ""
+      },
+      "Description": "Gravel route through Senora Desert",
+      "Notes": "",
+      "Version": "1.0.0",
+      "Type": ["bike", "run"],
+      "URL": "https://raw.githubusercontent.com/gtbikev/courses/master/courses/gravel_senora_desert.json",
+      "ProfileURL": ""
+    },
+    {
+      "Id": 20,
+      "Name": "El Burro Heights",
+      "Author": {
+        "Name": "Matthias Urech",
+        "Email": "",
+        "Website": ""
+      },
+      "Description": "Gravel route around El Burro Heights",
+      "Notes": "",
+      "Version": "1.0.0",
+      "Type": ["bike"],
+      "URL": "https://raw.githubusercontent.com/gtbikev/courses/master/courses/gravel_el_burro_heights.json",
+      "ProfileURL": ""
+    },
+    {
+      "Id": 21,
+      "Name": "Davis Quartz",
+      "Author": {
+        "Name": "Matthias Urech",
+        "Email": "",
+        "Website": ""
+      },
+      "Description": "Gravel route in Davis Quartz quarry",
+      "Notes": "",
+      "Version": "1.0.0",
+      "Type": ["bike"],
+      "URL": "https://raw.githubusercontent.com/gtbikev/courses/master/courses/gravel_davis_quartz.json",
+      "ProfileURL": ""
+    },
+    {
+      "Id": 22,
+      "Name": "Marlowe Vineyards",
+      "Author": {
+        "Name": "Matthias Urech",
+        "Email": "",
+        "Website": ""
+      },
+      "Description": "MTB trails in Marlowe Vineyards",
+      "Notes": "",
+      "Version": "1.0.0",
+      "Type": ["bike"],
+      "URL": "https://raw.githubusercontent.com/gtbikev/courses/master/courses/mtb_marlowe_vineyards.json",
+      "ProfileURL": ""
+    },
+    {
+      "Id": 23,
+      "Name": "East Los Santos",
+      "Author": {
+        "Name": "Matthias Urech",
+        "Email": "",
+        "Website": ""
+      },
+      "Description": "Roads in East Los Santos area",
+      "Notes": "",
+      "Version": "1.0.0",
+      "Type": ["bike", "run"],
+      "URL": "https://raw.githubusercontent.com/gtbikev/courses/master/courses/road_east_los_santos.json",
+      "ProfileURL": ""
+    },
+    {
+      "Id": 24,
+      "Name": "Mount Josiah & Alamo Sea",
+      "Author": {
+        "Name": "Cassio Davi",
+        "Email": "",
+        "Website": ""
+      },
+      "Description": "Eight shaped route around Mount Josiah and Alamo Sea",
+      "Notes": "",
+      "Version": "1.0.0",
+      "Type": ["bike"],
+      "URL": "https://raw.githubusercontent.com/gtbikev/courses/master/courses/gravel_mount_josiah_and_alamo_sea.json",
+      "ProfileURL": ""
+    },
+    {
+      "Id": 25,
+      "Name": "Great Chaparral",
+      "Author": {
+        "Name": "Matthias Urech",
+        "Email": "",
+        "Website": ""
+      },
+      "Description": "Gravel route through Great Chaparral",
+      "Notes": "",
+      "Version": "1.0.0",
+      "Type": ["bike"],
+      "URL": "https://raw.githubusercontent.com/gtbikev/courses/master/courses/gravel_great_chaparral.json",
+      "ProfileURL": ""
+    },
+    {
+      "Id": 26,
+      "Name": "Gravelfondo",
+      "Author": {
+        "Name": "Matthias Urech",
+        "Email": "",
+        "Website": ""
+      },
+      "Description": "Gravel roads through central and midwest area",
+      "Notes": "",
+      "Version": "1.0.0",
+      "Type": ["bike"],
+      "URL": "https://raw.githubusercontent.com/gtbikev/courses/master/courses/gravel_gravelfondo.json",
+      "ProfileURL": ""
+    },
+    {
+      "Id": 27,
+      "Name": "Mount Josiah",
+      "Author": {
+        "Name": "Cassio Davi",
+        "Email": "",
+        "Website": ""
+      },
+      "Description": "Lap around Mount Josiah",
+      "Notes": "",
+      "Version": "1.0.0",
+      "Type": ["bike", "run"],
+      "URL": "https://raw.githubusercontent.com/gtbikev/courses/master/courses/gravel_mount_josiah.json",
+      "ProfileURL": ""
+    },
+    {
+      "Id": 28,
+      "Name": "Foothills",
+      "Author": {
+        "Name": "SK Yeatts",
+        "Email": "",
+        "Website": ""
+      },
+      "Description": "Roads around Los Santos scenic highlights",
+      "Notes": "",
+      "Version": "1.0.0",
+      "Type": ["bike"],
+      "URL": "https://raw.githubusercontent.com/gtbikev/courses/master/courses/road_foothills.json",
+      "ProfileURL": ""
+    },
+    {
+      "Id": 29,
+      "Name": "Full Circle",
+      "Author": {
+        "Name": "SK Yeatts",
+        "Email": "",
+        "Website": ""
+      },
+      "Description": "Covering Los Santos roads in one circle",
+      "Notes": "",
+      "Version": "1.0.0",
+      "Type": ["bike"],
+      "URL": "https://raw.githubusercontent.com/gtbikev/courses/master/courses/road_full_circle.json",
+      "ProfileURL": ""
+    },
+    {
+      "Id": 30,
+      "Name": "Santos Rally",
+      "Author": {
+        "Name": "SK Yeatts",
+        "Email": "",
+        "Website": ""
+      },
+      "Description": "A rally through Los Santos",
+      "Notes": "",
+      "Version": "1.0.0",
+      "Type": ["bike"],
+      "URL": "https://raw.githubusercontent.com/gtbikev/courses/master/courses/road_santos_rally.json",
       "ProfileURL": ""
     }
   ]
