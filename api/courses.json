@@ -80,7 +80,7 @@
       },
       "Description": "Roads in Palomino Highlands area",
       "Notes": "",
-      "Version": "1.0.0",
+      "Version": "0.17.0",
       "Type": ["bike", "run"],
       "Category": ["Road"]
     },
@@ -92,7 +92,7 @@
       },
       "Description": "Road Loop in East Los Santos",
       "Notes": "",
-      "Version": "1.0.0",
+      "Version": "0.17.0",
       "Type": ["bike", "run"],
       "Category": ["Road"]
     },
