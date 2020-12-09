@@ -1,6 +1,26 @@
 # Courses - Changelog
 This changelog goes through all the changes that have been made in each release.
 
+## v0.18.0 (2020-12-09)
+
+**New Routes**
+
+* road_hills_and_valleys_8 (11.2km/7.0mi)
+* road_ports_and_golf (19.8km/12.3mi)
+
+**Updated Routes**
+
+* road_docklands (17.0km/10.5mi)
+
+**Thank You!**
+
+Last but certainly not least, a big thank you to the following people who contributed:
+
+* Steven Gilbert (new course: Hills & Valleys 8, Ports Oil Slick and Golf Stick)
+* Matthias Urech (update course: Docklands)
+
+---
+
 ## v0.17.0 (2020-11-21)
 
 **New Routes**

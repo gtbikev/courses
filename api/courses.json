@@ -128,7 +128,7 @@
       },
       "Description": "Roads in Los Santos harbor area",
       "Notes": "",
-      "Version": "0.8.0",
+      "Version": "0.18.0",
       "Type": ["bike"],
       "Category": ["Road"]
     },
@@ -359,6 +359,30 @@
       "Version": "0.17.0",
       "Type": ["bike"],
       "Category": ["Gravel", "Road"]
+    },
+    {
+      "Id": 31,
+      "Name": "Hills and Valleys 8",
+      "Author": {
+        "Name": "Steven Gilbert"
+      },
+      "Description": "A short figure 8 course through the Los Santos hills and valleys",
+      "Notes": "",
+      "Version": "0.18.0",
+      "Type": ["bike"],
+      "Category": ["Road"]
+    },
+    {
+      "Id": 32,
+      "Name": "Ports Oil Slick & Golf Stick",
+      "Author": {
+        "Name": "Steven Gilbert"
+      },
+      "Description": "A tour of the port and airport, plus a trip up past the oil fields, through town and around the golf course",
+      "Notes": "The course crosses a railway line 4 times, at 6.3km(3.9mi), 17.7km(11mi), 18.4km(11.4mi) and 18.6km(11.6mi). The first 2 are managed by crossing barriers, so if you see them lowering, be prepared to stop. The last 2, as you enter the port are not, but I've never seen a train on them.",
+      "Version": "0.18.0",
+      "Type": ["bike"],
+      "Category": ["Road"]
     }
   ]
 }
