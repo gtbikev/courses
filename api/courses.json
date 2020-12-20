@@ -113,8 +113,7 @@
         "bike"
       ],
       "Category": [
-        "Gravel",
-        "Road"
+        "-"
       ]
     },
     {
@@ -130,8 +129,7 @@
         "bike"
       ],
       "Category": [
-        "Gravel",
-        "Road"
+        "-"
       ]
     },
     {
@@ -230,6 +228,22 @@
       ],
       "Category": [
         "Road"
+      ]
+    },
+    {
+      "Id": 30,
+      "Name": "Los Santos Road Rally",
+      "Author": {
+        "Name": "SK Yeatts"
+      },
+      "Description": "-",
+      "Notes": "",
+      "Version": "0.17.0",
+      "Type": [
+        "bike"
+      ],
+      "Category": [
+        "-"
       ]
     },
     {
@@ -378,23 +392,6 @@
         "run"
       ],
       "Category": [
-        "Road"
-      ]
-    },
-    {
-      "Id": 30,
-      "Name": "Santos Rally",
-      "Author": {
-        "Name": "SK Yeatts"
-      },
-      "Description": "-",
-      "Notes": "",
-      "Version": "0.17.0",
-      "Type": [
-        "bike"
-      ],
-      "Category": [
-        "Gravel",
         "Road"
       ]
     },
