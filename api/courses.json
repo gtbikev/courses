@@ -211,6 +211,7 @@
         "run"
       ],
       "Category": [
+        "Gravel",
         "Road"
       ]
     },
@@ -384,7 +385,7 @@
       "Author": {
         "Name": "Matthias Urech"
       },
-      "Description": "Course on road 68",
+      "Description": "Roads along route 68",
       "Notes": "",
       "Version": "0.5.0",
       "Type": [
@@ -517,7 +518,7 @@
       "Author": {
         "Name": "Matthias Urech"
       },
-      "Description": "Gravel route on Ron alternates wind farm",
+      "Description": "Gravel route on RON Alternates Wind Farm",
       "Notes": "",
       "Version": "0.6.0",
       "Type": [
