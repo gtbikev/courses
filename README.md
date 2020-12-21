@@ -12,19 +12,19 @@ This repository contains courses for [GT Bike V Mod](https://de.gta5-mods.com/sc
 | 11   | Docklands                    | 16.9km/10.5mi | 65m/213ft   | M. Urech     | Road        | Roads in Los Santos harbor area                       | Completed       |
 | 23   | East Los Santos              | 8.8km/5.5mi   | 46m/150ft   | M. Urech     | Road        | Roads in East Los Santos area                         | Completed       |
 | 20   | El Burro Heights             | 4.9km/3.0mi   | 89m/291ft   | M. Urech     | Gravel      | Gravel route around El Burro Heights                  | Completed       |
-| 28   | Foothills                    | 26.0km/16.1mi | 266m/872ft  | SK. Yeatts   | -           | -                                                     | Completed       |
-| 29   | Full Circle                  | 48.7km/30.3mi | 240m/787ft  | SK. Yeatts   | -           | -                                                     | Completed       |
+| 28   | Foothills                    | 26.0km/16.1mi | 266m/872ft  | SK. Yeatts   | Gravel,Road | -                                                     | Completed       |
+| 29   | Full Circle                  | 48.7km/30.3mi | 240m/787ft  | SK. Yeatts   | Road        | -                                                     | Completed       |
 | 18   | Grapeseed                    | 4.5km/2.8mi   | 69m/226ft   | M. Urech     | Gravel      | Gravel route through fields of Grapeseed              | Completed       |
 | 26   | Gravelfondo                  | 24.0km/14.9mi | 227m/744ft  | M. Urech     | Gravel      | Gravel route through central & midwest area           | Completed       |
 | 25   | Great Chaparral              | 9.8km/6.0mi   | 177m/580ft  | M. Urech     | Gravel      | Gravel route through Great Chaparral                  | Completed       |
 | 31   | Hills and Valleys 8          | 11.2km/7.0mi  | 190m/623ft  | S. Gilbert   | Road        | Figure 8 course through Los Santos hills & valleys    | Completed       |
 | 4    | Land Act Dam Loop            | 5.1km/3.2mi   | 88m/289ft   | R. Slaughter | Gravel,Road | Quick loop around Los Santos Pumping Station          | Completed       |
 | 2    | Los Santos Hills             | 13.7km/8.5mi  | 193m/633ft  | N. Matas     | Road        | Roads around Los Santos hills                         | Completed       |
-| 30   | Los Santos Road Rally        | 49.1km/30.5mi | 468m/1535ft | SK. Yeatts   | -           | -                                                     | Completed       |
+| 30   | Los Santos Road Rally        | 49.1km/30.5mi | 468m/1535ft | SK. Yeatts   | Gravel,Road | -                                                     | Completed       |
 | 22   | Marlowe Vineyards            | 3.9km/2.4mi   | 80m/262ft   | M. Urech     | Trail       | Trails in Marlowe Vineyards                           | Completed       |
 | 9    | Mount Chilliad               | 9.9km/6.2mi   | 175m/574ft  | M. Urech     | Trail       | Trails around Mount Chilliad                          | Completed       |
-| 27   | Mount Josiah                 | 8.7km/5.4mi   | 90m/295ft   | C. Davi      | Gravel      | Lap around Mount Josiah                               | Missing         |
-| 24   | Mount Josiah & Alamo Sea     | 16.7km/10.4mi | 141m/463ft  | C. Davi      | Gravel      | Eight shaped route around Mount Josiah & Alamo Sea    | Missing         |
+| 27   | Mount Josiah                 | 8.7km/5.4mi   | 89m/291ft   | C. Davi      | Gravel      | Lap around Mount Josiah                               | Completed       |
+| 24   | Mount Josiah & Alamo Sea     | 16.7km/10.4mi | 141m/463ft  | C. Davi      | Gravel,Road | Eight shaped route around Mount Josiah & Alamo Sea    | Completed       |
 | 7    | Palomino Highlands           | 4.5km/2.8mi   | 76m/249ft   | A. Beck      | Road        | Roads in Palomino Highlands area                      | Completed       |
 | 32   | Ports Oil Slick & Golf Stick | 19.7km/12.2mi | 175m/574ft  | S. Gilbert   | Road        | Route around ports, airport, oil fields & golf course | Completed       |
 | 12   | Redwood Lights               | 1.9km/1.2mi   | 34m/112ft   | M. Urech     | Gravel      | Loop on Redwood Lights construction area              | Completed       |
