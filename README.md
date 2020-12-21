@@ -6,7 +6,7 @@ This repository contains courses for [GT Bike V Mod](https://de.gta5-mods.com/sc
 
 | ID   | Course Name                  | Distance      | Elevation   | Author       | Category    | Description                                           | Fit File Status |
 | :--- | :--------------------------- | :------------ | :---------- | :----------- | :---------- | :---------------------------------------------------- | :-------------- |
-| 1    | Alamo Sea                    | 9.8km/6.0mi   | 93m/305ft   | N. Matas     | Gravel,Road | Loop around Alamo Sea                                 | Completed       |
+| 1    | Alamo Sea                    | 9.6km/6.0mi   | 68m/223ft   | N. Matas     | Gravel,Road | Loop around Alamo Sea                                 | Completed       |
 | 16   | Central 8                    | 11.1km/6.9mi  | 54m/177ft   | M. Urech     | Road        | Central roads in a figure 8 fashion                   | Completed       |
 | 21   | Davis Quartz                 | 3.9km/2.4mi   | 68m/223ft   | M. Urech     | Gravel      | Gravel route in Davis Quartz quarry                   | Completed       |
 | 11   | Docklands                    | 16.9km/10.5mi | 65m/213ft   | M. Urech     | Road        | Roads in Los Santos harbor area                       | Completed       |
@@ -19,7 +19,7 @@ This repository contains courses for [GT Bike V Mod](https://de.gta5-mods.com/sc
 | 25   | Great Chaparral              | 9.8km/6.0mi   | 177m/580ft  | M. Urech     | Gravel      | Gravel route through Great Chaparral                  | Completed       |
 | 31   | Hills and Valleys 8          | 11.2km/7.0mi  | 190m/623ft  | S. Gilbert   | Road        | Figure 8 course through Los Santos hills & valleys    | Completed       |
 | 4    | Land Act Dam Loop            | 5.1km/3.2mi   | 88m/289ft   | R. Slaughter | Gravel,Road | Quick loop around Los Santos Pumping Station          | Completed       |
-| 2    | Los Santos Hills             | 14.2km/8.8mi  | 194m/636ft  | N. Matas     | Road        | Roads around Los Santos hills                         | Completed       |
+| 2    | Los Santos Hills             | 13.7km/8.5mi  | 193m/633ft  | N. Matas     | Road        | Roads around Los Santos hills                         | Completed       |
 | 30   | Los Santos Road Rally        | 49.1km/30.5mi | 468m/1535ft | SK. Yeatts   | -           | -                                                     | Completed       |
 | 22   | Marlowe Vineyards            | 3.9km/2.4mi   | 80m/262ft   | M. Urech     | Trail       | Trails in Marlowe Vineyards                           | Completed       |
 | 9    | Mount Chilliad               | 9.9km/6.2mi   | 175m/574ft  | M. Urech     | Trail       | Trails around Mount Chilliad                          | Completed       |
