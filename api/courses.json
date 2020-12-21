@@ -113,7 +113,8 @@
         "bike"
       ],
       "Category": [
-        "-"
+        "Gravel",
+        "Road"
       ]
     },
     {
@@ -129,7 +130,7 @@
         "bike"
       ],
       "Category": [
-        "-"
+        "Road"
       ]
     },
     {
@@ -244,7 +245,8 @@
         "bike"
       ],
       "Category": [
-        "-"
+        "Gravel",
+        "Road"
       ]
     },
     {
@@ -309,7 +311,8 @@
         "bike"
       ],
       "Category": [
-        "Gravel"
+        "Gravel",
+        "Road"
       ]
     },
     {
