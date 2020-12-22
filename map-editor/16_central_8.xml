@@ -1,41 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Map xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <Objects />
-  <RemoveFromWorld />
   <Markers>
     <Marker>
       <Type>UpsideDownCone</Type>
       <Position>
-        <X>271.154</X>
-        <Y>2608.262</Y>
-        <Z>44.748</Z>
-      </Position>
-      <Rotation>
-        <X>0</X>
-        <Y>0</Y>
-        <Z>0</Z>
-      </Rotation>
-      <Scale>
-        <X>0.75</X>
-        <Y>0.75</Y>
-        <Z>0.75</Z>
-      </Scale>
-      <TeleportTarget xsi:nil="true" />
-      <Red>255</Red>
-      <Green>255</Green>
-      <Blue>0</Blue>
-      <Alpha>255</Alpha>
-      <BobUpAndDown>false</BobUpAndDown>
-      <RotateToCamera>false</RotateToCamera>
-      <OnlyVisibleInEditor>false</OnlyVisibleInEditor>
-      <Id>0</Id>
-    </Marker>
-    <Marker>
-      <Type>UpsideDownCone</Type>
-      <Position>
-        <X>288.749</X>
-        <Y>2595.457</Y>
-        <Z>44.473</Z>
+        <X>326.025</X>
+        <Y>2632.924</Y>
+        <Z>44.547</Z>
       </Position>
       <Rotation>
         <X>0</X>
@@ -60,14 +31,14 @@
     <Marker>
       <Type>UpsideDownCone</Type>
       <Position>
-        <X>285.1175</X>
-        <Y>2648.85474</Y>
-        <Z>43.6518555</Z>
+        <X>307.261</X>
+        <Y>2642.709</Y>
+        <Z>44.497</Z>
       </Position>
       <Rotation>
         <X>0</X>
         <Y>0</Y>
-        <Z>0</Z>
+        <Z>-69.0</Z>
       </Rotation>
       <Scale>
         <X>0.75</X>
@@ -87,9 +58,9 @@
     <Marker>
       <Type>UpsideDownCone</Type>
       <Position>
-        <X>1710.49585</X>
-        <Y>3513.26147</Y>
-        <Z>35.44542</Z>
+        <X>262.612</X>
+        <Y>2753.505</Y>
+        <Z>43.898</Z>
       </Position>
       <Rotation>
         <X>0</X>
@@ -114,9 +85,9 @@
     <Marker>
       <Type>UpsideDownCone</Type>
       <Position>
-        <X>2764.19</X>
-        <Y>4397.851</Y>
-        <Z>47.95617</Z>
+        <X>1710.495</X>
+        <Y>3513.261</Y>
+        <Z>36.445</Z>
       </Position>
       <Rotation>
         <X>0</X>
@@ -141,9 +112,9 @@
     <Marker>
       <Type>UpsideDownCone</Type>
       <Position>
-        <X>2823.205</X>
-        <Y>4414.255</Y>
-        <Z>47.97734</Z>
+        <X>2764.19</X>
+        <Y>4397.851</Y>
+        <Z>48.956</Z>
       </Position>
       <Rotation>
         <X>0</X>
@@ -168,9 +139,9 @@
     <Marker>
       <Type>UpsideDownCone</Type>
       <Position>
-        <X>2920.814</X>
-        <Y>4448.008</Y>
-        <Z>46.9344635</Z>
+        <X>2823.205</X>
+        <Y>4414.255</Y>
+        <Z>48.977</Z>
       </Position>
       <Rotation>
         <X>0</X>
@@ -195,9 +166,9 @@
     <Marker>
       <Type>UpsideDownCone</Type>
       <Position>
-        <X>2787.63525</X>
-        <Y>4963.1084</Y>
-        <Z>32.666893</Z>
+        <X>2920.814</X>
+        <Y>4448.008</Y>
+        <Z>47.934</Z>
       </Position>
       <Rotation>
         <X>0</X>
@@ -222,9 +193,9 @@
     <Marker>
       <Type>UpsideDownCone</Type>
       <Position>
-        <X>2651.97266</X>
-        <Y>5120.73926</Y>
-        <Z>43.7511978</Z>
+        <X>2787.635</X>
+        <Y>4963.108</Y>
+        <Z>33.666</Z>
       </Position>
       <Rotation>
         <X>0</X>
@@ -249,9 +220,9 @@
     <Marker>
       <Type>UpsideDownCone</Type>
       <Position>
-        <X>2597.37915</X>
-        <Y>5107.12256</Y>
-        <Z>43.7427521</Z>
+        <X>2651.972</X>
+        <Y>5120.739</Y>
+        <Z>44.751</Z>
       </Position>
       <Rotation>
         <X>0</X>
@@ -276,9 +247,9 @@
     <Marker>
       <Type>UpsideDownCone</Type>
       <Position>
-        <X>2394.893</X>
-        <Y>5167.119</Y>
-        <Z>48.03342</Z>
+        <X>2597.379</X>
+        <Y>5107.122</Y>
+        <Z>44.742</Z>
       </Position>
       <Rotation>
         <X>0</X>
@@ -303,9 +274,9 @@
     <Marker>
       <Type>UpsideDownCone</Type>
       <Position>
-        <X>1973.784</X>
-        <Y>5141.903</Y>
-        <Z>43.193</Z>
+        <X>2394.893</X>
+        <Y>5167.119</Y>
+        <Z>49.033</Z>
       </Position>
       <Rotation>
         <X>0</X>
@@ -330,9 +301,9 @@
     <Marker>
       <Type>UpsideDownCone</Type>
       <Position>
-        <X>1959.377</X>
-        <Y>5144.697</Y>
-        <Z>43.336</Z>
+        <X>1973.784</X>
+        <Y>5141.903</Y>
+        <Z>44.193</Z>
       </Position>
       <Rotation>
         <X>0</X>
@@ -357,9 +328,9 @@
     <Marker>
       <Type>UpsideDownCone</Type>
       <Position>
-        <X>1676.903</X>
-        <Y>4952.688</Y>
-        <Z>42.390</Z>
+        <X>1959.377</X>
+        <Y>5144.697</Y>
+        <Z>44.336</Z>
       </Position>
       <Rotation>
         <X>0</X>
@@ -384,9 +355,9 @@
     <Marker>
       <Type>UpsideDownCone</Type>
       <Position>
-        <X>2207.188</X>
-        <Y>4738.655</Y>
-        <Z>40.534</Z>
+        <X>1676.903</X>
+        <Y>4952.688</Y>
+        <Z>43.39</Z>
       </Position>
       <Rotation>
         <X>0</X>
@@ -411,9 +382,9 @@
     <Marker>
       <Type>UpsideDownCone</Type>
       <Position>
-        <X>2449.72852</X>
-        <Y>4582.549</Y>
-        <Z>35.97937</Z>
+        <X>2207.188</X>
+        <Y>4738.655</Y>
+        <Z>41.534</Z>
       </Position>
       <Rotation>
         <X>0</X>
@@ -438,9 +409,9 @@
     <Marker>
       <Type>UpsideDownCone</Type>
       <Position>
-        <X>2497.7522</X>
-        <Y>4110.91748</Y>
-        <Z>37.3646164</Z>
+        <X>2449.728</X>
+        <Y>4582.549</Y>
+        <Z>36.979</Z>
       </Position>
       <Rotation>
         <X>0</X>
@@ -465,9 +436,9 @@
     <Marker>
       <Type>UpsideDownCone</Type>
       <Position>
-        <X>1705.77222</X>
-        <Y>3488.24146</Y>
-        <Z>36.08889</Z>
+        <X>2497.752</X>
+        <Y>4110.917</Y>
+        <Z>38.364</Z>
       </Position>
       <Rotation>
         <X>0</X>
@@ -492,9 +463,9 @@
     <Marker>
       <Type>UpsideDownCone</Type>
       <Position>
-        <X>2044.99866</X>
-        <Y>3066.93213</Y>
-        <Z>45.6226425</Z>
+        <X>1705.772</X>
+        <Y>3488.241</Y>
+        <Z>37.088</Z>
       </Position>
       <Rotation>
         <X>0</X>
@@ -519,9 +490,9 @@
     <Marker>
       <Type>UpsideDownCone</Type>
       <Position>
-        <X>903.7079</X>
-        <Y>2699.86475</Y>
-        <Z>39.82834</Z>
+        <X>2044.998</X>
+        <Y>3066.932</Y>
+        <Z>46.622</Z>
       </Position>
       <Rotation>
         <X>0</X>
@@ -546,9 +517,9 @@
     <Marker>
       <Type>UpsideDownCone</Type>
       <Position>
-        <X>307.4511</X>
-        <Y>2645.683</Y>
-        <Z>43.49405</Z>
+        <X>903.707</X>
+        <Y>2699.864</Y>
+        <Z>40.828</Z>
       </Position>
       <Rotation>
         <X>0</X>
