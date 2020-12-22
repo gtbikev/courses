@@ -18,12 +18,12 @@ This repository contains courses for [GT Bike V Mod](https://de.gta5-mods.com/sc
 | 26   | Gravelfondo                  | 24.0km/14.9mi | 227m/744ft  | M. Urech     | Gravel      | Gravel route through central & midwest area           |
 | 25   | Great Chaparral              | 9.8km/6.0mi   | 177m/580ft  | M. Urech     | Gravel      | Gravel route through Great Chaparral                  |
 | 31   | Hills and Valleys 8          | 11.2km/7.0mi  | 190m/623ft  | S. Gilbert   | Road        | Figure 8 course through Los Santos hills & valleys    |
-| 4    | Land Act Dam Loop            | 5.1km/3.2mi   | 88m/289ft   | R. Slaughter | Gravel,Road | Quick loop around Los Santos Pumping Station          | 
+| 4    | Land Act Dam Loop            | 5.1km/3.2mi   | 88m/289ft   | R. Slaughter | Gravel,Road | Quick loop around Los Santos Pumping Station          |
 | 2    | Los Santos Hills             | 13.7km/8.5mi  | 193m/633ft  | N. Matas     | Road        | Roads around Los Santos hills                         |
-| 30   | Los Santos Road Rally        | 49.1km/30.5mi | 468m/1535ft | SK. Yeatts   | Gravel,Road | -                                                     | 
-| 22   | Marlowe Vineyards            | 3.9km/2.4mi   | 80m/262ft   | M. Urech     | Trail       | Trails in Marlowe Vineyards                           | 
-| 9    | Mount Chilliad               | 9.9km/6.2mi   | 175m/574ft  | M. Urech     | Trail       | Trails around Mount Chilliad                          | 
-| 27   | Mount Josiah                 | 8.7km/5.4mi   | 89m/291ft   | C. Davi      | Gravel      | Lap around Mount Josiah                               | 
+| 30   | Los Santos Road Rally        | 49.1km/30.5mi | 468m/1535ft | SK. Yeatts   | Gravel,Road | -                                                     |
+| 22   | Marlowe Vineyards            | 3.9km/2.4mi   | 80m/262ft   | M. Urech     | Trail       | Trails in Marlowe Vineyards                           |
+| 9    | Mount Chilliad               | 9.9km/6.2mi   | 175m/574ft  | M. Urech     | Trail       | Trails around Mount Chilliad                          |
+| 27   | Mount Josiah                 | 8.7km/5.4mi   | 89m/291ft   | C. Davi      | Gravel      | Lap around Mount Josiah                               |
 | 24   | Mount Josiah & Alamo Sea     | 16.7km/10.4mi | 141m/463ft  | C. Davi      | Gravel,Road | Eight shaped route around Mount Josiah & Alamo Sea    |
 | 7    | Palomino Highlands           | 4.5km/2.8mi   | 76m/249ft   | A. Beck      | Road        | Roads in Palomino Highlands area                      |
 | 32   | Ports Oil Slick & Golf Stick | 19.7km/12.2mi | 175m/574ft  | S. Gilbert   | Road        | Route around ports, airport, oil fields & golf course |
@@ -33,7 +33,7 @@ This repository contains courses for [GT Bike V Mod](https://de.gta5-mods.com/sc
 | 19   | Senora Desert                | 8.0km/5.0mi   | 54m/177ft   | M. Urech     | Gravel      | Gravel route through Senora Desert                    |
 | 8    | Suburb Crit                  | 1.4km/0.9mi   | 6m/20ft     | A. Beck      | Road        | Loop in East Los Santos                               |
 | 5    | The Tourist                  | 16.0km/9.9mi  | 325m/1066ft | R. Slaughter | Road        | A sightseeing tour through Los Santos                 |
-| 3    | Tour Los Santos              | 30.1km/18.7mi | 533m/1750ft | N. Matas     | Road        | Big loop around Los Santos                            |
+| 3    | Tour Los Santos              | 29.7km/18.5mi | 257m/843ft  | N. Matas     | Road        | Big loop around Los Santos                            |
 | 6    | Vinewood Heights             | 7.8km/4.8mi   | 197m/646ft  | R. Slaughter | Road        | A hilly zigzag through ritzy Vinewood Heights         |
 | 17   | Vinewood Racetrack           | 1.0km/0.6mi   | 0m/0ft      | M. Mohan     | Gravel      | Loop on Vinewood racetrack                            |
 | 10   | West Coast                   | 12.1km/7.5mi  | 182m/597ft  | M. Urech     | Gravel      | Gravel route on the west coast                        |
