@@ -59,7 +59,7 @@ Enclosed you find some guidelines for contributing.
 * Don't update CHANGELOG, README or any files in the api folder. These files will be updated once a release will be done.
 * It's recommended to use GitHub [pull requests](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests) to submit new courses
 * Pull request must have the following files commited: course (.json) file, activity (.fit) file
-* Pull request must have the following metadata information in the comment: *course name, distance (km/mi), elevation (m/ft), author, description, notes*
+* Pull request must have the following metadata information in the comment: *course name, distance (km/mi), elevation (m/ft), author, category, description, notes*
 
 **Fixing issues**
 
@@ -67,7 +67,7 @@ Enclosed you find some guidelines for contributing.
 * Don't update CHANGELOG, README or any files in the api folder. These files will be updated once a release will be done.
 * It's recommended to use GitHub [pull requests](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests) to fix existing issues
 * Pull request must have the following files commited: *course (.json) file*, *activity (.fit) file*
-* Pull request must have the following metadata information in the comment: *course name, distance (km/mi), elevation (m/ft), author, description, notes*
+* Pull request must have the following metadata information in the comment: *course name, distance (km/mi), elevation (m/ft), author, category, description, notes*
 
 **Testing courses**
 
