@@ -1,5 +1,5 @@
 {
-  "ListVersion": 0.18,
+  "ListVersion": 0.19,
   "CourseList": [
     {
       "Id": 1,
@@ -7,7 +7,7 @@
       "Author": {
         "Name": "Makinolo (Nestor Matas)"
       },
-      "Description": "Gravel roads around Alamo Sea",
+      "Description": "Gravel roads around Alamo Sea.",
       "Notes": "",
       "Version": "0.14.0",
       "Type": [
@@ -25,9 +25,9 @@
       "Author": {
         "Name": "Matthias Urech"
       },
-      "Description": "Central roads in a figure 8 fashion",
+      "Description": "Escape the hustle and bustle of city life with a ride in the central county of Los Santos.",
       "Notes": "",
-      "Version": "0.7.0",
+      "Version": "0.19.0",
       "Type": [
         "bike"
       ],
@@ -41,9 +41,9 @@
       "Author": {
         "Name": "Matthias Urech"
       },
-      "Description": "Gravel route in Davis Quartz quarry",
+      "Description": "Take a spin around the terraced mining quarry of Davis Quartz.",
       "Notes": "",
-      "Version": "0.10.0",
+      "Version": "0.19.0",
       "Type": [
         "bike"
       ],
@@ -57,9 +57,9 @@
       "Author": {
         "Name": "Matthias Urech"
       },
-      "Description": "Roads in Los Santos harbor area",
+      "Description": "Explore the harbor area of Los Santos with warehouses, shipyards and container terminals.",
       "Notes": "",
-      "Version": "0.18.0",
+      "Version": "0.19.0",
       "Type": [
         "bike"
       ],
@@ -73,9 +73,9 @@
       "Author": {
         "Name": "Matthias Urech"
       },
-      "Description": "Roads in East Los Santos area",
+      "Description": "Discover the eastern part of Los Santos with smaller sub-districts and neighbourhoods.",
       "Notes": "",
-      "Version": "0.12.0",
+      "Version": "0.19.0",
       "Type": [
         "bike",
         "run"
@@ -90,9 +90,9 @@
       "Author": {
         "Name": "Matthias Urech"
       },
-      "Description": "Gravel route around El Burro Heights",
+      "Description": "Dig deep on the oil fields in the El Burro Heights area.",
       "Notes": "",
-      "Version": "0.9.0",
+      "Version": "0.19.0",
       "Type": [
         "bike"
       ],
@@ -106,7 +106,7 @@
       "Author": {
         "Name": "SK Yeatts"
       },
-      "Description": "-",
+      "Description": "Visit some of the scenic highlights of Los Santos with some good climbs and fast descents.",
       "Notes": "",
       "Version": "0.17.0",
       "Type": [
@@ -123,7 +123,7 @@
       "Author": {
         "Name": "SK Yeatts"
       },
-      "Description": "-",
+      "Description": "The course starts & ends at the Observatory and tours the central part of downtown Los Santos and the beach area past the pier.",
       "Notes": "",
       "Version": "0.17.0",
       "Type": [
@@ -139,9 +139,9 @@
       "Author": {
         "Name": "Matthias Urech"
       },
-      "Description": "Gravel route through fields of Grapeseed",
+      "Description": "Fuel your next ride with a tour through the fields of Grapeseed.",
       "Notes": "",
-      "Version": "0.8.0",
+      "Version": "0.19.0",
       "Type": [
         "bike",
         "run"
@@ -156,9 +156,9 @@
       "Author": {
         "Name": "Matthias Urech"
       },
-      "Description": "Gravel roads through central & midwest area",
+      "Description": "A great selection of gravel roads for an epic ride through the central & midwest area.",
       "Notes": "",
-      "Version": "0.16.0",
+      "Version": "0.19.0",
       "Type": [
         "bike"
       ],
@@ -172,9 +172,9 @@
       "Author": {
         "Name": "Matthias Urech"
       },
-      "Description": "Gravel route through Great Chaparral",
+      "Description": "Enjoy the best switchbacks up and down the hills of Great Chaparral.",
       "Notes": "",
-      "Version": "0.15.0",
+      "Version": "0.19.0",
       "Type": [
         "bike"
       ],
@@ -188,7 +188,7 @@
       "Author": {
         "Name": "Steven Gilbert"
       },
-      "Description": "Figure 8 course through Los Santos hills & valleys",
+      "Description": "Figure 8 course through Los Santos hills & valleys.",
       "Notes": "",
       "Version": "0.18.0",
       "Type": [
@@ -204,7 +204,7 @@
       "Author": {
         "Name": "Richard Slaughter"
       },
-      "Description": "Quick loop around Los Santos Pumping Station",
+      "Description": "Quick loop around Los Santos Pumping Station.",
       "Notes": "",
       "Version": "0.6.0",
       "Type": [
@@ -222,7 +222,7 @@
       "Author": {
         "Name": "Makinolo (Nestor Matas)"
       },
-      "Description": "Roads around Los Santos hills",
+      "Description": "Roads around Los Santos hills.",
       "Notes": "",
       "Version": "0.14.0",
       "Type": [
@@ -238,7 +238,7 @@
       "Author": {
         "Name": "SK Yeatts"
       },
-      "Description": "-",
+      "Description": "Gravel and tarmac roads through Los Santos.",
       "Notes": "",
       "Version": "0.17.0",
       "Type": [
@@ -255,7 +255,7 @@
       "Author": {
         "Name": "Matthias Urech"
       },
-      "Description": "Trails in Marlowe Vineyards",
+      "Description": "Taste the trails in Marlowe Vineyards. Use the brake to slow down to 30km/20mi on sharp  bends to avoid crashes.",
       "Notes": "",
       "Version": "0.11.0",
       "Type": [
@@ -271,7 +271,7 @@
       "Author": {
         "Name": "Matthias Urech"
       },
-      "Description": "Trails around Mount Chilliad",
+      "Description": "Get an adrenaline rush on the trails around Mount Chilliad. Use the brake to slow down to 30km/20mi on sharp bends to avoid crashes.",
       "Notes": "",
       "Version": "0.1.0",
       "Type": [
@@ -287,7 +287,7 @@
       "Author": {
         "Name": "Cassio Davi"
       },
-      "Description": "Lap around Mount Josiah",
+      "Description": "Lap around Mount Josiah.",
       "Notes": "",
       "Version": "0.17.0",
       "Type": [
@@ -304,7 +304,7 @@
       "Author": {
         "Name": "Cassio Davi"
       },
-      "Description": "Eight shaped route around Mount Josiah & Alamo Sea",
+      "Description": "Eight shaped route around Mount Josiah &  Alamo Sea.",
       "Notes": "",
       "Version": "0.13.0",
       "Type": [
@@ -321,7 +321,7 @@
       "Author": {
         "Name": "András Beck"
       },
-      "Description": "Roads in Palomino Highlands area",
+      "Description": "Roads in Palomino Highlands area.",
       "Notes": "",
       "Version": "0.17.0",
       "Type": [
@@ -338,7 +338,7 @@
       "Author": {
         "Name": "Steven Gilbert"
       },
-      "Description": "Route around ports, airport, oil fields & golf course",
+      "Description": "Route around ports, airport, oil fields & golf course.",
       "Notes": "The course crosses a railway line 4 times, at 6.3km (3.9mi), 17.7km (11mi), 18.4km (11.4mi) and 18.6km (11.6mi). The first 2 are managed by crossing barriers, so if you see them lowering, be prepared to stop. The last 2, as you enter the port are not, but I've never seen a train on them.",
       "Version": "0.18.0",
       "Type": [
@@ -354,9 +354,9 @@
       "Author": {
         "Name": "Matthias Urech"
       },
-      "Description": "Loop on Redwood Lights construction area",
+      "Description": "Build your fitness on Redwood Lights construction site.",
       "Notes": "",
-      "Version": "0.4.0",
+      "Version": "0.19.0",
       "Type": [
         "bike",
         "run"
@@ -371,9 +371,9 @@
       "Author": {
         "Name": "Matthias Urech"
       },
-      "Description": "Loop on Richman golf course",
+      "Description": "Take an exclusive lap on the Los Santos golf club.",
       "Notes": "",
-      "Version": "0.6.0",
+      "Version": "0.19.0",
       "Type": [
         "bike",
         "run"
@@ -388,9 +388,9 @@
       "Author": {
         "Name": "Matthias Urech"
       },
-      "Description": "Roads along route 68",
+      "Description": "Cruise on route 68 through rural desert areas and the small town of Harmony.",
       "Notes": "",
-      "Version": "0.5.0",
+      "Version": "0.19.0",
       "Type": [
         "bike",
         "run"
@@ -405,9 +405,9 @@
       "Author": {
         "Name": "Matthias Urech"
       },
-      "Description": "Gravel route through Senora Desert",
+      "Description": "Ride through Senora Desert, a great place to experience hot temperatures and to get lost.",
       "Notes": "",
-      "Version": "0.8.0",
+      "Version": "0.19.0",
       "Type": [
         "bike",
         "run"
@@ -422,7 +422,7 @@
       "Author": {
         "Name": "András Beck"
       },
-      "Description": "Loop in East Los Santos",
+      "Description": "Loop in East Los Santos.",
       "Notes": "",
       "Version": "0.17.0",
       "Type": [
@@ -439,7 +439,7 @@
       "Author": {
         "Name": "Richard Slaughter"
       },
-      "Description": "A sightseeing tour through Los Santos",
+      "Description": "A sightseeing tour through Los Santos.",
       "Notes": "",
       "Version": "0.6.0",
       "Type": [
@@ -455,7 +455,7 @@
       "Author": {
         "Name": "Makinolo (Nestor Matas)"
       },
-      "Description": "Big loop around Los Santos",
+      "Description": "Big loop around Los Santos.",
       "Notes": "",
       "Version": "0.14.0",
       "Type": [
@@ -471,7 +471,7 @@
       "Author": {
         "Name": "Richard Slaughter"
       },
-      "Description": "A hilly zigzag through ritzy Vinewood Heights",
+      "Description": "A hilly zigzag through ritzy Vinewood Heights.",
       "Notes": "",
       "Version": "0.6.0",
       "Type": [
@@ -488,7 +488,7 @@
       "Author": {
         "Name": "Madan Mohan"
       },
-      "Description": "Loop on Vinewood racetrack",
+      "Description": "Loop on Vinewood racetrack.",
       "Notes": "",
       "Version": "0.7.0",
       "Type": [
@@ -505,14 +505,15 @@
       "Author": {
         "Name": "Matthias Urech"
       },
-      "Description": "Gravel route on the west coast",
+      "Description": "Ride through Raton Canyon and along Zancudo River on the west coast.",
       "Notes": "",
-      "Version": "0.2.0",
+      "Version": "0.19.0",
       "Type": [
         "bike"
       ],
       "Category": [
-        "Gravel"
+        "Gravel",
+        "Road"
       ]
     },
     {
@@ -521,9 +522,9 @@
       "Author": {
         "Name": "Matthias Urech"
       },
-      "Description": "Gravel route on RON Alternates Wind Farm",
+      "Description": "Get some fresh air on RON Alternates Wind Farm.",
       "Notes": "",
-      "Version": "0.6.0",
+      "Version": "0.19.0",
       "Type": [
         "bike",
         "run"

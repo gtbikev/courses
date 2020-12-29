@@ -1,16 +1,43 @@
 # Courses - Changelog
 This changelog goes through all the changes that have been made in each release.
 
+## v0.19.0 (2020-12-30)
+
+**Updated Routes**
+
+* Central 8 (11.1km/6.9mi)
+* Davis Quartz (3.8km/2.4mi)
+* Docklands (17.1km/10.6mi)
+* East Los Santos (8.6km/5.3mi)
+* El Burro Heights (4.5km/2.8mi)
+* Grapeseed (4.1km/2.5mi)
+* Gravelfondo (24.0km/14.9mi)
+* Great Chaparral (9.8km/6.0mi)
+* Redwood Lights (2.0km/1.2mi)
+* Richman Golf (1.3km/0.8mi)
+* Route 68 (7.5km/4.7mi)
+* Senora Desert (8.2km/5.1mi)
+* West Coast (12.1km/7.5mi)
+* Windy Hills (9.6km/5.9mi)
+
+**Thank You!**
+
+Last but certainly not least, a big thank you to the following people who contributed:
+
+* Matthias Urech (update courses)
+
+---
+
 ## v0.18.0 (2020-12-09)
 
 **New Routes**
 
-* road_hills_and_valleys_8 (11.2km/7.0mi)
-* road_ports_and_golf (19.8km/12.3mi)
+* Hills and Valleys 8 (11.2km/7.0mi)
+* Ports Oil Slick & Golf Stick (19.8km/12.3mi)
 
 **Updated Routes**
 
-* road_docklands (17.0km/10.5mi)
+* Docklands (17.0km/10.5mi)
 
 **Thank You!**
 
@@ -25,12 +52,12 @@ Last but certainly not least, a big thank you to the following people who contri
 
 **New Routes**
 
-* gravel_mount_josiah (8.7km/5.4mi)
-* road_foothills (37.0km/23.0mi)
-* road_full_circle (48.2km/30.0mi)
-* road_palomino_highlands (7.0km/4.3mi)
-* road_santos_rally (49.0km/30.5mi)
-* road_suburb_crit (1.4km/0.9mi)
+* Foothills (37.0km/23.0mi)
+* Full Circle (48.2km/30.0mi)
+* Mount Josiah (8.7km/5.4mi)
+* Los Santos Road Rally (49.0km/30.5mi)
+* Palomino Highlands (7.0km/4.3mi)
+* Suburb Crit (1.4km/0.9mi)
   
 **Thank You!**
 
@@ -38,7 +65,7 @@ Last but certainly not least, a big thank you to the following people who contri
 
 * Cassio Davi (new course: Mount Josiah)
 * András Beck (existing course: Palomino Highlands, Suburb Crit)
-* SK Yeatts (new course: Foothills, Full Circle, Santos Rally)
+* SK Yeatts (new course: Foothills, Full Circle, Los Santos Road Rally)
 
 ---
 
@@ -46,7 +73,7 @@ Last but certainly not least, a big thank you to the following people who contri
 
 **New Routes**
 
-* gravel_gravelfondo (24.0km/14.9mi)
+* Gravelfondo (24.0km/14.9mi)
   
 **Thank You!**
 
@@ -60,7 +87,7 @@ Last but certainly not least, a big thank you to the following people who contri
 
 **New Routes**
 
-* gravel_great_chaparral (9.8km/6.0mi)
+* Great Chaparral (9.8km/6.0mi)
   
 **Thank You!**
 
@@ -74,9 +101,9 @@ Last but certainly not least, a big thank you to the following people who contri
 
 **New Routes**
 
-*  alamo_sea (9.9km/6.2mi)
-*  los_santos_hills (14.0km/8.7mi)
-*  tour_los_santos (30.1km/18.7mi)
+*  Alamo Sea (9.9km/6.2mi)
+*  Los Santos Hills (14.0km/8.7mi)
+*  Tour Los Santos (30.1km/18.7mi)
   
 **Thank You!**
 
@@ -90,7 +117,7 @@ Last but certainly not least, a big thank you to the following people who contri
 
 **New Routes**
 
-* gravel_mount_josiah_and_alamo_sea (16.7km/10.4mi)
+* Mount Josiah & Alamo Sea (16.7km/10.4mi)
   
 **Thank You!**
 
@@ -104,7 +131,7 @@ Last but certainly not least, a big thank you to the following people who contri
 
 **New Routes**
 
-* road_east_los_santos (8.8km/5.5mi)
+* East Los Santos (8.8km/5.5mi)
   
 **Thank You!**
 
@@ -118,7 +145,7 @@ Last but certainly not least, a big thank you to the following people who contri
 
 **New Routes**
 
-* mtb_marlowe_vineyards (3.8km/2.3mi)
+* Marlowe Vineyards (3.8km/2.3mi)
   
 **Thank You!**
 
@@ -132,7 +159,7 @@ Last but certainly not least, a big thank you to the following people who contri
 
 **New Routes**
 
-* gravel_davis_quartz (3.8km/2.4mi)
+* Davis Quartz (3.8km/2.4mi)
 
 **Thank You!**
 
@@ -146,7 +173,7 @@ Last but certainly not least, a big thank you to the following people who contri
 
 **New Routes**
 
-* gravel_el_burro_heights (4.7km/2.9mi)
+* El Burro Heights (4.7km/2.9mi)
 
 **Thank You!**
 
@@ -160,12 +187,12 @@ Last but certainly not least, a big thank you to the following people who contri
 
 **New Routes**
 
-* gravel_grapeseed (4.5km/2.8mi)
-* gravel_senora_desert (8.0km/5.0mi)
+* Grapeseed (4.5km/2.8mi)
+* Senora Desert (8.0km/5.0mi)
 
 **Bugfixes**
 
-* road_docklands - fix issue with waypoint 6.9km/4.2mi, rider turns right instead of going straight
+* Docklands - fix issue with waypoint 6.9km/4.2mi, rider turns right instead of going straight
 
 **Thank You!**
 
@@ -179,8 +206,8 @@ Last but certainly not least, a big thank you to the following people who contri
 
 **New Routes**
 
-* gravel_vinewoods_racetrack (1.0km/0.6mi)
-* road_central_8 (11.2km/6.9mi)
+* Central 8 (11.2km/6.9mi)
+* Vinewood Racetrack (1.0km/0.6mi)
 
 **Thank You!**
 
@@ -195,21 +222,21 @@ Last but certainly not least, a big thank you to the following people who contri
 
 **New Routes**
 
-* bmx_richman_golf (1.8km/1.1mi)
-* gravel_windy_hills (9.6km/6.0mi)
-* road_land_act_dam_loop (5.0km/3.1mi)
-* road_vinewood_heights (8.2km/5.1mi)
-* the_tourist (16.7km/10.4mi)
+* Land Act Dam Loop (5.0km/3.1mi)
+* Richman Golf (1.8km/1.1mi)
+* The Tourist (16.7km/10.4mi)
+* Vinewood Heights (8.2km/5.1mi)
+* Windy Hills (9.6km/6.0mi)
 
 **Thank You!**
 
 Last but certainly not least, a big thank you to the following people who contributed:
 
-* Chris Shackleton (testing Docklands course)
+* Chris Shackleton (testing Docklands)
 * Matthias Urech (new course: Richman Golf, Windy Hills)
-* Nick Bean (testing Docklands course)
+* Nick Bean (testing Docklands)
 * Richard Slaughter​ (new course: Land Act Dam Loop, The Tourist, Vinewood Heights)
-* Sadao Ikebe (testing West Coast course)
+* Sadao Ikebe (testing West Coast)
 
 ---
 
@@ -217,7 +244,7 @@ Last but certainly not least, a big thank you to the following people who contri
 
 **New Routes**
 
-* road_route_68 (7.3km/4.5mi)
+* Route 68 (7.3km/4.5mi)
 
 ---
 
@@ -225,7 +252,7 @@ Last but certainly not least, a big thank you to the following people who contri
 
 **New Routes**
 
-* bmx_redwood_lights (1.8km, 1.1mi)
+* Redwood Lights (1.8km, 1.1mi)
 
 ---
 
@@ -233,7 +260,7 @@ Last but certainly not least, a big thank you to the following people who contri
 
 **New Routes**
 
-* road_docklands (17.0km/10.5mi)
+* Docklands (17.0km/10.5mi)
 
 ---
 
@@ -241,7 +268,7 @@ Last but certainly not least, a big thank you to the following people who contri
 
 **New Routes**
 
-* gravel_west_coast (12.1km/7.5mi)
+* West Coast (12.1km/7.5mi)
 
 ---
 
@@ -249,4 +276,4 @@ Last but certainly not least, a big thank you to the following people who contri
 
 **New Routes**
 
-* mtb_mount_chilliad (10.0km/6.2mi)
+* Mount Chilliad (10.0km/6.2mi)
