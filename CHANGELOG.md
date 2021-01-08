@@ -1,6 +1,23 @@
 # Courses - Changelog
 This changelog goes through all the changes that have been made in each release.
 
+## v0.20.0 (2021-01-08)
+
+**New Routes**
+
+* Downtown (14.4km/8.9mi)
+* Motown - Less Country (19.3km/12.0mi)
+* Tracks, Terminals & Tarmac (33.1km/20.6mi)
+
+**Thank You!**
+
+Last but certainly not least, a big thank you to the following people who contributed:
+
+* Matthias Urech (new course: Downtown)
+* SK Yeatts (new course: Motown - Less Country, Tracks, Terminals & Tarmac)
+
+---
+
 ## v0.19.0 (2020-12-30)
 
 **Updated Routes**
@@ -43,8 +60,8 @@ Last but certainly not least, a big thank you to the following people who contri
 
 Last but certainly not least, a big thank you to the following people who contributed:
 
-* Steven Gilbert (new course: Hills & Valleys 8, Ports Oil Slick and Golf Stick)
 * Matthias Urech (update course: Docklands)
+* Steven Gilbert (new course: Hills & Valleys 8, Ports Oil Slick and Golf Stick)
 
 ---
 
