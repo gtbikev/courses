@@ -134,22 +134,6 @@
       ]
     },
     {
-      "Id": 29,
-      "Name": "Full Circle",
-      "Author": {
-        "Name": "SK Yeatts"
-      },
-      "Description": "The course starts at the Casino and then heads North to circle the Grapeseed area before ascending into the Vinewood hills and heading back through town to the Casino.",
-      "Notes": "",
-      "Version": "0.17.0",
-      "Type": [
-        "bike"
-      ],
-      "Category": [
-        "Road"
-      ]
-    },
-    {
       "Id": 36,
       "Name": "Franklin's Radio Tower Kom",
       "Author": {
@@ -158,6 +142,22 @@
       "Description": "Zig Zag up to the radio tower from Franklin's house, very steep at the top.",
       "Notes": "At the 6km mark the gps is off by 1 block but it corrects itself, can be heavy traffic so watch out!",
       "Version": "0.20.0",
+      "Type": [
+        "bike"
+      ],
+      "Category": [
+        "Road"
+      ]
+    },
+    {
+      "Id": 29,
+      "Name": "Full Circle",
+      "Author": {
+        "Name": "SK Yeatts"
+      },
+      "Description": "The course starts at the Casino and then heads North to circle the Grapeseed area before ascending into the Vinewood hills and heading back through town to the Casino.",
+      "Notes": "",
+      "Version": "0.17.0",
       "Type": [
         "bike"
       ],
