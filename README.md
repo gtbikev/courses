@@ -14,8 +14,7 @@ This repository contains courses for [GT Bike V Mod](https://de.gta5-mods.com/sc
 | 23   | East Los Santos              | 8.6km/5.3mi   | 113m/371ft  | M. Urech     | Road        | Discover the eastern part of Los Santos with smaller sub-districts and neighbourhoods.                                                                                                                                                                |
 | 20   | El Burro Heights             | 4.5km/2.8mi   | 118m/387ft  | M. Urech     | Gravel      | Dig deep on the oil fields in the El Burro Heights area.                                                                                                                                                                                              |
 | 28   | Foothills                    | 26.0km/16.1mi | 266m/872ft  | SK. Yeatts   | Gravel,Road | Visit some of the scenic highlights of Los Santos with some good climbs and fast descents.                                                                                                                                                            |
-| 29   | Full Circle                  | 48.7km/30.3mi | 240m/787ft  | SK. Yeatts   | Road        | The course starts at the Casino and then heads North to circle the Grapeseed area before ascending into the Vinewood hills and heading back through town to the Casino.                                                                               |
-| 36   | Franklin's Radio Tower Kom   | 22.8km/14.2mi | 400m/1312ft | R. Mitchell  | Road        | Zig Zag up to the radio tower from Franklin's house, very steep at the top.                                                                                                                                                                           |
+| 29   | Full Circle                  | 48.7km/30.3mi | 240m/787ft  | SK. Yeatts   | Road        | The course starts at the Casino and then heads North to circles the Grapeseed area before ascending into the Vinewood hills and heading back through town to the Casino.                                                                              |
 | 18   | Grapeseed                    | 4.1km/2.5mi   | 65m/213ft   | M. Urech     | Gravel      | Fuel your next ride with a tour through the fields of Grapeseed.                                                                                                                                                                                      |
 | 26   | Gravelfondo                  | 24.0km/14.9mi | 227m/744ft  | M. Urech     | Gravel      | A great selection of gravel roads for an epic ride through the central & midwest area.                                                                                                                                                                |
 | 25   | Great Chaparral              | 9.8km/6.0mi   | 284m/932ft  | M. Urech     | Gravel      | Enjoy the best switchbacks up and down the hills of Great Chaparral.                                                                                                                                                                                  |
@@ -84,7 +83,7 @@ Enclosed you find some guidelines for contributing.
 > **Test Setup**  
 > Course: Docklands  
 > Wahoo Kickr Core, 2018  
-> Mods: GT Bike V (0.4.1.2) 
+> Mods: GT Bike V (0.4.0.4) 
 > 
 > **Test Result**  
 > Everything works well, but there is an issue with waypoint 6.9km/4.2mi. Rider turns right instead of going straight.
