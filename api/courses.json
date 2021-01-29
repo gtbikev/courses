@@ -1,5 +1,5 @@
 {
-  "ListVersion": 0.19,
+  "ListVersion": 0.20,
   "CourseList": [
     {
       "Id": 1,
@@ -68,6 +68,22 @@
       ]
     },
     {
+      "Id": 35,
+      "Name": "Downtown",
+      "Author": {
+        "Name": "Matthias Urech"
+      },
+      "Description": "Take a city tour through downtown Los Santos.",
+      "Notes": "",
+      "Version": "0.20.0",
+      "Type": [
+        "bike"
+      ],
+      "Category": [
+        "Road"
+      ]
+    },
+    {
       "Id": 23,
       "Name": "East Los Santos",
       "Author": {
@@ -123,9 +139,25 @@
       "Author": {
         "Name": "SK Yeatts"
       },
-      "Description": "The course starts & ends at the Observatory and tours the central part of downtown Los Santos and the beach area past the pier.",
+      "Description": "The course starts at the Casino and then heads North to circle the Grapeseed area before ascending into the Vinewood hills and heading back through town to the Casino.",
       "Notes": "",
       "Version": "0.17.0",
+      "Type": [
+        "bike"
+      ],
+      "Category": [
+        "Road"
+      ]
+    },
+    {
+      "Id": 36,
+      "Name": "Franklin's Radio Tower Kom",
+      "Author": {
+        "Name": "Robin Mitchell"
+      },
+      "Description": "Zig Zag up to the radio tower from Franklin's house, very steep at the top.",
+      "Notes": "At the 6km mark the gps is off by 1 block but it corrects itself, can be heavy traffic so watch out!",
+      "Version": "0.20.0",
       "Type": [
         "bike"
       ],
@@ -263,6 +295,22 @@
       ],
       "Category": [
         "Trail"
+      ]
+    },
+    {
+      "Id": 33,
+      "Name": "Motown - Less Country",
+      "Author": {
+        "Name": "SK Yeatts"
+      },
+      "Description": "Course starts & ends at the Observatory and tours the central part of downtown Los Santos and the beach area past the pier. Use the brake to slow down to 30km/20mi before taking the right turn onto the pedestrian mall to avoid a crash.",
+      "Notes": "",
+      "Version": "0.20.0",
+      "Type": [
+        "bike"
+      ],
+      "Category": [
+        "Road"
       ]
     },
     {
@@ -458,6 +506,22 @@
       "Description": "Big loop around Los Santos.",
       "Notes": "",
       "Version": "0.14.0",
+      "Type": [
+        "bike"
+      ],
+      "Category": [
+        "Road"
+      ]
+    },
+    {
+      "Id": 34,
+      "Name": "Tracks, Terminals & Tarmac",
+      "Author": {
+        "Name": "SK Yeatts"
+      },
+      "Description": "This course starts at the terminal docks and lets you ride on some old decommissioned R&R tracks as well as cruising on the main runway at Airport before heading out of town for a short climb in the Vinewood hills and back to the terminal docks.",
+      "Notes": "",
+      "Version": "0.20.0",
       "Type": [
         "bike"
       ],
