@@ -1,6 +1,7 @@
 # Courses - Changelog
 This changelog goes through all the changes that have been made in each release.
 
+
 ## v20.0 (2021-01-30)
 
 **New Routes**
@@ -20,7 +21,7 @@ Last but certainly not least, a big thank you to the following people who contri
 
 ---
 
-## v19.0 (2020-12-30)
+## v0.19.0 (2020-12-30)
 
 **Updated Routes**
 
