@@ -1,5 +1,5 @@
 {
-  "ListVersion": 0.19,
+  "ListVersion": 20.0,
   "CourseList": [
     {
       "Id": 1,
@@ -9,7 +9,7 @@
       },
       "Description": "Gravel roads around Alamo Sea.",
       "Notes": "",
-      "Version": "0.14.0",
+      "Version": "14.0",
       "Type": [
         "bike",
         "run"
@@ -27,7 +27,7 @@
       },
       "Description": "Escape the hustle and bustle of city life with a ride in the central county of Los Santos.",
       "Notes": "",
-      "Version": "0.19.0",
+      "Version": "19.0",
       "Type": [
         "bike"
       ],
@@ -43,7 +43,7 @@
       },
       "Description": "Take a spin around the terraced mining quarry of Davis Quartz.",
       "Notes": "",
-      "Version": "0.19.0",
+      "Version": "19.0",
       "Type": [
         "bike"
       ],
@@ -59,7 +59,23 @@
       },
       "Description": "Explore the harbor area of Los Santos with warehouses, shipyards and container terminals.",
       "Notes": "",
-      "Version": "0.19.0",
+      "Version": "19.0",
+      "Type": [
+        "bike"
+      ],
+      "Category": [
+        "Road"
+      ]
+    },
+    {
+      "Id": 35,
+      "Name": "Downtown",
+      "Author": {
+        "Name": "Matthias Urech"
+      },
+      "Description": "Take a city tour through downtown Los Santos.",
+      "Notes": "",
+      "Version": "20.0",
       "Type": [
         "bike"
       ],
@@ -75,7 +91,7 @@
       },
       "Description": "Discover the eastern part of Los Santos with smaller sub-districts and neighbourhoods.",
       "Notes": "",
-      "Version": "0.19.0",
+      "Version": "19.0",
       "Type": [
         "bike",
         "run"
@@ -92,7 +108,7 @@
       },
       "Description": "Dig deep on the oil fields in the El Burro Heights area.",
       "Notes": "",
-      "Version": "0.19.0",
+      "Version": "19.0",
       "Type": [
         "bike"
       ],
@@ -108,12 +124,28 @@
       },
       "Description": "Visit some of the scenic highlights of Los Santos with some good climbs and fast descents.",
       "Notes": "",
-      "Version": "0.17.0",
+      "Version": "17.0",
       "Type": [
         "bike"
       ],
       "Category": [
         "Gravel",
+        "Road"
+      ]
+    },
+    {
+      "Id": 36,
+      "Name": "Franklin's Radio Tower Kom",
+      "Author": {
+        "Name": "Robin Mitchell"
+      },
+      "Description": "Zig Zag up to the radio tower from Franklin's house, very steep at the top.",
+      "Notes": "At the 6km mark the gps is off by 1 block but it corrects itself, can be heavy traffic so watch out!",
+      "Version": "20.0",
+      "Type": [
+        "bike"
+      ],
+      "Category": [
         "Road"
       ]
     },
@@ -125,7 +157,7 @@
       },
       "Description": "The course starts & ends at the Observatory and tours the central part of downtown Los Santos and the beach area past the pier.",
       "Notes": "",
-      "Version": "0.17.0",
+      "Version": "17.0",
       "Type": [
         "bike"
       ],
@@ -141,7 +173,7 @@
       },
       "Description": "Fuel your next ride with a tour through the fields of Grapeseed.",
       "Notes": "",
-      "Version": "0.19.0",
+      "Version": "19.0",
       "Type": [
         "bike",
         "run"
@@ -158,7 +190,7 @@
       },
       "Description": "A great selection of gravel roads for an epic ride through the central & midwest area.",
       "Notes": "",
-      "Version": "0.19.0",
+      "Version": "19.0",
       "Type": [
         "bike"
       ],
@@ -174,7 +206,7 @@
       },
       "Description": "Enjoy the best switchbacks up and down the hills of Great Chaparral.",
       "Notes": "",
-      "Version": "0.19.0",
+      "Version": "19.0",
       "Type": [
         "bike"
       ],
@@ -190,7 +222,7 @@
       },
       "Description": "Figure 8 course through Los Santos hills & valleys.",
       "Notes": "",
-      "Version": "0.18.0",
+      "Version": "18.0",
       "Type": [
         "bike"
       ],
@@ -206,7 +238,7 @@
       },
       "Description": "Quick loop around Los Santos Pumping Station.",
       "Notes": "",
-      "Version": "0.6.0",
+      "Version": "6.0",
       "Type": [
         "bike",
         "run"
@@ -224,7 +256,7 @@
       },
       "Description": "Roads around Los Santos hills.",
       "Notes": "",
-      "Version": "0.14.0",
+      "Version": "14.0",
       "Type": [
         "bike"
       ],
@@ -240,7 +272,7 @@
       },
       "Description": "Gravel and tarmac roads through Los Santos.",
       "Notes": "",
-      "Version": "0.17.0",
+      "Version": "17.0",
       "Type": [
         "bike"
       ],
@@ -257,12 +289,28 @@
       },
       "Description": "Taste the trails in Marlowe Vineyards. Use the brake to slow down to 30km/20mi on sharp  bends to avoid crashes.",
       "Notes": "",
-      "Version": "0.11.0",
+      "Version": "11.0",
       "Type": [
         "bike"
       ],
       "Category": [
         "Trail"
+      ]
+    },
+    {
+      "Id": 33,
+      "Name": "Motown - Less Country",
+      "Author": {
+        "Name": "SK Yeatts"
+      },
+      "Description": "Course starts & ends at the Observatory and tours the central part of downtown Los Santos and the beach area past the pier. Use the brake to slow down to 30km/20mi before taking the right turn onto the pedestrian mall to avoid a crash.",
+      "Notes": "",
+      "Version": "20.0",
+      "Type": [
+        "bike"
+      ],
+      "Category": [
+        "Road"
       ]
     },
     {
@@ -273,7 +321,7 @@
       },
       "Description": "Get an adrenaline rush on the trails around Mount Chilliad. Use the brake to slow down to 30km/20mi on sharp bends to avoid crashes.",
       "Notes": "",
-      "Version": "0.1.0",
+      "Version": "1.0",
       "Type": [
         "bike"
       ],
@@ -289,7 +337,7 @@
       },
       "Description": "Lap around Mount Josiah.",
       "Notes": "",
-      "Version": "0.17.0",
+      "Version": "17.0",
       "Type": [
         "bike",
         "run"
@@ -306,7 +354,7 @@
       },
       "Description": "Eight shaped route around Mount Josiah &  Alamo Sea.",
       "Notes": "",
-      "Version": "0.13.0",
+      "Version": "13.0",
       "Type": [
         "bike"
       ],
@@ -323,7 +371,7 @@
       },
       "Description": "Roads in Palomino Highlands area.",
       "Notes": "",
-      "Version": "0.17.0",
+      "Version": "17.0",
       "Type": [
         "bike",
         "run"
@@ -340,7 +388,7 @@
       },
       "Description": "Route around ports, airport, oil fields & golf course.",
       "Notes": "The course crosses a railway line 4 times, at 6.3km (3.9mi), 17.7km (11mi), 18.4km (11.4mi) and 18.6km (11.6mi). The first 2 are managed by crossing barriers, so if you see them lowering, be prepared to stop. The last 2, as you enter the port are not, but I've never seen a train on them.",
-      "Version": "0.18.0",
+      "Version": "18.0",
       "Type": [
         "bike"
       ],
@@ -356,7 +404,7 @@
       },
       "Description": "Build your fitness on Redwood Lights construction site.",
       "Notes": "",
-      "Version": "0.19.0",
+      "Version": "19.0",
       "Type": [
         "bike",
         "run"
@@ -373,7 +421,7 @@
       },
       "Description": "Take an exclusive lap on the Los Santos golf club.",
       "Notes": "",
-      "Version": "0.19.0",
+      "Version": "19.0",
       "Type": [
         "bike",
         "run"
@@ -390,7 +438,7 @@
       },
       "Description": "Cruise on route 68 through rural desert areas and the small town of Harmony.",
       "Notes": "",
-      "Version": "0.19.0",
+      "Version": "19.0",
       "Type": [
         "bike",
         "run"
@@ -407,7 +455,7 @@
       },
       "Description": "Ride through Senora Desert, a great place to experience hot temperatures and to get lost.",
       "Notes": "",
-      "Version": "0.19.0",
+      "Version": "19.0",
       "Type": [
         "bike",
         "run"
@@ -424,7 +472,7 @@
       },
       "Description": "Loop in East Los Santos.",
       "Notes": "",
-      "Version": "0.17.0",
+      "Version": "17.0",
       "Type": [
         "bike",
         "run"
@@ -441,7 +489,7 @@
       },
       "Description": "A sightseeing tour through Los Santos.",
       "Notes": "",
-      "Version": "0.6.0",
+      "Version": "6.0",
       "Type": [
         "bike"
       ],
@@ -457,7 +505,23 @@
       },
       "Description": "Big loop around Los Santos.",
       "Notes": "",
-      "Version": "0.14.0",
+      "Version": "14.0",
+      "Type": [
+        "bike"
+      ],
+      "Category": [
+        "Road"
+      ]
+    },
+    {
+      "Id": 34,
+      "Name": "Tracks, Terminals & Tarmac",
+      "Author": {
+        "Name": "SK Yeatts"
+      },
+      "Description": "This course starts at the terminal docks and lets you ride on some old decommissioned R&R tracks as well as cruising on the main runway at Airport before heading out of town for a short climb in the Vinewood hills and back to the terminal docks.",
+      "Notes": "",
+      "Version": "20.0",
       "Type": [
         "bike"
       ],
@@ -473,7 +537,7 @@
       },
       "Description": "A hilly zigzag through ritzy Vinewood Heights.",
       "Notes": "",
-      "Version": "0.6.0",
+      "Version": "6.0",
       "Type": [
         "bike",
         "run"
@@ -490,7 +554,7 @@
       },
       "Description": "Loop on Vinewood racetrack.",
       "Notes": "",
-      "Version": "0.7.0",
+      "Version": "7.0",
       "Type": [
         "bike",
         "run"
@@ -507,7 +571,7 @@
       },
       "Description": "Ride through Raton Canyon and along Zancudo River on the west coast.",
       "Notes": "",
-      "Version": "0.19.0",
+      "Version": "19.0",
       "Type": [
         "bike"
       ],
@@ -524,7 +588,7 @@
       },
       "Description": "Get some fresh air on RON Alternates Wind Farm.",
       "Notes": "",
-      "Version": "0.19.0",
+      "Version": "19.0",
       "Type": [
         "bike",
         "run"
