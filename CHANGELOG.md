@@ -1,7 +1,7 @@
 # Courses - Changelog
 This changelog goes through all the changes that have been made in each release.
 
-## v0.20.0 (2021-01-29)
+## v20.0 (2021-01-30)
 
 **New Routes**
 
@@ -20,7 +20,7 @@ Last but certainly not least, a big thank you to the following people who contri
 
 ---
 
-## v0.19.0 (2020-12-30)
+## v19.0 (2020-12-30)
 
 **Updated Routes**
 
@@ -47,7 +47,7 @@ Last but certainly not least, a big thank you to the following people who contri
 
 ---
 
-## v0.18.0 (2020-12-09)
+## v18.0 (2020-12-09)
 
 **New Routes**
 
@@ -67,7 +67,7 @@ Last but certainly not least, a big thank you to the following people who contri
 
 ---
 
-## v0.17.0 (2020-11-21)
+## v17.0 (2020-11-21)
 
 **New Routes**
 
@@ -88,7 +88,7 @@ Last but certainly not least, a big thank you to the following people who contri
 
 ---
 
-## v0.16.0 (2020-07-25)
+## v16.0 (2020-07-25)
 
 **New Routes**
 
@@ -102,7 +102,7 @@ Last but certainly not least, a big thank you to the following people who contri
 
 ---
 
-## v0.15.0 (2020-07-11)
+## v15.0 (2020-07-11)
 
 **New Routes**
 
@@ -116,7 +116,7 @@ Last but certainly not least, a big thank you to the following people who contri
 
 ---
 
-## v0.14.0 (2020-07-09)
+## v14.0 (2020-07-09)
 
 **New Routes**
 
@@ -132,7 +132,7 @@ Last but certainly not least, a big thank you to the following people who contri
 
 ---
 
-## v0.13.0 (2020-07-07)
+## v13.0 (2020-07-07)
 
 **New Routes**
 
@@ -146,7 +146,7 @@ Last but certainly not least, a big thank you to the following people who contri
 
 ---
 
-## v0.12.0 (2020-07-06)
+## v12.0 (2020-07-06)
 
 **New Routes**
 
@@ -160,7 +160,7 @@ Last but certainly not least, a big thank you to the following people who contri
 
 ---
 
-## v0.11.0 (2020-07-05)
+## v11.0 (2020-07-05)
 
 **New Routes**
 
@@ -174,7 +174,7 @@ Last but certainly not least, a big thank you to the following people who contri
 
 ---
 
-## v0.10.0 (2020-07-02)
+## v10.0 (2020-07-02)
 
 **New Routes**
 
@@ -188,7 +188,7 @@ Last but certainly not least, a big thank you to the following people who contri
 
 ---
 
-## v0.9.0 (2020-06-30)
+## v9.0 (2020-06-30)
 
 **New Routes**
 
@@ -202,7 +202,7 @@ Last but certainly not least, a big thank you to the following people who contri
 
 ---
 
-## v0.8.0 (2020-06-29)
+## v8.0 (2020-06-29)
 
 **New Routes**
 
@@ -221,7 +221,7 @@ Last but certainly not least, a big thank you to the following people who contri
 
 ---
 
-## v0.7.0 (2020-06-28)
+## v7.0 (2020-06-28)
 
 **New Routes**
 
@@ -237,7 +237,7 @@ Last but certainly not least, a big thank you to the following people who contri
 
 ---
 
-## v0.6.0 (2020-06-22)
+## v6.0 (2020-06-22)
 
 **New Routes**
 
@@ -259,7 +259,7 @@ Last but certainly not least, a big thank you to the following people who contri
 
 ---
 
-## v0.5.0 (2020-06-20)
+## v5.0 (2020-06-20)
 
 **New Routes**
 
@@ -267,7 +267,7 @@ Last but certainly not least, a big thank you to the following people who contri
 
 ---
 
-## v0.4.0 (2020-06-19)
+## v4.0 (2020-06-19)
 
 **New Routes**
 
@@ -275,7 +275,7 @@ Last but certainly not least, a big thank you to the following people who contri
 
 ---
 
-## v0.3.0 (2020-06-18)
+## v3.0 (2020-06-18)
 
 **New Routes**
 
@@ -283,7 +283,7 @@ Last but certainly not least, a big thank you to the following people who contri
 
 ---
 
-## v0.2.0 (2020-06-17)
+## v2.0 (2020-06-17)
 
 **New Routes**
 
@@ -291,7 +291,7 @@ Last but certainly not least, a big thank you to the following people who contri
 
 ---
 
-## v0.1.0 (2020-06-10)
+## v1.0 (2020-06-10)
 
 **New Routes**
 
