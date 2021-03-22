@@ -1,6 +1,14 @@
 # Courses - Changelog
 This changelog goes through all the changes that have been made in each release.
 
+## v21.0 (2021-02-26)
+
+**Changes**
+
+* Add Destination List for Freeride
+
+---
+
 ## v20.0 (2021-02-07)
 
 **New Routes**
