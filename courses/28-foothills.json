@@ -53,7 +53,8 @@
         "X": -195.1064,
         "Y": 4219.757,
         "Z": 44.40714,
-        "Routed": "False"
+        "Routed": "False",
+        "CloseByRange": 10
       },
       {
         "X": -133.8183,
