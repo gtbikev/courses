@@ -1,5 +1,5 @@
 {
-  "ListVersion": 21.0,
+  "ListVersion": 22.0,
   "CourseList": [
     {
       "Id": 1,
@@ -166,6 +166,23 @@
       ]
     },
     {
+      "Id": 39,
+      "Name": "Going Underground",
+      "Author": {
+        "Name": "Steven Gilbert"
+      },
+      "Description": "Take a trip through the Metro tunnels and sewers of Los Santos. Don't worry about getting your bike too dirty, as you finish at the car wash. Watch out for the Metro train.",
+      "Notes": "",
+      "Version": "22.0",
+      "Type": [
+        "bike"
+      ],
+      "Category": [
+        "Gravel",
+        "Road"
+      ]
+    },
+    {
       "Id": 18,
       "Name": "Grapeseed",
       "Author": {
@@ -231,6 +248,22 @@
       ]
     },
     {
+      "Id": 40,
+      "Name": "Hilly 8",
+      "Author": {
+        "Name": "Cassio Davi"
+      },
+      "Description": "Figure 8 course through Los Santos hills.",
+      "Notes": "",
+      "Version": "22.0",
+      "Type": [
+        "bike"
+      ],
+      "Category": [
+        "Road"
+      ]
+    },
+    {
       "Id": 4,
       "Name": "Land Act Dam Loop",
       "Author": {
@@ -242,6 +275,23 @@
       "Type": [
         "bike",
         "run"
+      ],
+      "Category": [
+        "Gravel",
+        "Road"
+      ]
+    },
+    {
+      "Id": 38,
+      "Name": "Los Santos Field Trip",
+      "Author": {
+        "Name": "SK Yeatts"
+      },
+      "Description": "Trip around Los Santos.",
+      "Notes": "",
+      "Version": "22.0",
+      "Type": [
+        "bike"
       ],
       "Category": [
         "Gravel",
@@ -360,6 +410,22 @@
       ],
       "Category": [
         "Gravel",
+        "Road"
+      ]
+    },
+    {
+      "Id": 37,
+      "Name": "Motorway Mayhem",
+      "Author": {
+        "Name": "Steven Gilbert"
+      },
+      "Description": "Cause some mayhem on the motorways, frenzy on the freeways, havoc on the highways or anarchy on the autobahns! Whatever you call them, take your 2 wheels where they are not usually allowed and cruise the motorways of Los Santos.",
+      "Notes": "",
+      "Version": "22.0",
+      "Type": [
+        "bike"
+      ],
+      "Category": [
         "Road"
       ]
     },
