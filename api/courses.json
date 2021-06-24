@@ -9,7 +9,7 @@
       },
       "Description": "Gravel roads around Alamo Sea.",
       "Notes": "",
-      "Version": "14.0",
+      "Version": "22.0",
       "Type": [
         "bike",
         "run"
@@ -75,7 +75,7 @@
       },
       "Description": "Take a city tour through downtown Los Santos.",
       "Notes": "",
-      "Version": "20.0",
+      "Version": "22.0",
       "Type": [
         "bike"
       ],
@@ -124,7 +124,7 @@
       },
       "Description": "Visit some of the scenic highlights of Los Santos with some good climbs and fast descents.",
       "Notes": "",
-      "Version": "17.0",
+      "Version": "22.0",
       "Type": [
         "bike"
       ],
@@ -306,7 +306,7 @@
       },
       "Description": "Roads around Los Santos hills.",
       "Notes": "",
-      "Version": "14.0",
+      "Version": "22.0",
       "Type": [
         "bike"
       ],
@@ -322,7 +322,7 @@
       },
       "Description": "Gravel and tarmac roads through Los Santos.",
       "Notes": "",
-      "Version": "17.0",
+      "Version": "22.0",
       "Type": [
         "bike"
       ],
@@ -355,7 +355,7 @@
       },
       "Description": "Course starts & ends at the Observatory and tours the central part of downtown Los Santos and the beach area past the pier. Use the brake to slow down to 30km/20mi before taking the right turn onto the pedestrian mall to avoid a crash.",
       "Notes": "",
-      "Version": "20.0",
+      "Version": "22.0",
       "Type": [
         "bike"
       ],
@@ -404,7 +404,7 @@
       },
       "Description": "Eight shaped route around Mount Josiah &  Alamo Sea.",
       "Notes": "",
-      "Version": "13.0",
+      "Version": "22.0",
       "Type": [
         "bike"
       ],
@@ -571,7 +571,7 @@
       },
       "Description": "Big loop around Los Santos.",
       "Notes": "",
-      "Version": "14.0",
+      "Version": "22.0",
       "Type": [
         "bike"
       ],
