@@ -1,6 +1,36 @@
 # Courses - Changelog
 This changelog goes through all the changes that have been made in each release.
 
+## v22.0 (2021-06-26)
+
+**New Routes**
+
+* Going Underground (11.8km/7.3mi)
+* Hilly 8 (13.8km/8.6mi)
+* Los Santos Field Trip (72.1km/44.8mi)
+* Motorway Mayhem (17.9km/11.1mi)
+
+**Updated Courses**
+
+* Alamo Sea (9.6km/6.0mi)
+* Los Santos Hills (13.7km/8.5mi)
+* Tour Los Santos (29.7km/18.5mi)
+* Mount Josiah & Alamo Sea (16.7km/10.4mi)
+* Foothills (26.0km/16.1mi)
+* Los Santos Road Rally (49.1km/30.5mi)
+* Motown - Less Country (19.3km/12.0mi)
+* Downtown (14.4km/8.9mi)
+
+**Thank You!**
+
+Last but certainly not least, a big thank you to the following people who contributed:
+
+* Cassio Davi (new course: Hilly 8, update courses: Alamo Sea, Los Santos Hills, Tour Los Santos, Mount Josiah & Alamo Sea, Foothills, Los Santos Road Rally, Motown - Less Country, Downtown)
+* SK Yeatts (new course: Los Santos Field Trip)
+* Steven Gilbert (new course: Going Underground, Motorway Mayhem)
+
+---
+
 ## v21.0 (2021-02-26)
 
 **Changes**
@@ -29,7 +59,7 @@ Last but certainly not least, a big thank you to the following people who contri
 ---
 ## v19.0 (2020-12-30)
 
-**Updated Routes**
+**Updated Courses**
 
 * Central 8 (11.1km/6.9mi)
 * Davis Quartz (3.8km/2.4mi)
