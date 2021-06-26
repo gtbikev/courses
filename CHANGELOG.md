@@ -25,7 +25,7 @@ This changelog goes through all the changes that have been made in each release.
 
 Last but certainly not least, a big thank you to the following people who contributed:
 
-* Cassio Davi (new course: Hilly 8, update course: Alamo Sea, Los Santos Hills, Tour Los Santos, Mount Josiah & Alamo Sea, Foothills, Los Santos Road Rally, Motown - Less Country, Downtown)
+* Cassio Davi (new course: Hilly 8, update course: Alamo Sea, Downtown, Foothills, Los Santos Hills, Los Santos Road Rally, Motown - Less Country, Mount Josiah & Alamo Sea, Tour Los Santos)
 * SK Yeatts (new course: Los Santos Field Trip)
 * Steven Gilbert (new course: Going Underground, Motorway Mayhem)
 
