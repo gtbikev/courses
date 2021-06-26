@@ -1,5 +1,5 @@
 {
-  "ListVersion": 21.0,
+  "ListVersion": 22.0,
   "CourseList": [
     {
       "Id": 1,
@@ -9,7 +9,7 @@
       },
       "Description": "Gravel roads around Alamo Sea.",
       "Notes": "",
-      "Version": "14.0",
+      "Version": "22.0",
       "Type": [
         "bike",
         "run"
@@ -75,7 +75,7 @@
       },
       "Description": "Take a city tour through downtown Los Santos.",
       "Notes": "",
-      "Version": "20.0",
+      "Version": "22.0",
       "Type": [
         "bike"
       ],
@@ -124,7 +124,7 @@
       },
       "Description": "Visit some of the scenic highlights of Los Santos with some good climbs and fast descents.",
       "Notes": "",
-      "Version": "17.0",
+      "Version": "22.0",
       "Type": [
         "bike"
       ],
@@ -162,6 +162,23 @@
         "bike"
       ],
       "Category": [
+        "Road"
+      ]
+    },
+    {
+      "Id": 39,
+      "Name": "Going Underground",
+      "Author": {
+        "Name": "Steven Gilbert"
+      },
+      "Description": "Take a trip through the Metro tunnels and sewers of Los Santos. Don't worry about getting your bike too dirty, as you finish at the car wash. Watch out for the Metro train.",
+      "Notes": "",
+      "Version": "22.0",
+      "Type": [
+        "bike"
+      ],
+      "Category": [
+        "Gravel",
         "Road"
       ]
     },
@@ -231,6 +248,22 @@
       ]
     },
     {
+      "Id": 40,
+      "Name": "Hilly 8",
+      "Author": {
+        "Name": "Cassio Davi"
+      },
+      "Description": "Figure 8 course through Los Santos hills.",
+      "Notes": "",
+      "Version": "22.0",
+      "Type": [
+        "bike"
+      ],
+      "Category": [
+        "Road"
+      ]
+    },
+    {
       "Id": 4,
       "Name": "Land Act Dam Loop",
       "Author": {
@@ -249,6 +282,23 @@
       ]
     },
     {
+      "Id": 38,
+      "Name": "Los Santos Field Trip",
+      "Author": {
+        "Name": "SK Yeatts"
+      },
+      "Description": "Trip around Los Santos.",
+      "Notes": "",
+      "Version": "22.0",
+      "Type": [
+        "bike"
+      ],
+      "Category": [
+        "Gravel",
+        "Road"
+      ]
+    },
+    {
       "Id": 2,
       "Name": "Los Santos Hills",
       "Author": {
@@ -256,7 +306,7 @@
       },
       "Description": "Roads around Los Santos hills.",
       "Notes": "",
-      "Version": "14.0",
+      "Version": "22.0",
       "Type": [
         "bike"
       ],
@@ -272,7 +322,7 @@
       },
       "Description": "Gravel and tarmac roads through Los Santos.",
       "Notes": "",
-      "Version": "17.0",
+      "Version": "22.0",
       "Type": [
         "bike"
       ],
@@ -305,7 +355,7 @@
       },
       "Description": "Course starts & ends at the Observatory and tours the central part of downtown Los Santos and the beach area past the pier. Use the brake to slow down to 30km/20mi before taking the right turn onto the pedestrian mall to avoid a crash.",
       "Notes": "",
-      "Version": "20.0",
+      "Version": "22.0",
       "Type": [
         "bike"
       ],
@@ -354,12 +404,28 @@
       },
       "Description": "Eight shaped route around Mount Josiah &  Alamo Sea.",
       "Notes": "",
-      "Version": "13.0",
+      "Version": "22.0",
       "Type": [
         "bike"
       ],
       "Category": [
         "Gravel",
+        "Road"
+      ]
+    },
+    {
+      "Id": 37,
+      "Name": "Motorway Mayhem",
+      "Author": {
+        "Name": "Steven Gilbert"
+      },
+      "Description": "Cause some mayhem on the motorways, frenzy on the freeways, havoc on the highways or anarchy on the autobahns! Whatever you call them, take your 2 wheels where they are not usually allowed and cruise the motorways of Los Santos.",
+      "Notes": "",
+      "Version": "22.0",
+      "Type": [
+        "bike"
+      ],
+      "Category": [
         "Road"
       ]
     },
@@ -505,7 +571,7 @@
       },
       "Description": "Big loop around Los Santos.",
       "Notes": "",
-      "Version": "14.0",
+      "Version": "22.0",
       "Type": [
         "bike"
       ],
