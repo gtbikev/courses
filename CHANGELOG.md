@@ -13,19 +13,19 @@ This changelog goes through all the changes that have been made in each release.
 **Updated Courses**
 
 * Alamo Sea (9.6km/6.0mi)
-* Los Santos Hills (13.7km/8.5mi)
-* Tour Los Santos (29.7km/18.5mi)
-* Mount Josiah & Alamo Sea (16.7km/10.4mi)
+* Downtown (14.4km/8.9mi)
 * Foothills (26.0km/16.1mi)
+* Los Santos Hills (13.7km/8.5mi)
 * Los Santos Road Rally (49.1km/30.5mi)
 * Motown - Less Country (19.3km/12.0mi)
-* Downtown (14.4km/8.9mi)
+* Mount Josiah & Alamo Sea (16.7km/10.4mi)
+* Tour Los Santos (29.7km/18.5mi)
 
 **Thank You!**
 
 Last but certainly not least, a big thank you to the following people who contributed:
 
-* Cassio Davi (new course: Hilly 8, update courses: Alamo Sea, Los Santos Hills, Tour Los Santos, Mount Josiah & Alamo Sea, Foothills, Los Santos Road Rally, Motown - Less Country, Downtown)
+* Cassio Davi (new course: Hilly 8, update course: Alamo Sea, Los Santos Hills, Tour Los Santos, Mount Josiah & Alamo Sea, Foothills, Los Santos Road Rally, Motown - Less Country, Downtown)
 * SK Yeatts (new course: Los Santos Field Trip)
 * Steven Gilbert (new course: Going Underground, Motorway Mayhem)
 
